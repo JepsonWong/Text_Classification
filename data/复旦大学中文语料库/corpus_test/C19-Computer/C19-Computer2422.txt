@@ -1,0 +1,129 @@
+������о��뷢չ
+JOURNAL OF COMPUTER RESEARCH AND DEVELOPMENT
+1999�ꡡ��36����11�ڡ�Vol.36��No.11��1999
+
+
+
+���ڷֲ�������������ģ��
+Ǯ�������ޡ������¡��塡�ơ���
+ժ��Ҫ��������еķֲ�����ģ�Ͳ��ܳ���������������ص㣬���л��ڷֲ�����Ĺ۵㣬���һ�������������ļ���ģ��HORIS.���������ʵ���ĸ������������񣬲���״̬�������״̬�������ֿ�����ͬʱ���̻��˷ֲ����㻷���е�����������ĸ���.��HORIS�Ļ���֮�ϣ����д�����һ���������Ĺ�����AMA������CORBAƽ̨�Ͻ�����ʵ��.�������������Ĺ�������ȣ������нӿڿ��š���Ӧ��ǿ���ܹ����칹�����Լ�����չ��ǿ���ŵ�.
+�ؼ��ʣ��ֲ����󣬿ͻ�/���������ֲ�����ģ�ͣ��������CORBA
+��ͼ������ţ�TP311
+A REDUNDANT SERVER MODEL BASED ON
+DISTRIBUTED OBJECTS
+QIAN Fang, ZOU Peng, CHEN Yu, and HUNAG Jie
+(Department of Computer Science, State Key Laboratory for Parallelism and Distribution,National University of Defense Technology, Changsha 410073)
+
+Abstract��In consideration of the drawbacks of the current distributed computing models, distributed object technologies are adopted in the present paper to provide a computing model HORIS for redundant servers. Redundant servers are definitely defined through the concepts of class and instance, and stateful servers are distinguished from stateless servers. Furthermore, the concepts of requests and hosts are abstracted from distributed computing environment in the model. Based on HORIS, management architecture AMA is created for redundant servers and its implementation is developed on the CORBA platform. Compared with other management architectures of redundant servers, AMA possesses the advantages of openness, adaptability, heterogeneity, and scalability. 
+Key words��distributed objects, client/server, distributed computing model, redundant servers, CORBA
+1��������
+�������ŷֲ����㼼���ķ�չ���ͻ�/����������ģʽ�𽥳�Ϊ�ֲ����������.���ڵ����������ķֲ����㻷������������ƿ���Ϳ��������⣬Խ��Խ���ϵͳ��1��4�ݲ��÷��������༼��.Ȼ�������еļ���ģ�Ͳ��ܳ�����������������ķֲ����㻷���������ף�5��ͨ��״̬���������ֲ����㻷�����������˸��ƺ�״̬һ���ԣ���û�в��ö���Ĺ۵㣻Core Legion����ģ�ͣ�6����Ȼ��ȫ���������������ģ����������Legionϵͳ������û�������������ĸ��ROMANCEģ�ͣ�1�������˸��ƶ��󣬵���ֻ�Ƕ����ݽ��з�װ��ʵ�ֵ��Ǳ���(passive)������Arjunaϵͳ��2���ж������Ƕ�׵��ã�����ֻʵ������״̬�ķ��񣬶���û�ж�������������ȷ�Ķ��壻�����ף�3�ݺ����ף�4���зֱ�Զ�����(object group)�ͶԵȷ���(equal service)�����˶��壬�����ǲ��ܳ�ֺ������������ص�.
+�����������������еķֲ�����ģ�ʹ������������⣺��1�����������û����ȷ�������Ͷ��壻��2���������ķ���������״̬������(stateful server)��7�ݣ���3����Ȼ��һЩϵͳ�������������Ĺ۵㣬��ʵ�ֵ��Ǳ�������.����������⣬���Ļ��ڷֲ�����Ĺ۵㣬���һ�������������ķֲ�����ģ��HORIS.���ڴ˻���֮�ϣ���CORBA(Common Object Request Broker Architecture)��8��ƽ̨��ʵ��һ�������������Ĺ�����AMA.
+2���������ģ��
+2.1�����˼·
+2.1.1����������
+�������ڶ�����з�װ�������úͼ̳е����ԣ���˱����ֲ�����ģ��������.�����еĶ���ģ�ͣ�1��3�ݴ�ֻ�����ݽ��з�װ��ʵ�ֵ��Ǳ�������ֻ�ܽ��ܶ�д��������ܷ�����������.��Щϵͳ�ж���ĸ���ֻʵ�����������࣬û��ʵ�ּ������࣬���ϵͳ�Ŀ����Ժ�������Ȼ��ƿ��.��ˣ����Ĳ�������(active)���������ֲ����㻷�������ǲ������û��ṩ״̬��Ϣ�������û��ṩ�������.
+2.1.2��״̬�������״̬����
+����״̬����ϵͳ״̬��װ���ڲ�ʵ�֣�����ķ�����֮��Ҫ��״̬����һ����ά����2��3��5��.���ſͻ�/������3��ģ�͵����У�Խ��Խ����м�������ֻ��װ��Ӧ���߼�����ʵ�ֵ�����״̬������(stateless server)��7��,���ǵ�״̬�ɵ�3������ݷ�����ʵ�֣���ͼ1��ʾ��.���Ľ�������Ϊ��״̬����״̬���ࣺһ��Ϊ�˷����������е�3��ͻ�/�������ṹ��������Ϊ״̬�������״̬����Ĺ�����Դ���ͬ.�����״̬������֮�䣬Ҫ��״̬����һ����ά��������״̬������������״̬һ����ά�������������Ǳ��뻥��ط��ʹ�����ⲿ״̬������һ������ֻ�ܱ�ִ��һ��.
+
+
+ͼ1���ͻ�/������3��ģ��
+2.1.3���������
+�������еķֲ�����ģ�ͳ������������ͶԵȷ��񡢸���(replicated)�������.���Ʒ�������������������ڣ����۷���״̬���ӿں�ʵ�ִ��룬���Ʒ�������ȫ��ͬ�ģ������������Ȼ�ܹ����û��ṩ��ͬ���ܵķ��񣬵����ǿ����в�ͬ��ʵ�֣���˿��Դ�һ���̶��ϱ�����������9��.���ף�3�ݡ���4�ݽ�������ͶԵȷ�����Ϊ������ͬ�ӿڵķ���Ȼ���ӿ���ͬ����һ�����������.���������A�е����ַ���������Ȼ�;�����B�е����ַ�����������ͬ�ķ���ӿڣ���������Ϊ��ͬ��Ŀ�껷�������ģ���������������.�����������������Ӧ�������¼������ԣ��� ��Ч�ԣ��������ʵ�ֵģ�����������ṩ�Ĺ�����ͬ���� �����ԣ���Ч�ķ��񲢲�һ���������������Ӧ������ͬһĿ�껷��.�������ĵ�Ч�Կ����÷���ӿڵ�һ�������������������Ժ���ȷ�еض���.�����������ʵ���ĸ�����Զ�����������һ�������������Խ��ж���.
+������HORISģ���У�ÿ���ͻ��ɼ��ķ��������һ�������࣬�����ж��ʵ��.ͬһ���������Ķ��ʵ����Ϊ����������Ǽ̳���ͬ�Ľӿڣ�������ṩ��ͬ���ܵķ���������ĳһ�ض���������ʵ������������д�����.��ͼ2��ʾ���������A��B�ֱ��Ǿ�����A��B�����ַ����������Ǽ̳�ͬһ���ַ��������ӿ���ͬ�ҶԿͻ��ɼ�.���У��������A������ʵ��A1��A2�����ǻ�Ϊ������񣬶Կͻ�͸��.�������B��ʵ��B1��Ȼ��A1��A2������ͬ�ķ���ӿڣ��������ǲ�ͬ��������ʵ������˲����������.
+
+
+ͼ2�����ַ�����
+2.1.4������
+�������������������ֿͻ��ͷ������ĸ����һ���������������󷢳�����ʱ�����ǿͻ������������������������ʱ������Ϊ������.��ˣ��ֲ����㻷���еĿͻ�/������ģ�Ϳɳ��������Ͷ���֮��ĵ���.���ң���Ϊ�ͻ������͸����񷽵���Ϣ���������ʱ������.���еļ���ģ��ͨ���÷�������ͽ��ս�������¼����̻�����Ȼ��Ҫά���������������״̬���񣩵�״̬һ���ԣ�ֻ������agreement��order����Ҫ���5�ݣ�����֤���������������ͬ��˳��������󼴿�.��ˣ����Ľ������ڽ��շ���������������ԭ�еķֲ�����ģ��.
+��������֮�⣬Ϊ����������ĸ�����������HORISģ���л������������ĸ���.��Ϊ�������ĸ���״���������������ڵ�ĸ���״�������ģ����Ҹ�������֮���ͨ�ſ����ܴ�̶��Ͼ����˷�������Ӧ�ͻ�������ٶ�.
+2.2���š���
+�����������������˼·�����Ĵӷֲ����㻷���г����5���������(host)���������(server object)����Ʒ��񡢶��󣩡�����(request)���������ʵ��(server object instance)����ƶ���ʵ����ʵ������״̬(state)�������HOIRSģ�ͣ����������������������ķֲ����㻷������ͼ3��ʾ��.������Core Legion����ģ�ͣ�6���и��������ļ̳й�ϵkind_of���Լ����ʵ��֮���ʵ������ϵis_a���������֮��Ĺ�ϵ.ϵͳ��Ψһ�Ļ���Object��Object��3�����ࣺServer Object, Host��Request���ֱ��Ӧ��ϵͳ�еķ����������������.���У�����������������ࣺStateful Object��Stateless Object���ֱ��Ӧ��ϵͳ�е�״̬�������״̬����.״̬������һ����������ࣺState Object�����൱����ǰ�ļ���ģ���еı�������.Stateful Object, Stateless Object��State Object�����Խ���ʵ������ͬһ�������ʵ����Ϊ�������.
+
+
+ͼ3��HORIS����ģ��
+2.3��ģ�Ͷ���
+��������ϵͳ���ڿɿ�ͨ�ţ�ÿ���ڵ���ÿ�ַ�������ʵ�����ֻ��һ��.����ÿ���ڵ����оֲ�ʱ�ӣ����Զ������������.
+����(1) ������Host={Oi|1��i��n}
+����HostΪϵͳ�����������ļ���. Hi��=��host_name, max_load, current_load����host_nameΪ������Ψһ��ʶ��max_loadΪ�����ĸ�����ֵ��current_loadΪ�����ĵ�ǰ����ֵ.
+����(2) �������Object={Oi|1��i��m}
+����ObjectΪϵͳ�пͻ��ɼ������з������ļ���.Oi��=��object_name, attributes, methods����object_name�Ƿ�������Ψһ��ʶ��attributes�Ƕ�������ԣ�methods�Ƕ���ķ��������ǹ��ɷ������Ľӿ�.
+����(3) �������ʵ����
+����INSTANCE��ϵͳ�����з�������ʵ���ļ���.���У�פ���ڽڵ�Hi������ʵ���ļ��ϣ�Insti={Iiik|1��k��mi}���������Oj����ʵ���ļ��ϣ�Instj={Ijjk|1��k��nj}. Iji��פ��������Hi�Ϸ������Oj��ʵ����Iji�� =��Hi, Oj, Shared-State, Private-State��.Shared-State��ͬһ��������ʵ��������������������״̬��������������Եȣ�Private-State�Ǹ���ʵ����˽��״̬����ʵ���ĸ���״���͵�ַ��.
+����(4) ״̬��
+����State��ϵͳ�����з������״̬�ļ��ϣ�Si�Ƿ������Oi��״̬.����״̬������ԣ���ͼ4(a)��ʾ����Si���ɸ���ʵ����������ⲿ״̬����ʵ�ֵģ���ˣ���Iij��Insti, ����Si��Iij.shared_state����״̬���������ԣ������ṩһ����ϵͳ֧�֣��綨�ڸ���״̬�ȣ���ʹ�÷������Oi����ʵ��Iij�Ĺ���״̬Shared-State���������״̬Si����һ�£���ͼ4(b)��ʾ��.
+
+
+ͼ4����״̬��������״̬������
+����(5) ����
+����REQUEST��ϵͳ����������ļ��ϣ�REQj�������������Oj���������ļ���.Ϊ�˱�֤������������״̬һ���ԣ�ϵͳ�Է��͸�ͬһ������������ȫ�������5�ݣ�REQj={Rji|1��i��qj}.���У�iΪ�������ţ�Rji��=��Ikh, Oj, method, type, instance_list��.Ikh�Ƿ�������Ŀͻ���ʵ����Oj���������Ķ������ͣ�method���������ķ�����type ����������ͣ�ͬ��synch���첽asynch��instance_list �Ǵ��������ʵ���б�.����ʵ�����Բ��ò�ͬ�Ļ�����Ӧ�ͻ���������active replication��passive replication�ȣ�2��. 
+3��������AMA����ʵ��
+3.1��������
+����������һ���������HORIS����ģ�ͣ����Ĵ�����һ�������������Ĺ�����AMA(Administrator-Manager-Agent)����ͼ5��ʾ��.
+
+
+ͼ5��AMA(Administrator-Manager-Agent)ϵͳ������
+����AMA�����ܲ���3���manager-agent����ṹ��ΪHOIRSģ���еı���������������������ʵ���������ṩ�˹���ӿ�.����Administrator��Manager��Agent 3������ɣ�
+����(1) Administrator����ϵͳ������Manager�Ĺ����ߣ��������ռ���ά��ȫ�ֵĹ�����Ϣ��ͬʱ������ϵͳ����Ա���ṩͼ���û����棬�Ա�ϵͳ����Ա��̬�ؼ��ӺͿ���ϵͳ��
+����(2) Manager������OM(object manager)��HM(host manager)����.���У�OM���������������ʵ����ͬʱҲ��Administrator�ı������ߣ�HMפ����ÿ�������ڵ��ϣ�����Administrator�ı��������Ҳ�Ǳ���Agent�Ĺ�����.OM��HM�����ռ���ά��ϵͳ�ֲ��Ĺ�����Ϣ��һ�����ṩ��ȫ�ֵ�Administrator����һ�������ϵͳ�ĸ���״����ʧЧ��Ϣ����̬���ȿͻ����󣬹����������
+����(3) Agent����Ϊ���࣬һ�����������RA(request agent)����Ϊ�����ṩ�˹���ӿڣ�����������ʹ�������������ú���ͶƱ����ѡ����ȷ������������������ȣ���һ���Ƿ���������SA(server agent)������ÿ������ʵ�ּ�ʵ��֮�ϣ������˹���ӿڣ���װ��ϵͳ�Ĺ�����ԣ��籾�صĸ��ط�ֵ�ȣ����Ӷ���Ч��ʵ����ϵͳ���Զ�������.
+3.2��ʵ����
+�������Ĳ���OMG��CORBA��8����Ϊϵͳ��ʵ��ƽ̨.CORBA��OMG��֯���ڶ����������ORB(object request broker)�ļ�����׼����Ϊ��ͬ���Ժ��칹ƽ̨�ϵĶ����ṩ�˻���������.���������õľ���ƽ̨�����ǿ�����StarBus�ֲ����㻷��������ѭCORBA2.0��׼.���˶��߳�ORB�⣬����Ϊ�û��ṩ��IDL�����������ַ����¼���������ö�������.
+������1�� Administrator��Ϊϵͳ�Ĺ������ʵ��.��һ����Ϊ�¼���Ķ���ʵ�ֻ���������OM��HM����һ���棬����ϵͳ����Ա�Ĳ�ѯ�Ϳ���.���Ľӿ���IDL�����������£�
+����������Interface Administrator: StatefulObject {
+��������typedef sequence��OM�� OMSeq��
+��������typedef sequence��HM�� HMSeq��
+��������OMSeq OMList��������//ϵͳ������OM�������õ��б�
+��������HMSeq HMList��������//ϵͳ������HM�������õ��б�
+��������OMSeq get_OMList()��
+��������objref create_OM(in string ObjName)�� //Ϊ������󴴽�������OM�������뵽OM�б���
+��������Delete_OM()��
+��������HMSeq get_HMList()��
+��������objref create_HM(in string HostName, in float CurrentLoad)������//Ϊ��������HM�������뵽HM�б���
+��������Delete_HM()������}
+������2�� HM����ά������ʵ����SA�����⣬����װ�������ĸ�����ֵ�͵�ǰ����ֵ.���У�ǰ������Administrator�ڴ���HMʱ���õģ�������������������פ��ʵ���Ķ��ٶ���̬�仯.HM�Ľӿ��������£�����
+����������Interface HM: StatefulObject {
+��������typedef sequence��SA�� SASeq��
+��������SASeq SAList�������� //����������ʵ����SA�б�
+��������float CurrentLoad��������//������ǰ����ֵ
+��������float MaxLoad������������//�����ĸ�����ֵ
+��������SASeq get_SAList()��
+��������add_SAList (objref SA)�� //��SA�Ķ������ü��뵽HM��SA�б���
+��������set_max_load (in float MaxLoad)��
+��������float get_max_load ()��
+��������set_current_load(in float CurrentLoad)��
+��������float get_current_load()������}
+������3�� OM����ά���������ʵ����SA�б�.���ȿ��Խ���Administrator�ĵ��ã�Ϊ����ʵ�ִ���SA��Ҳ�������´�����SA��������ע��.���Ľӿ��������£�
+����������Interface OM: StatefulObject {
+��������typedef sequence��SA�� SASeq�� 
+��������SASeq SAList��������//�������OM����ʵ����SA�б�
+��������SASeq get_SAList()��
+��������register_SA (objref SA)������//�´�����SA��OMע��
+��������objref create_SA(in string ObjName)������//Ϊ�������ʵ������SA�������뵽SA�б���
+��������Delete_SA()������}
+������4�� ͨ������IDL�������Ĺ��ܣ�SA��RA�����ڷ���������Skeleton�Ϳͻ�����Stub���Զ����ɣ�����Ҳ������ϵͳ����Աͨ��Administrator��GUI�����������.SA��װ�˶�������񣨼��������ʵ�����ľ��������ԣ���active replication��passive replication��ROWA(Read-Once-Write-All)��2�ݵ�.Ϊ��ʵ��ϵͳ�ĸ���ƽ�⣬���ǿ���ͨ����HM��ѯ�����ĵ�ǰ����״���������Ƿ��������д���.RAһ��������������ĸ���״����ͨ�ſ�����ѡ���ʵ���ʵ�����Ϳͻ�������һ���棬���Ը����������ʵ�������ؽ�����д���ͨ��acceptance-unit_test��ͶƱ���ƣ�9��ѡ����ȷ���.
+3.3����ع����Ƚ�
+�������ף�10��ͨ�����������Ĺ�����Service Manager�ֱ�פ���ڿͻ����ͷ��񷽣�ʵ�ֶ��������ķ�ɢ����.����ȱ����û������ֲ�����Ĺ۵㣬������칹ƽ̨�ϵķ����ܽ�����Ч�ع���ͬʱ���ڲ��÷�ɢ����ʽ������������֮����ҪЭ������ɹ������������ѶȺ͸��ӶȽϴ�. ROMANCE��1�ݺ�Arjuna��2��ϵͳͨ���������Ĺ۵���칹������з�װ���ܹ�����ϵͳ���칹�ķ�����Դ��������ֻ�ܶ�״̬������й����������ڹ���ϵͳ�����ض�ƽ̨������û������������ϵͳ�������Ŀ��Žӿ�.����Core Legion����ģ�ͣ�Legion��11�ݿ����˻���CORBAƽ̨�Ĺ����ܣ���ʵ�����칹�Ĺ���Ӧ��֮��Ļ��������������õ��ǻ�������/�����Ĳ��м���ģ�ͣ��޷��Ի��ڿͻ�/������ģ�͵����������й���. IBM��Component Broker��12�ݻ���CORBAƽ̨ʵ���˶��������Ĺ�������workload�����������ڿͻ�/������ģ�ͣ��ܹ����칹�����е����������й���������ȡ��ɢ����ģʽ�����������Ĺ�����פ���ڿͻ�������չORB�У�����û�����ֶ�״̬�������״̬����Ĺ������.
+����������������������������ȣ�����HORIS����ģ�͵Ĺ�����AMA���������ŵ㣺�� ͨ�����÷ֲ�����Ĺ۵㣬��������Դ��װ����������AMA���Զ��칹�����е����������й����� ͨ������CORBA��׼��Ϊʵ��ƽ̨�������ṩ���Žӿڣ�ʵ��AMAϵͳ����������ϵͳ֮��Ļ��������� AMA�����ܲ������������״̬���񣬻����Բ�ȡ��ͬ���Զ���״̬�����������й������н�ǿ����Ӧ�ԣ��� ����ȡmanager-agent����ģʽ�������������м��й�������������ϵͳ�Ĺ��������������˹���ĸ��Ӷ�.����֮�⣬����ȡ��νṹ��ʹ����ϵͳ���н�ǿ�Ŀ���չ�ԣ�ͬʱ��ͨ��administrator������Ϊϵͳ����Ա�ṩȫ�ֵĹ�����ͼ.
+4��������
+����������еķֲ�����ģ�͵�ȱ�ݣ����Ĳ��÷ֲ���������Ϊ�����������ķֲ����㻷��������һ���µĶ���ģ��HORIS.�Ƚ���ǰ�ķֲ�����ģ�ͣ������������ŵ㣺�� ��ȫ�����˷ֲ��������������������󣻢� �������ʵ���ĸ������������������ȷ�Ķ��壻�� ������״̬�������״̬���񣻢� ��������̻�ϵͳ�еĿͻ��ͷ��������������շ����������򣻢� �Է����Ӳ������������������������.����HORISģ�ͣ����ԶԷֲ����㻷���е�������������Ч�Ĺ����������ʵ����CORBAƽ̨�ϵĹ�����AMA.������һ�����������������еĶ���ģ�ͺ͹����ܵĻ���֮�ϣ������о��ֲ����㻷�������������ݴ�͸���ƽ�����.
+*������õ����ҡ����������ص���Ŀ��������.
+���߼�飺Ǯ����Ů��1973��������ʿ�о�������Ҫ�о�����Ϊ�ֲ������ϵͳ����.
+�����������������У�1958���������ڣ���ʿ����ʦ����Ҫ�о�����Ϊ����ϵͳ�ͷֲ�����.
+�������������壬�У�1972��������ʿ�о�������Ҫ�о�����Ϊ������ֲ�����.
+�����������ƽܣ��У�1976������˶ʿ�о�������Ҫ�о�����Ϊ�ֲ�����.
+���ߵ�λ��Ǯ�������ޡ������¡��塡�ơ��ܡ�������ѧ������ѧ�������ѧϵ��������ֲ������ص�ʵ���ҡ���ɳ��410073
+�ο�����
+1��Luic Rodrigues, Paulo Verissimo. The ROMANCE approach to replicated object management. In: Proc of the 4th Workshop on Future Trends of Distributed Computing System, Lisboa Patugal, 1993
+2��Little M et al. Object replication in arjuna. Computing Laboratory, University of Newcastle upon Tyne, Tech Rep: TR94-50, 1993
+3��Silvano Maffies. The object group design pattern. Cornell University, Tech Rep: TR-96-1185, 1996
+4��Ji Hua, Xie Li. A distributed computing model based on multiserver. ACM Trans on Operating System Review, 1996, 30(4): 3��11
+5��Schneider F B. Implementing fault-tolerance services using the state machine approach: A tutorial. ACM Computer Surveys, 1990, 22(4): 299��319
+6��Lewis M et al. The core legion object model. In: Proc of the 5th IEEE Int'l Symposium on High Performance Distributed Computing, 1996
+7��Silvano Maffies. Client/Server term definition. In: Hemmendinger D ed. Encyclopaedia of Computer Science. Zurich: International Thomson Computer Publishing, 1998
+8��Object Management Group. The Common Object Request Broker: Architecture and Specification Revision 2.2, 1998
+9��Somani A K, Vaidya N H. Understanding fault tolerance and reliability. IEEE Computer, 1997, 30(4): 45��50
+10��Jurgen Nehmer, Friedmann Mattern. Framework for the organization of cooperative services in distributed client-server systems. Computer Communication, 1992, 15(4): 261��269
+11��Andrew Grimshaw et al. Wide-area computing: Resource sharing on a large scale. Computer, May, 1999. 29��370
+12��Oren Gampel et al. Workload management. In: IBM Component Broker Connector Overview, June, 1998. URL: http://www. ibm. com /public /pubs /bookmgr /redbooks /sg242022.book 
+ԭ���յ����ڣ�1999-04-02���޸ĸ��յ����ڣ�1999-07-14.

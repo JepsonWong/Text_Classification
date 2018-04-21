@@ -1,0 +1,128 @@
+���ղ���ѧ��
+JOURNAL OF AERONAUTICAL MATERIALS
+1999�ꡡ��19����1�ڡ�Vol.19��No.1��1999
+
+
+
+DD402�����Ͻ���񼶵���
+����ҶƬ����֯�ȶ���
+�ࡡƽ�����������Ծ�����ʦ���塡��ǬҢ����һ����μ���
+
+ժҪ�� ��DD402(CMSX-2)�����Ͻ��׼�ȴ���״̬��֯��850����500hʱЧ��1500hʱЧ��3000hʱЧ�����֯��������΢��֯�۲�ͱȽϣ��ⶨ�˳���ʱЧ��ĸ��³־����ܣ�����������Ϻ��԰�����΢��֯��DD402�����Ͻ��Ӧ�ö�����ĳ���ᷢ����������ҶƬ�����ʷ����˾�800h�����Գ����ҶƬ��֯������������ڱ������鷶Χ�ڣ�������ҶƬ��֯�о�δ����TCP�࣬�á���̬�ȶ�������һ��ʱ��ĸ��º��㹻�ߵ�Ӧ���ۺ������£��á�ŷ������α仯��
+�ؼ��ʣ� �������ºϽ� ��������ҶƬ�� ��֯�ȶ��ԣ� DD402
+��ͼ����ţ� TG113.12�������ױ�ʶ�룺A���������±�ţ� 1005-5053(1999)01-0006-07
+
+Microstructural stability of single crystal superalloy
+DD402 and its 1st stage turbine blades
+YAN Ping����SHAN Xi����ZHAO Jing-chen����SHI Yan-yu
+HUANG Qian-yao����SUN Jia-hua����HE Ji-sui
+(1.Central Iron and Steel Research Institute, Beijing 100081, China;2.South China National Aeromotive Company, Zhuzhou 412002�� China)
+Abstract�� The microstructure was inspected and compared for DD402 single crystal superalloy under different conditions:standard heat treatment,850��/500h aging,850��/1500h aging and 850��/3000h aging.The high temperature stress-rupture properties for the specimens after long time aging and the microstructure of the ruptured specimens were examined.Also,the microstructure of DD402 single crystal turbine blade was analyzed after 800h engine unit_test.The results showed that there was no TCP phase in the microstructure either in the long time aging specimens or in the tested blades and the shape of �á� was stable.The �á� rafts formed just under a certain time with combinative effect of high temperature and sufficient stress.
+Key words: single crystal superalloy; single crystal turbine blade; microstructural stability; DD402
+����DD402�����Ͻ����ڵ�һ�������Ͻ��Ѿ��ɹ���Ӧ����ĳ�������Ģ�����ҶƬ��1�ݡ�Ϊʹ�ҹ����շ��������������Ƚ���������ˮƽ�������о���Ժ���Ϸ����ն�����е��˾��ͬ��չ��DD402�����Ͻ���񼶵�������ҶƬ�����ƹ�����Ŀǰ��ҶƬ��ͨ��800h�����Գ������ڲμ��Էɡ���Ϊ��Ҷ���ϵ���֯�ȶ���ֱ��Ӱ�췢�����Ŀɿ��Ժ����������������еĺϽ���֯�ȶ����о���������Ŀ�е���Ҫ���ݡ���DD402�����Ͻ����֯�����ܵ��о��϶��2��6�ݣ���������֯�ȶ��ԣ��ر��Ƕ��Գ�ҶƬ�Ľ��ʷ����о���δ��������Ϊ�ˣ�������������Ӧ������ʱЧ�ķ�������ֱ�ӽ��ʷ����˾�800h�Գ����ҶƬ��֯���Ի�ö�DD402�����Ͻ���֯�ȶ��Ե�׼ȷ��ʶ��
+1�����鷽��
+������IS5������ո�Ӧ¯����DD402ĸ�Ͻ��仯ѧ�ɷ�(wt%)Ϊ��Al5.56,Co4.66,Cr7.90,��Mo0.55,Ta5.89,��Ti1.03,W7.86,Ni��������������ѡ�������ƣ�001��ȡ��ĵ����԰��͵���ҶƬ��������ҶƬ���ȴ����ƶ�Ϊ��1315��/3h������+1080��/6h������+870��/20h������(���³Ʊ�׼�ȴ���)���Ծ���׼�ȴ����������ֱ����850���±���500h��1500h��3000h�ĳ���ʱЧ�������ߴ�Ϊ����14mm��15mm�ͪ���14mm��70mm��ǰ��ֱ��������Ͼ���������ҶƬ����״����ͬ�����Ա��о������˾�800h�����Գ���ĵ���ҶƬ����������ҶƬ���򣬼���001�ݷ��򡣿�����ҶƬ��ͬ�߶��ϵ���֯�仯��������ӳ��DD402�Ͻ𵥾�ҶƬ�ڷ��������������µĳ�����֯�仯�����
+2�������������
+2.1������ʱЧ�����΢��֯
+����DD402�����Ͻ�����̬����������/�á乲����̼�������׼�ȴ�������֯������ٷ���Ϊ68.89%���ߴ�Ϊ0.35��0.6��m�Ħá估Լ30%�Ħû������(ͼ1a)��ͼ1b��c,dΪ850�泤��ʱЧ�����΢��֯�������Ͻ����֯�ȶ��԰����Ƿ����TCP�༰�á���ı仯�����������н������о�δ����TCP�к��࣬������DD402�����Ͻ�����֯�ȶ�������ֻ�漰�á�����ȶ��ԡ���ͼ1������500hʱЧ�󣬦á䱣����ԭò��1500hʱЧ�󣬦á�Ĵ�С����δ�䣬�Ի���������������̬����3000hʱЧ�󣬦á�����Щ����ԭ�����εļ��������ЩԲ����������������ʹ��850�澭3000h��Ӧ������ʱЧ��DD402�Ͻ���֯��δ����TCP�࣬�����Φá������Ա仯���Ͻ��кܺõ���֯�ȶ��ԡ�
+
+
+ͼ1��DD402�����Ͻ���ʱЧ�����΢��֯
+��������������������������������(a)��׼�ȴ���
+��������������������������������(b)��׼�ȴ���+850��/500hʱЧ��
+��������������������������������(c)��׼�ȴ���+850��/1500hʱЧ��
+��������������������������������(d)��׼�ȴ���+850��/3000hʱЧ
+Fig.1��Microstructure of the alloy after long time aged
+����������������������������(a)standard heat treatment��
+����������������������������(b)standard heat treatment+850��/500h aged��
+����������������������������(c)standard heat treatment+850��/1500h aged��
+����������������������������(d)standard heat treatment+850��/3000h aged
+2.2������ʱЧ��ĳ־����ܼ�������������֯
+������1�г��˾�850�治ͬʱ��ʱЧ��ĳ־����ܡ��ɱ��֪������ʱЧʱ����ӳ���2���ƶȵĳ־����ܾ���500hʱЧʱ��ߣ�����ʱЧʱ��ļ����ӳ����־����������½�������ʹ����3000hʱЧ��������Ը��ڼ�������Ҫ��������֯�ı仯��һ�µģ������á���Ĵֻ������ںϽ�ĳ־����������������½��ĳ̶ȿ���DD402�Ͻ���֯�����㹻�ĳ����ȶ��ԡ�
+��1������ʱЧ�ԺϽ�־����ܵ�Ӱ��
+Table 1��Effect of long time aging on the stress-rupture properties of the alloy
+
+ConditionLife of stress-rupture/h
+(980��/260MPa)Life of stress-rupture/h
+(760��/780MPa)
+Specification��30��30
+Standard heat treatment72.4506.7
+Standard heat treatment+850��/500h aged119.9512.9
+Standard heat treatment+850��/1500h aged66.4309.4
+Standard heat treatment+850��/3000h aged57.1283.3
+
+
+���������ϵĳ־������ڿ����Ͽڴ�������(ƽ���ڣ�001�ݷ���)���ʺ�Ľ�����(ͼ2��ͼ3)���֣����ھ���ͬʱ�䳤��ʱЧ��������760��/780MPa�־����Ϻ���֯�Цá��Ա���������̬(ͼ2)��������980��/260MPa�־����������Ͼ������˦á�ķ���ת��(ͼ3)��
+
+
+ͼ2������ʱЧ��760��/780MPa�־�����������֯
+(a)850��/500hʱЧ�� (b)850��/3000hʱЧ
+Fig.2��Microstructure of the ruptured specimens(760��/780MPa) after long time aged
+(a)850��/500h aged; (b)850��/3000h aged
+
+ͼ3������ʱЧ��980��/260MPa�־�����������֯
+(a)850��/500hʱЧ��(b)850��/3000hʱЧ
+Fig.3��Microstructure of the ruptured specimens(980��/260MPa)
+(a)850��/500h aged;(b)850��/3000h aged
+
+�������֦á�ķ��λ��������Tien��7�ݵ����ڵ����Ͻ��о��з��ֵģ����־��ܶ��о��ߵĹ㷺�о��������Ѿ��Ԧá䷤�λ����γɹ����Լ��������ص�Ӱ������һ������ʶ��8��11�ݡ��á䷤�λ���ʵ������Ӧ�������µ���ɢ���̡�ʵ�ִ˹��̵ı�Ҫ�������㹻�ߵ��¶�ͬʱ�ܵ�һ���ĵ�������غɡ������������¶�Խ�ߣ��á䷤�λ��ٶ�Խ�죻��һ���¶��£�Ӧ��Խ�󣬦á�ķ��λ�����ҲԽ�졣����DD402���֦�/�á为�����͵����Ͻ��ڸ��������غ��£������Φá佫�ش�ֱ����������ֻ����ڱ������У���������ǰ�ĳ�ʼ��֯�������ڳ־�������¶Ȳ�̫��ʱ(760��)��ֱ�����ϣ��á䶼���ᷢ�����λ����������ڴ��¶Ȼ����������������ԭ����ɢ������980���£�����������50��Сʱ�����ϣ�����á����γ����Ƶķ�����֯��˵����ԭ����ɢ���̽��г�֣����¦á䷤�λ��ٶȺܿ졣���⣬�ԱȲ�ͬʱЧʱ�侭980��������������֯��δ���֦á�����Ӧ������(ƽ���ڣ�001��)�Ĵֻ���˵��DD402�����Ͻ��ڸ��������غ��£��á��ش�ֱ��Ӧ���᷽��ֻ�ʱ�����ȱ仯��С����һ�������������Ͻ���о����Ҳ��һ�µģ�12��13�ݡ�����DD402�����Ͻ�Ħá䷤�λ�ר�ŵĻ������о��������ķ����14�ݡ�
+2.3���Գ���ҶƬ���ʷ���
+��������800h�Գ��������������ͼ4��ʾ������ҶƬ�Ĺ۲첿λ��ͼ5��ʾ��ͼ6Ϊ800h�Գ���ҶƬ����΢��֯���Ӹ���λ����΢��֯���Կ���������ҶƬ����λ�Ĺ����¶ȼ�����Ӧ��ˮƽ�Ĳ�ͬ����΢��֯�����������졣��Ҷ���2/3�����á��ѷ��������Եķ��λ�ת�䡣���λ��ԽԶ���á�仯ԽС��Ҷ�⴦�á����г�����Ҷ���������Φá伸��δ�����仯�����⣬�Գ����ҶƬ��Ҳδ����TCP�ࡣ
+�������ݦá䷤�λ��Ļ���������������������ͣ���ҶƬ��2/3�����¶Ⱥܸߣ����ܴܺ�ĵ�����Ӧ�����γ���������Ԫ�ص�����ɢ���á䶨��ֻ������������յ����˦á�ķ��λ���Ҷ�⴦��Ȼ�¶Ⱥܸߣ���������С����������Ӧ��ʱЧ���������Ԧá�ֻ�����дֻ���δ�������λ���Ҷ�����ͷ�������ܴ󣬵��¶���Խϵͣ�Ҳ����ʹ�á䷤�λ������Գ�ҶƬ����֯������֪��DD402�����Ͻ���г�ֵ���֯�ȶ��ԡ�
+��������������������������������������������
+��������ͼ4��800h�Գ���Ģ����֡���������������������ͼ5��ҶƬ����ȡ����λ
+Fig.4��1st stage turbine assembly-DD402��������Fig.5��Sketch of the microstructural ��������blades after 800h engine unit_test����������position on the tested blade analysis
+
+
+
+ͼ6��800h�Գ���ҶƬ����λ(ͼ5)����֯
+Fig.6��Microstructure of the different positions(Fig.5) on the tested blade after 800h engine unit_test
+(a)position a;(b)position b;(c)position ��;(d)position c;(e)position d;(f)position ��
+
+3���ᡡ��
+����(1)DD402�����Ͻ�850��/3000h����ʱЧ���䵥��ҶƬ��800h�Գ������֯�о�δ����TCP�к��ࡣ
+����(2)DD402�����Ͻ�850��/3000h����ʱЧ�󣬦á����г��󣬺Ͻ�ĳ־����������½�������Ȼ�ܴﵽ����Ҫ��
+����(3)�Գ־�������������֯����֪������(760��)�־������á䱣��������ò������(980��)�־��������ɦá䷢�����α仯��
+����(4)���Գ��󵥾�ҶƬ�Ľ��ʷ�����֪��ֻ�����¶ȸߡ��������Ҷ���2/3��λ�������á��γ��˷�����֯��������λ����֯����û�з����仯��
+����(5)DD402�����Ͻ���г�ֵ���֯�ȶ��ԡ�
+���߼�飺 ��ƽ(1951-)�� �У� ˶ʿ�� �߼�����ʦ������֯���飬���߼ӹ��԰����־����ܣ�����������԰�����΢��֯�仯��
+���ߵ�λ����ƽ���������Ծ�����ʦ���塢��ǬҢ����һ��������о���Ժ���ң�����������������������100081�� 
+�����������μ��磺�й��Ϸ����ն�����е��˾�� ���ϡ����ݡ�412002
+�ο����ף�
+��1��Khan T,Caron P,Fourier D,et al.Single crystal superalloy for turbine 
+������blades:characterization and optimization of CMSX-2 alloy.11th Symposium:Steel 
+�������� Spesial Alloys for Aerospace,Paris Air Show Le Bourget,1985
+��2��Khan T,Caron P.Effect of processing conditions and heat treatment on mechanical 
+������properties of single crystal superalloy CMSX-2.Materials Science and 
+������Technology,1986,2(5):486��492
+��3��Khan T,Caron P,Nakagawa Y G.Some aspects of mechanical behaviour and 
+������processing in DS & single crystal superalloys.Journal of Metals,1986(7):16��19
+��4��Caron P,Khan T.Improvement of creep strength in a Ni-base single crystal 
+������superalloy by heat treatment.Materials Science and Engineering,1983,61:173��
+������184
+��5��Caron P,Ohta Y,Nakagawa Y G,et al.Creep deformation anisotropy in single 
+������crystal superalloy.Superalloys,1988,215��224
+��6��Foster S M,Nielsen T A,Nagy P.Enhanced rupture properties in advanced single 
+������crystal alloys.Superalloys,1988,245��254
+��7��Tien J K,Copley S M.The effect of uniaxial stress on the periodic morphology 
+��������of coherent gamma prime precipitates in nickel-base superalloy single 
+��������crystals.Metall Trans,1971,2:215��219
+��8��Khan T.High temperature alloys for gas turbine and other applications 
+��������1986.Betz W,ed.Holland:D Reidel Publishing Company,1986.21��50
+��9��Mackay R A,Ebert L J.The development of �á�/�� lamellar structures in a 
+������nickel-base superalloy during elevated temperature mechanical testing.Metall 
+������Trans,1985,16A:1969��1982
+��10��Mackay R A,Nathal M V.NASA TM-88788,National Technical Information 
+������Services,Springfield,VA,1986,1��37
+��11�ݹ�ϲƽ������־����һ�.�������ºϽ��Цá䷤����֯���γɼ�ת��.����ѧ����
+������1994��30(7)��A321��A326
+��12��Nathal M V,Ebert L J.The Influence of cobalt,tantalum and tungsten on the 
+������elevated temperature mechanical properties of single crystal nickel-base 
+������superalloys.Metall Trans,1985,16A:1863��1870
+��13��Pollock T M,Argon A S.Directional coarsening in nickel-base single crystals 
+������with high volume fractions of coherent precipitates.Acta Metall Mater,1994,42
+������(6):1859��1874
+��14����־������ңң���������.�����������ºϽ�CMSX-2�־��������΢��̬����ѧ��Ϊ.��
+��������ѧ����������
+
+���ո����ڣ� 1998-12-22

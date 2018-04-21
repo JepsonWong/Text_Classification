@@ -1,0 +1,65 @@
+�й������Ƽ�
+CHINA SPORT SCIENCE AND TECHNOLOGY
+1999�� ��35�� ��6�� Vol.35 No.6 1999
+
+
+
+����������Ӽ�ⷽ���о���չ
+���������顡��
+ժҪ����������(Anaerobic Capacity,AC)��ָ�˶�������ͨ��������л;���ṩATP�ļ����������������AC���ڿ�ѧ�ط��������ۻ�����������������Ч�ʣ����ѵ��Ч���Ⱦ�������Ҫ���塣�������شӷ���ѧ�Ͻ���AC�Ķ���ѧ������ѧ��⣬������Ҫ�������ٽ繦������(CPT)��ȫ���˶��������飬���Ѫ����ֵ��������ۻ�������(MAOD)�����������������������幤�����������Ӧ��������м�Ҫ�عˡ�
+�ؼ��ʣ����������ζ���ѧ��������ѧ���
+Indirect Measurement of Anaerobic Capacities in Humans
+Wang Jian��Hong Feng
+Abstract:Anaerobic capacity(AC) is defined as the maximal amount of ATP resynthesised via anaerobic metabolism during exercise, Measurement of AC in humans have important applications in the evaluation of human work capacity�� efficiency and training effects.This review focuses on the laboratory dynamic and physiological measures including critical power unit_test, all-out exercise unit_test, peak post-exercise blood lactate method and maximal accumulated oxygen deficit method.A brief discussion focus on the applications of above methods in the sports science research and practice was made in this paper.
+Key words:anaerobic capacity��dynamic measurement��physiological measurement
+����������л����(Anaerobic Capacity,AC)����ָ�˶������弡���������л����ϵͳ�ṩATP�ļ�������������������˶�Ա��AC���ڿ͹۵ط����������˶�Ա�������˶�����������˶�ѵ����Ч���Լ�����̽��AC���˶�ѵ������Ӧ���ɺ��ص��������Ҫ���塣Ŀǰ��AC�ļ�����ֱ�����Ӽ�������࣬ǰ����ָͨ�������취����ĳЩ������л��ز��������л����Ũ�ȡ���лø�����Լ��˶��������ȵĶ�������������ATP���ɵļ�������������������Ҫ���ݶԴ������������л״̬�µ��������������Լ��˶����ۻ��������������˶��󳥻���ծ�������Լ����Ѫ����Ũ�ȵļ������ӷ�ӳATP����������ֱ�Ӽ�ⷨ���漰�ļ���������豸���󡢲������̷����Ҿ���һ���̶����ˣ��ʺ����������о���ʹ�á��෴����Ӽ�ⷨ����м�㡢ʵ�á������˵��ص㣬�������������о�������Ϊֹ�����õ�AC��� ��ⷽ�������ָ�����ʵĲ�ͬ��Ϊ���࣬һ����ͨ����ȫ���˶���һ���Զ������ɺ�ϵ�ж����˶��������������ļ�����Ʋ�AC������AC�Ķ���ѧ��⣬��Ҫ����Wingate������������(Wingate anaerobic power unit_test)��������������(Anaerobic speed unit_test)���ٽ繦������(Critical power unit_test)�ȣ���һ������������˶�ʱ������������ۻ��������˶��󳥻�����ծ�Լ����Ѫ����Ũ�ȵļ�ⷴӳAC������AC������ѧ��⣬��Ҫ������ծ��(O2 debt)������ۻ�������(Maximal accumulated oxygen deficit,MAOD)�����Ѫ����Ũ�ȷ�(��Bla��max)��
+1��AC�Ķ���ѧ��⡪������������(Anaerobic work capacity,AWC)
+1.1���㶨��������(Constant-load unit_test,CLT)
+����CLTҪ������������Ӧ���˶����ɹ�����ά�ֺ㶨���ʵ��˶���ֱ������ά��Ϊֹ�����õ��˶����ɹ��߰����ܲ��������г������ƣ�ʹ�õ��������ͨ������max���˶����ɳ���ʱ��1 min���ҡ���õ�CLT�ǡ������������顱��������Ҫ����������20%�¶ȵ��ܲ�������Լ13 km/h���ٶȽ����˶������������ܹ�ά���˶���ʱ�䳤�����б�AWC���о����֣�ѵ�����صĶ����˶�Ա��AWC���Դ�����������Ŀ�˶�Ա�������˶�Ա�������˶�Ա��֤��AWC��ʵ���Ҽ�������˶�Ա��AC��һ�¡���Ҳ���о��۲쵽����������˶�Ա�����CLTʱ�ĳ���ʱ��ɳ���60��120 s����ʱ����������л�ṩ�������ѳ������ܺĵ�50%���ʴ��˶�ʱ���Ѳ�����׼ȷ��ӳAWC��ʹ�����г������Ƽ��AWCҲȡ�����ƽ�����������˶�Ա��AWC���Ը��������˶�Ա�����˵�AWC��400 m�ܳɼ��нϺõ������(r=0.08)��Ȼ����������ʹ���ܲ���������ʹ�����г���������Ϊ�˶����ɹ��ߣ����׼ȷ�ж������ߵĺĽ�һֱ�����Խ����ͬʱҲ��Ӱ��������һ����Ҫ���⡣������ˣ�CLTֻ������һ����ٳ��о���
+1.2��ϵ�к㶨��������(Serial constant-load unit_test,SCLT)
+���������˶����ɵĳ���ʱ�����˶�����ǿ�ȵĴ�С�йأ��Բ�ͬǿ���˶�������ʵ�飬�۲쵽�������������Щ�˶�����ʱ�ĳ���ʱ��(Tlim)������ۻ�������(Wlim)֮��������Ե����Թ�ϵ������
+��������������������Wlim=a+bTlim
+���У�б��b��ʾ�������ܹ���ƣ�͵ؽ��г�ʱ���˶����������ֵ����ӳ�����ߵ������������������ؾ�a���ʾAC�Ĵ�С��������Monod����1965�꽨���ͷ�չ�������ٽ繦������(Critical Power Test,CPT)��
+����CPT�ĸ��ɴ���ͨ��Ϊ4��5��������ǿ�ȵĴ�С���˶����ɳ���ʱ���ж������У�����˶�ǿ�ȵĸ���ʱ��ͨ��Ϊ1 min�����ǿ�ȵĸ���ʱ��Ϊ10 min�����ฺ��ǿ�ȵĳ���ʱ���������֮�䡣ÿ���˶����ɽ����󣬴����幦����ȫ�ָ����ٽ�����һ����ǿ�ȵ����顣CPT���õ��˶����ɹ���Ϊ���г������ƣ���60 rpmΪ��׼����Ƶ�ʣ����������ߵ�̤��Ƶ�ʵ���55 rpmʱ��������Ϊ�Ľߡ�
+����Monod��������Զ�������������ߵ��˶���Ѫ��������Wlin��aֵ��ȡ����⣬Moritan��Ҳ���Ƚ������߷ֱ�����20%��12%��9%�ĺ��������a��bֵ��Ӱ�죬��������������������Ӱ��b������Ӱ��a��Green�ȷ����������г��˶�Ա��aֵ��ͨ��ֱ�Ӳⶨ����õļ����ATP����(r=0.70)����������(r=0.73)�ͻ�������(r=0.71)�������������ء�����3���о���Ϊaֵ�����������ṩ����Ҫ��ʵ��֧�֡�CPT���ⲿЧ�ȱ�����aֵ����167 J.kg-1(��ѵ����)��267 J.kg-1(��ѵ����)֮�䣬�������˶���Ŀ�Ĵ�л�ص���һ�¡�ÿ��3�죬����8�ܵĶ���ѵ����ʹ�����ߵ�aֵ��13.4 kJ���ӵ�20.0 kJ���������ȸߴ�49%��֤��CPT�ܹ����еط�ӦAC�ı仯������������ӳAC��ָ��Ĺ�ϵ���棬Nebelsick��ͨ����25��Ů�������ߵ��о�������aֵ��Wingate�������������ܹ������ؾ�������ͳ��ѧ����(r=0.74)��Vandeoalle��ͨ����9��������ʦ���о�������aֵ��Wingate�������������ܹ����������(r=0.69��p��0.05)�����ǣ�Bulbulan������������һ�ݱ�����ȴ���֣�aֵ��Wingate�������������ܹ������������(rֵ����0.07��0.41��)����ָ����CPT��aֵֻ��һ�ӳ������������������ָ�꣬����������AC�����Լ23%����Ȼ��������Ŀǰ�о���Ϊ����ͳ��30 sȫ���˶���Wingate�����������鲻������޶ȵؼ����ǽͽ⹩�ܵĹ۵㡣����CPT��aֵ��Wingate����������Ҳ��������aֵ���ⲿЧ�ȡ�Ϊ�ˣ�Hill�ȸ�������ۻ�����(MAOD)������AC�ı�׼ָ�꣬ͨ�������ԵĹ��ʡ�ʱ��ģ�ͷ�̽����aֵ�ĵ�Чָ��W����MAOD��Ĺ�ϵ���о����֣�������(13��)��Ů(13��)�����ߣ����ǵ�W��ֵ��MAOD�����������ʼ��������ͳ�Ʋ��죬���Ҿ��нϺõ������(r:0.55��0.78)�����⣬���ڼ����Ҳ�����ڼ�ⷽ�����Ա�Ľ�������(F1��24��0.26��p��0.62)��Ϊ�ˣ�Hill����Ϊ��W����Զ�AC����׼ȷ�Ĺ��ơ�
+1.3��ȫ���˶���������(All-out exercise unit_test,AOET)
+����Ӧ��AOET���������AC�Ļ���ԭ����ͨ�������������л״̬�µĻ������������ļ���������ӷ�ӳAC�����ڸ��෽�������򵥣����ڿ��ƣ�����ʵ���н�Ϊ�ռ�����õ�AOET������ɫ��Wingate����ѧԺ��1977�꽨������չ��Wingate�����������飬�Լ����ͬ��һ��ġ�����ʱ�����40��120 s���ȫ���˶��������飬���õ�����ָ��Ϊƽ��������ʡ������������Լ���������½��ʡ��������Ļ����о���Ϊ��Wingate�������������нϺõ��ⲿЧ�ȣ���������ƽ���������ֵ���ٶ�����Ŀ���˶��ɼ�������Žϸ̶߳ȵĸ���ء����о�Ҳͬʱָ����ͨ��Wingate��������������������AC�д����²��㣺1) 30 s��ȫ���˶��в���������޶ȼ�����ԭ�������ͽ⹩�ܣ�2) ����������9��19%����������л��60��120 s��AOET���ڼ����ǽͽ⹩�ܷ�������30 s�˶��������˶�ʱ��������˶����ɵ�������л�����Ѿ������˸����Ա仯���ʴˣ�Ŀǰ���о���Ϊ����ͳ��Wingate���������������ʱ����40 sΪ�ѡ�
+2��AC������ѧ���
+2.1����ծ��(O2 debt method)
+����Ӧ����ծ�����������AC������֧����Hill��Margaria�ġ���ծ����ѧ˵���������˶��������Ƿ����ծ���Ķ����ܹ���ӳ�����˶���ͨ��������л�����ATP�����У���������ծ�Ĵ�С��ӦATP-PCϵͳ�ṩATP����������������ծ��С��ӳ�ǽͽ�ϵͳ�ṩATP��������50��70����䣬���������������ծ������������Ϊ����AC��һ����Ч�������������е�һϵ�л����о�����������ծ�����ڲ�Ч�ȣ������ⲿЧ�ȷ����δ�ṩ������֧�֡����磬����ͬλ��ʾ�ټ�����14C-����Ĵ�л�о��������˶������˶����������ͷ���ѪҺ�����ᣬ���˶������Ҫ��л�����Ǳ������������Ǳ����ºϳɼ���ԭ���ɴ˴Ӹ����϶���ծ�������ۻ�����������ծ����ѧ˵��������ɡ����⣬��ȷ�ļ����о�Ҳ���֣��˶�����ծ������ԶԶ�����˶��е�������������仯���ܶ���Ӱ��༤�صĴ�л�������á��������á�Ca++�����Լ���л�����������õ������йء����ⲿЧ�ȵ��о����棬Bangsbo���о�����PC�Ļָ���ռ��������ծ��Լ20%���ʼ����������ծ���ܶ�PC����������Ԥ�⡣Green���о����֣��ܲ����˶���ķ�������ծ��50��150 m���ܳɼ���������ͳ����أ���������ծ�������б�����Ϊ���ͬһ��ϰ�е�������50��100%�����޷���AC����׼ȷ���ơ�
+2.2�����Ѫ����ֵ��(Peak postexercise blood lactate method)
+�����Ի���������ɢ�ռ��ڵ������л����ѧ�о����֣��˶�ʱ����������ۻ������˶���Ѫ����Ũ�ȵĸߵ׳���������ء�������һ��ʵ������ѧ�߿�ʼ̽��Ӧ���˶�������Ѫ����ֵ���������AC�����ȣ�����ѧ���о����֣����Ѫ����ֵ�����������лΪ�����˶���Ŀ�ĳɼ�������������ĸ���أ���ʱ�䱬������Ŀ�˶�Ա�����Ѫ����ֵ����������Ŀ�˶�Ա�ͷ��˶�Ա�����ǣ�Ҳ��һЩ�о�ָ����Ӧ�����Ѫ����ֵ����AC�Ĳ���֮�������磬���ڴ�ǿ��ѵ����������˶��ɼ�����ȴ����������Ѫ����ֵ����ӳ���ַ���ȱ�����У�ָ��ȡѪ��ǰ�۾�����Ѫ����ֵ��Լ8%���ɾ���Ѫ����Ũ�Ƚ��⾲��Ѫ����Ũ�ȸ�Լ2������ӳ����Ũ�ȵĲⶨ��ȡѪ��λ��Ӱ�졣�������⣬Gastin�ȵ�һ���о������֣������������1 minȫ��̤�����������Ѫ����ֵ���Ը�����1.5��3.5 min���ɴﵽͬ��������ʵĶ������ɺ�����Ѫ����ֵ����������������������˶�ʱ������ֵ����ȵģ�˵�����Ѫ����ֵҲδ���ܹ���ȷ��Ӧ���������������о���Ŀǰ�Ĺ۵���Ϊ�����Ѫ����ֵ��Ҳ����Ԥ��AC�����뷽����
+2.3������ۻ�������(Maximal accumulated oxygen deficit,MAOD)
+����MAOD����Medbo����80���ĩ�ڽ����ͷ�չ��һ����������AC��Ӽ�ⷽ����MAODָ�������2��3 min������ǿ���˶�ʱ����ɸ����˶���������������ʵ�ʺ�����֮����У�ʵ�ʺ���������ͨ���Գ�����ǿ���˶�������-�˶�����ʱ���ϵ���߷��̽��ж����ֻ�ã���������ǿ���˶����������������ͨ���Ǽ����˶����������н����ĺ�����-�˶�ǿ�ȹ�ϵ�������ƻ�á�MAOD�������ۻ����ǣ�1)������ǿ���˶�����������������Ժ㶨�ģ�2)��ϰ������������ͨ��-�˶�ǿ�ȹ�ϵ���߻�á�
+����MAOD����Ľ��ͨ���������ľ���ֵ(O2L)�����ֵ(mlO2.kg-1����)��ʾ����ʵ����AC�����������о�������MAOD�ķֲ���Χ�ϴ������ֵ����33ml.kg-1(��ѵ����)��84ml.kg-1(��ѵ����)֮�䡣���У���������˶�Ա��MAODֵ(80��85ml.kg-1)���Ը�����������Ŀ�˶�Ա(50��65ml.kg-1)����������������л���нϸ�Ҫ��������˶�Ա��MAODֵ������������֮�䣬֤��MAOD���нϺõ����ֶȣ�MAODֵ��2��3 min��60 sȫ���˶��ɼ������ϵ������0.66��0.97֮�䣬��ӳ��MAODͬʱ���нϺõ��ⲿЧ�ȣ��С���ѵ�����ڽ�������ѵ����MAOD�������ӣ����ͬʱ���˶��ɼ�������������������ͬ��������Ӧ�仯��˵��MAOD������ѵ�����нϴ�������ԡ����������о�����õ���ʵ��Saltin���������ۣ���MAOD���������ܹ��������AC��Ωһ��Ч��������
+����Medbo���������������볣������͵�������(O2��13.5%)����MAOD���飬�����ʾ�����ߵ����������½���22%����MAODֵδ�����ı䡣Weyand�ȱȽ�����(11��)��Ů(9��)�������߷ֱ��Ե��Ⱥ�˫�Ƚ����˶���������ʱ��MAOD�����ֵ����˶���MAODֵԼΪ˫���˶���һ��(52%)�����һ�����MAODֵ���˶���������С������أ���Щ�о���ΪMAOD���ĺ����ԡ���ѧ���ṩ����Ҫ���ݡ������Weyand�Ȼ��Ƚ���Ӧ��MAOD�����Ѫ����ֵ����100 m��200 m��400 m��800 m��1��500 m��5��000 m�ܳɼ���Ԥ��Ч�����о������������ȻMAODֵ���ܲ��ɼ�����ж����(r��-0.04��-0.71)����MAOD���Գɼ�����Ľ����ʸߴ�44��50%�������Ѫ����ֵ��ֻ��21��26%�����⣬��Ԫ�ع���������������Ӧ��MAOD�ܹ���100��400 m �ɼ������Ϻ�Ԥ�⣬����400 m��������Ŀ��Ԥ��ϲ����MAOD���˶�ʵ�����нϴ��Ӧ�ü�ֵ��
+���߼�飺��1���ߣ�������37�꣬��ѧ��ʿ���㽭��ѧ����ϵ�����ң������ڡ�
+���ߵ�λ�������� (�㽭��ѧ����ϵ�����ݡ�310028)
+�����������顡�� (��������ʦ��ѧԺ��������100088)
+�ο�����
+��1��Green S.A definition and systems view of anaerobic capacity.Eur J Appl Physiol,1994(69):168��173
+��2��Green S.Mesurement of anaerobic work capacity in humans.Sports Med,1995,19(1):32��42
+��3��Green S.and Dason B.Measurement of anaerobic capacities in humans.Sports Med,1993,15(5):312��327
+��4��Cunningham D A,Faulkner J A.The effect of training on aerobic and anaerobic metabolim.Med Sci Sport,1968(1):65��69
+��5��Green S.Anthropometyic and physiological characteristics of south australian soccer player.Aus J Sci Med Sports,1992,24(1):3��7
+��6��Mckenzie D C��Parkhaus W S��Hearst W E.Anaerobic performance characteristics of elite Canadian 800 meter runners.Can J Appl Sports Sci,1982,7(3):158��160
+��7��Crielaare J M��Merken P,Franchimont P,et al.Evaluation de la capacite anaerobic lactique en athletisme.Med Sports,1986,60:239��244
+��8��Monod H,Scherrer J.The work capacity of synergic muscle group.Ergonomics,1965(8):329��338
+��9��Hill D W.The critical power concept:a review.Sport Med,1993,16(4):237��254
+��10��Moritani T A��Nagata H A��Devries H A,Muro M.Critical power as a measure of physical work capacity and anaerobic threshold.Ergonomics,1981,24:339��350
+��11��Jenkins D G��Quigley B M.The influence of hith-intensity exercise training on the Wlim-Tlim relationship.Med Sci Sports Exerc,1993,25(2):275��282
+��12��Mebelsick-Gullett L J��Horsh T J��Johnson G O��Bauge S M.A comparison between methods of measuring anaerobic work capacity.Ergonomics,1988,31:1413��1419
+��13��Vandewalle H��Peres G,Monod H.Standard anaerobic exercise unit_test.Sports Med,1987(4):268��289
+��14��Bulbulan R J��Jeong W��Murphy M.Comparison of anaerobic components of the Wingate and critical power tests in males and females.Med Sci Sports Exerc.1996,28:1336��1341
+��15��Hill D W��Smigh J.Acomparison of methods of estimating anaerobic work Capacity,Ergonomics,1993,36(12):1495��1500
+��16��Kavanagh M F��Jacobs I.Breath-by-breath oxygen consumption during performance of the Wingate unit_test.Can J Apps Sports Sci.1988,13:91��93
+��17��Gaesser G A.Metabolic bases of excess post-exercise oxygen consumption:a review.Med Sci Sports Exerc,1984,16:29��43
+��18��Bangsbo J,Gohnick P D,et al.Anaerobic energy production and O2 deficit-debt relationship during exhaustive exercise in humans.J Physiol,1990,422:539��559
+��19��Kose R J,Hodgson D R��et al.Maximun O2 debt and deficit and muscle metabolites in thorouhgbred horse.J Appl Physiol,1988,64:781��788
+��20��Nevill M E,Boobis L H��et al.Effects of training on muscle metabolism during treadmill sprinting.J Appl Physion,1989,64:2376��2382
+��21��Foxdal P,Sjodin B��et al.Lactate concentration defferences in plasma,whole blood,capillary finger blood and erythrocytes during submaximal graded exercise in humans.Eur J Appl Physios,1990,61:218��222
+��22��Gastin P,Krzeminski K��et al.Accumulated oxygen deficit during isokinetic all-out and constant load supra maximal exercise.8th Biennial conference on cardiovascular and Kespiratiry Responses to exercise in healty and disease,University of Sydney,1991
+��23��Medbo J I��Mohn A C��et al.Anaerobic capacity determined by maximal accumulated O2 deficit.J Appl Physiol,1988,64:50��60
+��24��Weyand P G��Cureton K J��et al.Deak oxygen during one and two legged cycling in men and women.Med Sci Sports Exerc.1993,25(5):584��591
+��25��Weyand P G��Cureton K J��et al.Peak oxygen deficit predicts sprint and middle-distance track performance.Med Sci Sports Exerc,1994,26(9):1174��1180
+(�ո����ڣ�1998-10-05)

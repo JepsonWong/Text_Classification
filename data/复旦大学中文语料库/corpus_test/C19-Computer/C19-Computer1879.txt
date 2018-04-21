@@ -1,0 +1,118 @@
+΢�ͻ���Ӧ��
+MICROCOMPUTER & ITS APPLICATIONS
+2000��Vol.19��No.4��P.14-16
+
+
+
+���ڣңģӿؼ������ģף�����ݿ�Ӧ��
+�ֽ�
+ժ Ҫ�� ʹ�ãңģӿؼ����ʣף�����ݿ�Ļ�������������ͼ�����ϵͳΪ��˵������Ӧ�ã���󽫴��ַ�������ӣз��������˱Ƚϡ�
+�ؼ��ʣ� �ңģӿؼ� �ף�����ݿ� ���ӣз��� �ȣԣͣ��ĵ�
+����Ŀǰ��ʵ��Web���ݿ���ʴ��¿ɷ�Ϊ2�ࣺһ������Web������Ϊ�н飬�������������Դ�����������ڷ�������ִ�ж����ݿ�ķ��ʣ�����������ݸ��ͻ������������ASP��CGI�ȷ�������һ���ǰ����ݿ����ص��ͻ����ˣ��ڿͻ�����ִ�нű�Ӧ�ó���ʵ�ֶ����ݿ�ķ��ʲ�����Ȼ���ٰ�����д�ص�Web���ݿ��С���Microsoft�Ƴ������ݰ󶨣�Data Binding��������������IE4��0һ�𷢲���2��Active X�ؼ���RDS��Remote Data Services��Զ�����ݷ��񣩺�TDC��Tabular Data Control�����ʽ���ݿؼ�����RDS��ʵ��������ԽInternet�����ݴ�ȡ�������ڷ���ODBC����Դ�е����ݣ�TDC���ڷ����ı��ļ��е����ݡ�
+�����������Ƚ�����ʹ��RDS�ؼ�����Web���ݿ�Ļ���������Ȼ��ͨ��ʵ������������RDS�ؼ�ʵ�ֶ�Web���ݿ�ĸ��ġ�ɾ������ӵȲ�������󽫴��ַ���Web���ݿ�ķ�����ASP���������˱Ƚϡ�
+1��ʹ��RDS�ؼ�����Web���ݿ�
+��������RDS�ؼ�ʵ�ֶ�Web���ݿ�ķ�����ͼ1��ʾ��
+
+ͼ1��RDS�ؼ���Web���ݿ�ķ���
+���������ִ��ĳһHTML�ĵ�ʱ�������Ҫ����Web���ݿ⣬����ͨ��RDS�ؼ���Web��������IIS��PWS����ODBC�����������ݿ⽨�����ӣ���ȡWeb���ݿ���йؼ�¼����Recordset�����У�Ȼ����һ�ݲ��ṩ���ݲ��������ڿͻ�����ʵ�ֶ�Web���ݿ�Ĳ�������ѯ�����ġ�ɾ������ӵȣ�������һ�׶Σ���ʹWeb���ݿ��е����������䶯���ͻ����˵�����Ҳû�б䶯�����ͻ��˶����ݿ������Ϻ󣬵���RDS��Submitchanges�������޸ĺ����ݲŻ�д�ص�Web���ݿ��С�
+����1��RDS�ؼ���ʹ�ü��������Ժͷ���
+������HTML�ĵ���ʹ��RDS�ؼ���Ҫ��HTML�ģ�OBJECT����ǡ��磺
+������object classid����clsid��BD96C556��65A3��11D0��983A��00C04FC29E33�� id��unit_test��
+����������param name����server��value����http������server���壾
+����������param name����connect��value����dsn��tsk��uid��su��per��pwd��pj�壾
+����������param name����sql�� value����select * from ͼ���壾����object��
+����testΪRDS���������䳣��������Server��Connect��Sql��Server��������ָ��Web��������IP��ַ��������Connect��������ODBCָ�����ӵ����ݿ⣻Sql������Ҫ���еĽṹ��ѯ����ָ����⻹��ExecuteOptions��ReadyState���ԣ�������Ҫ�����������ݿ�ʱ�ȴ��Ŀ��ơ�
+����RDS����ĳ��÷�����3����Refresh��Submitchanges��CancelUpdata��
+����Test��Refresh������������Web���ݿ��е����ݣ�
+����Test��Submitchanges���������ݿ�����޸ĺ󣬽���������д��Web���ݿ��У�
+����Test��CancelUpdata��ȡ�����жԼ�¼����Recordset�����еĲ�����
+����2��Recordset����ĳ������Ժͷ���
+����Ϊ��ʵ�ֶ�Web���ݿ��е����ݼ�¼���в�������������Recordset����ĳ������Ժͷ�����
+����Recordset��Fields��Count��Recordset���ֶ���
+����Recordset��i����Name����i���ֶ�����
+����Recordset�����ֶ���������ָ���ֶεļ�¼��
+����Recordset��Movefirst��ָ���1����¼��
+����Recordset��Moveprevious��ָ��ǰ1����¼��
+����Recordset��Movelast��ָ�����1����¼��
+����Recordset��Next��ָ����1����¼��
+����Recordset��delete��ɾ����ǰ���ݼ�¼��
+����Recordset��Addnew������µ����ݼ�¼��
+����Recordset��Update�����µ�ǰ���ݼ�¼��
+2��Ӧ�þ���
+����ͼ�����ϵͳһ���Ϊ��¼�����ġ����顢��ѯ��ԤԼ�Ȳ��֡������Ե�¼���ͼ���Ϊ����˵������RDS�ؼ�����Web���ݿ�ķ�����
+����1���ڷ������ˣ�����Microsoft Access������1����⣮mdb���ڿ����½�1��ͼ�����ڿ������ODBC���û�DSN�У�����1������Դ��tsk����⣮Mdb��ӳ�䡣
+����2������RDS���ݿؼ���
+������object classid����clsid��BD96C556��65A3��11D0��983A��00C04FC29E33�� id��unit_test��
+������param name����server�� value����http������server���壾
+������param name����connect�� value����dsn��tsk��uid��super��pwd��pj�壾
+������param name����sql�� value����select��*��from ͼ���壾
+������object��
+����3��RDS�ؼ���HTML��ǵ�����ʹ�á�������RDS���ı�����������ʹ�á�
+����ͼ���ţ�input type��text datasrc���䣣test�� datafld����ͼ���š�size��10 id��tsbh����br��
+����ͼ�����ͣ�input type��text datasrc���䣣test�� datafld����ͼ�����͡�size��10 id��tslx����br��
+����������input type��text datasrc���䣣test��datafld����������size��30 id��sm����br��
+�������ߣ�input type��text datasrc���䣣test��datafld������ߡ�size��8 id��bz����br��
+�����۸�input type��text datasrc���䣣test��datafld����۸��size��10 id��jg����br��
+���������磼input type��text datasrc���䣣test��datafld����������size��20 id��cbs����br��
+�����������ڣ�input type��text datasrc���䣣test��datafld����������ڡ�size��12 id��cbrq����br��
+�������������input type��text datasrc���䣣test��datafld������������size��6 id��kcsl����br��
+����ժҪ��input type��text datasrc���䣣test��datafld����ժҪ��size��30 id��zy����br��
+����datasrc���䣣test���ʾ�ı�����������������unit_test��RDS����datafld����ͼ���š��ʾ�����ֶ�Ϊͼ���š�
+�����������ü�����ʾ���ݿ��¼�Ŀ��ư�ť�����1��¼�壬����1���壬����1���壬�����1���塣
+������input type��button value�����1��¼�� title����To First��id��dyg��
+������input type��button value������1���� title����To Previ��ous�� id��shyg��
+������input type��button value������1���� title����To Next�� id��xyg��
+������input type��button value��������¼�� title����To Last ��id��zhyg��
+����������ò������ݼ�¼�İ�ť����4������
+������input type��button value���屣��� title����Save Current Change�� id��saverec ��
+������input type��button value������ġ� title����Update cur��rent Record�� id��updaterec��
+������input type��button value������ӡ� title����Add a New Record�� id��addrec��
+������input type��button value����ɾ���� title����Delete cur��rent record�� id��delerec��
+����4��RDS�ؼ���ű����Ե�����ʹ�á���������ʾ���ݿ��¼���ư�ť�Ͳ������ݼ�¼��Vbscript�ű����ԣ�
+������script language����vbscript�壾
+������sub jianyan����
+��������dim msgRe
+����select case window��event��srcElement��id
+������case ��dyg�壺
+����������unit_test��recordset��moveFirst
+������case ��shyg�壺
+����������if unit_test��recordset��AbsolutePosition��1 then unit_test��recordset��movePrevious
+����������else
+������������msgbox �����ǵ�1����¼�ˣ��壬������ʾ��
+����������end if
+������case ��xyg�壺
+����������if unit_test��recordset��AbsolutePosition��unit_test��record��set��RecordCount then
+������������msgbox ���������1����¼�ˣ��壬������ʾ��
+����������else
+������������unit_test��recordset��move Next
+����������end if
+������case ��zhyg�壺
+������������unit_test��recordset��moveLast
+������case ��updaterec��
+����������if tsbh��value����� or tslx��value����� or sm��val��ue����� or bz��value����� then
+������������msgbox �����������������ݣ��壬������ʾ��
+����������else
+������������unit_test��recordset��update
+����������end if
+������case ��addrec�壺
+������������unit_test��recordset��addnew
+������case ��delerec�壺
+������������msgRe��msgbox����ɾ���ü�¼�𣿡壬4���徯��壩
+������������if msgRe��6 then
+��������������unit_test��recordset��delete
+������������end if
+������case ��saverec��
+������������unit_test��submitchanges
+������������end select
+����������end sub
+��������script��
+3��RDS��ASP��������Web���ݿ�ıȽ�
+��������RDS�ؼ���ASP��������ʵ�ֶ�Web���ݿ�ķ��ʣ�����������Ǹ��Ե��ص㼰���÷�Χ��
+����1��ASP����Web���ݿ���ʹ��Active X���ݶ���ADO��������֮�⣬��ASP�����п�ʹ��ASP��5�����ö���Request��Response��Server��Application��Session���Լ�ASP 4�����õ�Active X������������Լ���������Visual Basic��Java��Visual C���������������������⹦�ܵķ����������ASP���������Ͷ�̬��ҳ����Ч���ߡ���RDS����Active X����з���Web���ݿ��һ���ؼ�����������VB���������ر��������Ƴ���VB6��0�У�����ҳ��RDS�������HTML������ʹ�ã�����VBScript�ű�ִ�д������
+����2��RDS����Web���ݿ�ķ����ǽ����ݿ����ص��ͻ����ˣ�Ȼ��ִ�нű�����ʵ�ֶ����ݿ�Ĳ��������ڽű������ڿͻ����ˣ������ݿ�Ĳ����Ƚ���ASP����Web���ݿ����ڷ�������ִ�еģ��ͻ�ֻ�ܸ��ݷ��������ṩ�ķ��ʷ����������ݿ⣬���ظ��ͻ����Ľ��ǲ�����������ַ������нϸߵ�Ч�ʣ����ܼ�����������Ϣ������ͬʱ���ݿ�İ�ȫ�ȽϿɿ������濪���ߵ�֪ʶ��Ȩ�õ���Ч������
+����3��ASP�������ʵ�Web���ݿ⡣����ASP�����Web���ݿ���ͬһ̨�������ϣ�ASP����ֻ�ǰѶ�ȡ�����ݴ�������������߽���������ṩ�����ݸ���Web���ݿ�����ݣ���RDS���ʵ�Web���ݿ��������ġ�Զ�̡����ݿ⣬����������֮�󣬿�����Recordset����������ݼ�¼�����ٶ��뵥�����ݿ�һ���졣���ݵ��޸ķ�ʽҲ��ͬ����ASP�����У����û����޸�����ʱ��ֱ�������ɷ�������ɣ���RDS������޸Ĺ����������̸��µ�Web���ݿ��У����ڸ������޸ģ�ֱ���û��´�������Submitchanges��֮�󣬲Ż����������д��Web���ݿ��С����ַ��ʷ�����������Internet��Intranet���Ϲ�����ҵ����������Ϣ����ϵͳ�С�
+�ֽ�(���ݾ��ù���ѧԺ�����ϵ��221006)
+�ο�����
+�����ֽ������ڣ��ӣм����ģף�����ݿ���ʷ��������ְҵ��ѧѧ����������������
+��������ɽ����¼���룮�ף�����ݿ�Ľ����������������е��ҵ�����磬������������
+���ո����ڣ���������������������

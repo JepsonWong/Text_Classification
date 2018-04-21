@@ -1,0 +1,137 @@
+¡¾ ÎÄÏ×ºÅ ¡¿3-4813
+¡¾Ô­ÎÄ³ö´¦¡¿¹ãÖÝÌåÓýÑ§ÔºÑ§±¨
+¡¾Ô­¿¯ÆÚºÅ¡¿199802
+¡¾Ô­¿¯Ò³ºÅ¡¿41¡«45
+¡¾·Ö Àà ºÅ¡¿G8
+¡¾·Ö Àà Ãû¡¿ÌåÓý
+¡¾¸´Ó¡ÆÚºÅ¡¿199810
+¡¾ ±ê  Ìâ ¡¿ÌåÓý²âÁ¿ÆÀ¼ÛÈô¸ÉÎÊÌâµÄÑÐ¾¿
+¡¾Ó¢ÎÄ±êÌâ¡¿StudyofProblems in PhysicalEducationEvaluation Measurement
+    Peng Longhui
+    (Guangzhou Institute of Physical Education,Guangzhou510076)
+¡¾ ×÷  Õß ¡¿ÅíÁú»Ô
+¡¾×÷Õß¼ò½é¡¿ÅíÁú»Ô  ¹ãÖÝÌåÓýÑ§ÔºÍ³²â½ÌÑÐÊÒ  ¹ãÖÝ510076
+¡¾ÄÚÈÝÌáÒª¡¿ÔÚ¶Ô²âÁ¿½á¹û½øÐÐ·ÖÎöºÍÆÀ¼ÛÊ±£¬ÈËÃÇ³£³£ÒªÀûÓÃ¸÷ÖÖÖ¸ÊýÀ´¶Ô²âÁ¿µÄÄÑ¶È¡¢±æ±ðÁ¦ºÍ¿É¿¿ÐÔµÈ×÷³ö¶¨Á¿¿ÆÑ§µÄ·ÖÎö¡£µ«ÕâÐ©Ö¸
+ÊýµÄ¼ÆËã·½·¨²»Ö¹Ò»ÖÖ£¬Êµ¼ùÖ¤Ã÷ÓÃ²»Í¬·½·¨¼ÆËãµÄÖ¸Êý½«ÓÐËù²»Í¬¡£±¾ÎÄ´ÓÀíÂÛÉÏ¶ÔÕâÐ©·½·¨µÄÀíÂÛ¹«Ê½×÷ÁËÏêÏ¸µÄÊýÑ§ÍÆµ¼£¬±È½ÏÁËËüÃÇ
+´æÔÚµÄ¹²ÐÔºÍÇø±ðÒÔ¼°Ó¦ÓÃµÄ¾ÖÏÞÐÔ¡£ÎªÊ¹Ò»Ð©·½·¨¾ßÓÐ¸ü´óµÄÊÊÓÃ·¶Î§£¬¶ÔÄ³Ð©¹«Ê½×÷ÁË±ØÒªµÄÐÞÕý¡£ÎªÎÒÃÇÔÚÊµ¼ÊÓ¦ÓÃÖÐ²ÉÓÃºÏÊÊµÄÕýÈ·
+µÄ·½·¨Ìá¹©ÁËÀíÂÛÖ¸µ¼¡£
+¡¾Ó¢ÎÄÕªÒª¡¿When analyzing and evaluating the measurments' results,some indexes areoftenusedtoanalyze the difficulties,the d
+ifferentiation and the reliability of themeasurement in quantity.But therearenot onlyone method foranindex,different results
+ will be gained withdifferent method.The theoretic formula ofthese methodarededuced implicitly,and their commons,distinguish
+ments and limitations are compared.some fomula are necessarily corrected in order to expand their application area.
+¡¾¹Ø ¼ü ´Ê¡¿²âÁ¿·ÖÎöÆÀ¼Û/·½·¨/¾ÖÏÞÐÔ/ÐÞÕýanalysing and evaluating method limitation correction
+¡¾ Õý  ÎÄ ¡¿
+    ¶ÔÈÎºÎÒ»´Î²âÁ¿µÄ·ÖÎöÆÀ¼ÛÒ»°ã¶¼Òª¼ÆËãÄÑ¶ÈÖ¸Êý¡¢±æ±ðÖ¸ÊýºÍÐÅ¶ÈÖ¸Êý£¬µ«ÕâÐ©Ö¸ÊýµÄ¼ÆËã·½·¨ÓÐ¶àÖÖ£¬Êµ¼Ê×ÊÁÏ±íÃ÷£¬ÔÚ¶Ô²âÁ¿½á¹û
+½øÐÐ·ÖÎöµÄ¹ý³ÌÖÐ£¬¸÷ÈËËù²ÉÓÃµÄ¹«Ê½²»¾¡ÏàÍ¬¡£ÄÇÃ´ÕâÐ©¹«Ê½±¾ÉíÊÇ·ñÍêÈ«µÈ¼Û£¿¸÷×ÔÓÖÓÐÔõÑùµÄÊÊÓÃ·¶Î§ºÍÓ¦ÓÃÌõ¼þÄØ£¿ÕâÐ©ÊÇÎÒÃÇÓ¦¸Ã
+½â¾öºÍ³ÎÇåµÄÊµ¼ÊÎÊÌâ£¬·ñÔòÈç¹ûÎÒÃÇÔÚÊµ¼ÊÓ¦ÓÃÖÐ²ÉÓÃµÄ·½·¨²»µ±£¬½«»á¶Ô·ÖÎöÆÀ¼ÛµÄ½á¹û²úÉú»ò¶à»òÉÙµÄÓ°Ïì£¬ÉõÖÁµÃ³öÓëÊµ¼Ê²»·ûµÄ½á
+ÂÛ¡£ÁíÍâ£¬ÔÚÓ¦ÓÃ¹«Ê½S[2]=pqÊ±Ó¦×¢ÒâÕâÒ»µÈÊ½ÆäÊµÊÇ·ÇºãµÈµÄ¡£±¾ÎÄ½«¾ÍÉÏÊöÎÊÌâ×÷Ò»Ð©ÀíÂÛºÍÊµ¼ÊµÄÑÐ¾¿¡£
+            1  ÑÐ¾¿¶ÔÏóÓë·½·¨
+    ±¾ÎÄµÄÑÐ¾¿¶ÔÏóÊÇÆÀ¼Û²âÁ¿Çé¿öµÄÈýÀàÖ¸ÊýµÄ¼¸ÖÖ²»Í¬µÄ¼ÆËã·½·¨£º
+    Ä¿Ç°µÄÀíÂÛ¿¼ÊÔ£¬¾ÍÆäÆÀ·Ö¶øÑÔ¹éÄÉÆðÀ´Ö÷ÒªÓÐÈýÀàÌâÄ¿£º
+    µÚÒ»ÀàÌâ£ºÆäµÃ·ÖÖ»ÄÜÊÇ0·ÖºÍ1·Ö
+    µÚ¶þÀàÌâ£ºÆäµÃ·ÖÖ»ÄÜÊÇ0·ÖºÍa·Ö£¨a¡Ù1£¬Èça=2£©
+    µÚÈýÀàÌâ£ºÆäµÃ·ÖÎªx(x¡Ê[0,a])
+    Ò»°ãÇé¿öÌî¿ÕÌâ¡¢Ñ¡ÔñÌâ¡¢ÅÐ¶ÏÌâÊôÓÚµÚÒ»ÀàºÍµÚ¶þÀà£¬¼ò´ðÌâ¡¢×ÛºÏÌâÊôÓÚµÚÈýÀà¡£¶ÔÕâÈýÀàÎÊÌâ¼ÆËãÉÏÊöÖ¸ÊýµÄ·½·¨Ö÷ÒªÓÐ£º
+    ¢ÙÄÑ¶ÈÖ¸Êýp£ºÊÇ·´Ó¦ÌâÄ¿µÄÄÑÒ×³Ì¶ÈµÄÖ¸±ê£¬Æä·½·¨Ö÷ÒªÓÐÁ½ÖÖ£º
+    ¡ñµÚÒ»ÖÖÊÇ¼ÆËã¸ÃÌâÄ¿µÄ´ð¶ÔÈËÊýÓë²âÊÔ×ÜÈËÊýÖ®±È£º
+                   m
+                p=©¤                                   (1.1)
+                   n
+    £¨n¡ª²âÊÔµÄ×ÜÈËÊý£¬m¡ª´ð¶Ô¸ÃÌâÄ¿µÄÈËÊý£©
+    ¡ñµÚ¶þÖÖÊÇ¼ÆËãÄ³µÀÌâÄ¿µÄÆ½¾ùµÃ·ÖÓë¸ÃÌâµÄ·ÖÊýÖ®±È£º
+                   x
+                p=©¤                                   (1.2)
+                   a
+    £¨x¡ªËùÓÐ²âÊÔÕß¸ÃÌâµÄÆ½¾ùµÃ·Ö£¬a¡ª¸ÃÌâµÄÂú·Ö£©
+    ¢Ú±æ±ðÖ¸ÊýDr£¬Æä·½·¨ÓÐÈýÖÖ£º
+    ¡ñµÚÒ»ÖÖ·½·¨ÊÇÏÈ½«¿¼ÊÔ³É¼¨£¨Ñù±¾¾íÃæ·ÖÊý£©´Ó¸ßµ½µÍÅÅÁÐ£¬È¡¸ß·Ö×éºÍµÍ·Ö×é¸÷LÈË£¬¼ÆËã¸ß·Ö×é¸ÃÌâ´ð¶ÔÈËÊýÓëµÍ·Ö×é´ð¶ÔÈËÊýÖ®²î
+³ýÒÔÈËÊýL£¬Æä¹«Ê½Îª£º
+              k[,1]-k[,2]
+        Dr=©¤©¤©¤©¤©¤©¤                              (2.1)
+                  L
+    L=¸ß·Ö×éµÄÈËÊý£½µÍ·Ö×éµÄÈËÊý=n*27%£¨ËÄÉáÎåÈëÈ¡Õû£©
+    ¡ñµÚ¶þÖÖ·½·¨ÊÇ¼ÆËã¸ß·Ö×é¸ÃÌâ×ÜµÃ·ÖÓëµÍ·Ö×é¸ÃÌâ×ÜµÃ·ÖÖ®²î³ýÒÔ×ÜµÄÈËÊýnÓë¸ÃÌâ·ÖÊýaÖ®»ý£º
+               L   L
+              ¡Æxi-¡Æyi
+              i=1  i=1
+         Dr= ©¤©¤©¤©¤©¤©¤                             (2.2)
+                  La
+    ¡ñµÚÈýÖÖ·½·¨ÊÇ¼ÆËãËùÓÐ¿¼Éú¸ÃÌâµÃ·ÖÓëÆä³É¼¨µÄÏà¹ØÏµÊý£¬Æä¼ÆËã¹«Ê½Îª£º
+             n        -        -
+          Dr=¡Æ(x[,i]-x)(y[,i]-y)/n¡¤s[,x]¡¤s[,y]         (2.3)
+             i=1
+    x[,i]¡¢y[,i]·Ö±ðÊÇµÚi¸öÑù±¾µÄÊÔ¾íµÃ·ÖºÍÄ³ÌâµÄµÃ·Ö£¬
+    -              -
+    x=¡Æx[,i]/n    y=¡Æy[,i]/n
+    ¢ÛÐÅ¶ÈÖ¸Êýr£¬³ýÁËÓÃÆ½ÐÐ²âÑé·¨¡¢ÕÛ°ë·¨¼ÆËãµÄÏà¹ØÏµÊýÀ´ËµÃ÷ÊÔÌâµÄ¿É¿¿ÐÔÍâ£¬»¹ÓÐ·´Ó³¸÷ÊÔÌâ¼äÄÚ²¿Ò»ÖÂÐÔµÄÁ½ÖÖ·½·¨£º
+    ¡ñµÚÒ»ÖÖ·½·¨ÊÇÀûÓÃ¸÷ÌâµÄÄÑ¶ÈÖ¸ÊýÀ´¼ÆËãµÄ£¬Æä¹«Ê½Îª£º
+                k       ¡Æpq
+            r=©¤©¤(1- ©¤©¤©¤©¤)                         (3.1)
+               k-1       s[2]
+    ¡ñµÚ¶þÖÖ·½·¨ÊÇÀûÓÃ¸÷ÌâµÄ·½²îÀ´¼ÆËãµÄ£¬Æä¹«Ê½Îª£º
+                k      ¡Æs[2,i]
+            r=©¤©¤(1- ©¤©¤©¤©¤©¤)                       (3.2)
+               k-1      s[2]
+    ËµÃ÷£ºÉÏÃæÁ½ÖÖ·½·¨µÄÇóºÍºÅ¡ÆÊÇ¶ÔËùÓÐÌâÄ¿ÇóºÍ£¬pÊÇÄÑ¶ÈÖ¸Êý£¬q=1-p,s[2,i]ÊÇËùÓÐÑù±¾µÚiµÀÌâµÄ·½²î£¬s[2]ÊÇËùÓÐÑù±¾³É¼¨µÄ·½²î
+£¬kÊÇÊÔÌâÊý¡£
+    ±¾ÎÄ»¹²ÉÓÃÎÄÏ××ÊÁÏ·¨¡¢ÊµÑé¼ìÑé·¨ºÍÊýÑ§·ÖÎö·¨½øÐÐ¶Ô±ÈºÍÑÐ¾¿¡£
+            2  ½á¹ûÓë·ÖÎö
+2.1  ÑÐ¾¿½á¹û
+    ÒÔ¹ãÖÝÌåÔºÌå½Ì×¨Òµ94¼¶1Ïµ6°à14ÈËµÄÄ³´ÎÌåÓýÍ³¼ÆÑ§¿¼ÊÔÖÐµÄÈýµÀÌâ£¨´ú±íÉÏÊöÈýÀà£©µÄµÃ·ÖÎªÊ¾ÀýÊý¾Ý£¨±í1£©½øÐÐ¼ìÑé£¬¼ÆËã¸÷ÓÐ¹Ø
+²ÎÊý£¨±í2£©¡£¶ÔÉÏÊöÈýÀàÎÊÌâµÄÓÐ¹ØÖ¸Êý²ÉÓÃ²»Í¬·½·¨µÄ±È½Ï½á¹û¹éÄÉÈç±í3¡£
+    ¸½Í¼  {Í¼}
+2.2  ¶ÔÈýÖÖÖ¸ÊýµÄ·ÖÎö±È½Ï
+2.2.1  ´ÓÄÑ¶ÈÖ¸Êý¿´£ºµÚÒ»ÌâºÍµÚ¶þÌâ¾ùÓÐp[,1]=p[,2]£¬µ«µÚÈýÌâp[,1]¡Ùp[,2]£¬ÓÉ´Ë¿ÉÖªÖ»ÒªÄ³ÌâµÄÆÀ·ÖÎªÁã·ÖºÍÂú·Ö£¬Ôò²ÉÓÃ(1.1)ºÍ(1.2)Á½ÖÖ·½·¨Ëù¼ÆËãµÄÄÑ¶ÈÖ¸ÊýÏàµÈ£¬Òò´Ë¶ÔµÚÒ»ÀàºÍµÚ¶þÀàÎÊÌâ¿É²ÉÓÃÕâÁ½ÖÖ·½·¨ÖÐµÄÈÎÒâÒ»ÖÖ£¬¶ø¶ÔµÚÈýÀàÎÊÌâÔòÓ¦²ÉÓÃ·½·¨(1.2)£¬ÊÔÏëÈôµÚÈýÌâËùÓÐÈËµÄµÃ·ÖÎª7·Ö£¬ÄÇÃ´p[,1]=0,p[,2]=0.47
+    ½«¹«Ê½(1.2)×÷Ò»Ð©±äÐÎ£º  -
+                           p=x/a
+                           =(¡Æx/n)/a=(¡Æx/a)/n
+    ËùÒÔ  p=¡Æ(x/a)/n                                (4.1)
+    ¶ÔÇ°Á½ÀàÎÊÌâ£¬x=0»òx=a£¨»ò1£©£¬¶¼ÓÐx/a=0£¨±íÊ¾´ð´í£©»ò1£¨±íÊ¾´ð¶Ô£©£¬ÓÉ´Ë¿ÉÒÔ¿´³ö(4.1)µÈ¼ÛÓÚ(1.1)£¬ËùÒÔÔÚÊµ¼ÊÓ¦ÓÃÖÐÎÞÂÛÊÇ
+¶Ô´ð°¸Ã÷È·Î¨Ò»µÄÑ¡ÔñÌâ¡¢ÅÐ¶ÏÌâ»¹ÊÇ¶Ô³ÂÊöÐÔµÄÌâÄ¿£¬ÎÒÃÇ¶¼¿ÉÓÃ¹«Ê½(1.2)À´¼ÆËãÌâÄ¿ÄÑ¶ÈÖ¸Êý¡£
+2.2.2  ´Ó±æ±ðÖ¸Êý¿´£º²ÉÓÃÈýÖÖ·½·¨¶ÔÈýÀàÎÊÌâµÄ±æ±ðÖ¸ÊýµÄ¼ÆËã½á¹û±íÃ÷£¬¶ÔµÚÒ»ÀàºÍµÚ¶þÀàÎÊÌâ·½·¨(2.1)ºÍ(2.2)µÄ½á¹ûÏàÍ¬£¬µ«¶¼²»Í¬ÓÚ·½·¨(2.3)µÄ½á¹û£»¶ÔµÚÈýÀàÎÊÌâÈýÖÖ·½·¨µÄ¼ÆËã½á¹û¶¼²»Í¬¡£ÆäÔ­ÒòÖ÷ÒªÓÐÈýµã£ºa.¶Ô¹«Ê½(2.2)×÷Ò»¼òµ¥ÍÆµ¼¼´ÖªËüºÍ·½·¨(2.1)¶ÔÇ°Á½ÀàÎÊÌâ±¾ÖÊÉÏÊÇµÈ¼ÛµÄ£¬ÒòÎª£º
+        L       L         L      L
+       ¡Æx[,i]-¡Æy[,i]    ¡Æx[,i]/a-¡Æy[,i]/a
+       i=1    i=1         i=1    i=1             k[,1]-k[,2]   Dr=©¤©¤©¤©¤©¤©¤©¤©¤ = ©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤ = ©¤©¤©¤©¤©¤©¤©¤
+            La                    L                    L
+    b.¶ÔµÚÈýÀàÎÊÌâÆäÆÀ·Ö²»½öÖ»ÓÐÁã·ÖºÍÂú·Ö£¬ËùÒÔÎÞ·¨Çø·Ö¶ÔºÍ´í£¬ÑÏ¸ñËµÊÇ²»ÄÜ²ÉÓÃ·½·¨(2.1)»ò(2.2)¼ÆËã¡£
+    c.Ç°Á½ÖÖ·½·¨ËäÈ»¼òµ¥£¬µ«ËùÉæ¼°µÄÊý¾ÝÖ»Õ¼Ñù±¾µÄ54%£¬ÆäÓà46%µÄÈËµÄµÃ·ÖÇé¿öÓëÖ®ÎÞ¹Ø£¬Òò´ËÆä¼ÆËã½á¹û²»ÄÜÈ«ÃæµØ·´Ó³ÊÔÌâÖÊÁ¿ºÍ
+¿¼ÊÔÇé¿ö£¬Èç±í1µÄµÚ¶þÌâ£¬¼ÙÉè¸ß·Ö×é(1¡«4)ºÍµÍ·Ö×é(11¡«14)µÄµÃ·Ö²»±ä£¬½«ÖÐ¼ä6ÈËµÄµÃ·Ö¸ÄÎª(2,2,0,0,0,0)£¬´ËÊ±ÓÃ(2.1)ºÍ(2.2)¼ÆËã
+µÄ½á¹û½«²»»áÓÐÈÎºÎ¸Ä±ä£¬ÕâÏÔÈ»ÓëÊµ¼ÊÇé¿öÊÇ²»Ïà·ûµÄ£»¶øµÚÈýÖÖ·½·¨·´Ó³µÄÊÇËùÓÐÑù±¾µÄ³É¼¨ºÍÄ³ÌâµÃ·ÖµÄÏà¹Ø³Ì¶È£¬Òò´ËËüÄÜ³ä·ÖÀûÓÃ
+Ñù±¾Êý¾Ý¶ÔÊÔÌâµÄ±æ±ðÁ¦×÷³ö±È½ÏÈ«ÃæµÄ·ÖÎö¡£
+2.2.3  ´ÓÐÅ¶ÈÖ¸ÊýÀ´¿´£º±È½ÏÒ»ÏÂ¹ØÓÚÐÅ¶ÈÖ¸ÊýµÄÁ½¸ö¹«Ê½(3.1)ºÍ(3.2)¼´Öª£¬ÒªÊ¹Á½ÕßµÈ¼Û£¬±ØÐëÓÐÈçÏÂ¹ØÏµÊ½£º
+          ¡Æs[2,i]=¡Æpq
+    ÓÃx±íÊ¾ÈÎÒ»Ñù±¾ÊÔ¾íÄ³ÌâµÄµÃ·Ö£¬Ñù±¾º¬Á¿Îªn£¬ÏÂÃæ¾ÍÉÏÊöÈýÀàÎÊÌâ¶ÔÉÏÊ½ÖÐs[2,i]-pq½øÐÐÀíÂÛ¿¼Ö¤£º
+    (1)¶ÔµÚÒ»ÀàÎÊÌâ¼´µÃ·ÖÖ»ÓÐ0·ÖºÍ1·Ö£¬ÇÒÎª´óÑù±¾£¬ÔòÓÐ
+    s[2,i]=pq£¨±í2£©£¬ÒòÎª£º
+    ¶Ô´óÑù±¾£¬Ä³ÌâµÄ·½²îs[2,i]=¡Æx[2]/n-(¡Æx)[2]/n[2]=¡Æx/n-(¡Æx/n)[2]=(¡Æx/n)(1-(¡Æx/n))=p(1-p)=pq
+    (2)¶ÔµÚ¶þÀàÎÊÌâ¼´µÃ·ÖÖ»ÓÐ0·ÖºÍa·Ö£¬´ËÊ±s[2,i)¡Ùpq£¨±í2£©£¬µ«¶Ô´óÑù±¾·½²î¹«Ê½ÓÐs(2,i)=a[2]pq£¬ÒòÎª£º
+    s[2,i]=¡Æx[2]/n-(¡Æx)[2]/n[2]©¦x-ay=a[2](¡Æy/n-(¡Æy/n)[2])=a[2](¡Æy/n)(1-(¡Æy/n))=a[2]p(1-p)=a[2]pq
+    ¸½Í¼  {Í¼}
+    (3)¶ÔµÚÈýÀàÎÊÌâ¼´µÃ·Öx¡Ê[0,a]£¨aÎª¸ÃÌâÂú·Ö£©£¬Í¬ÑùÓÐ
+    s[2,i]¡Ùpq£¨±í2£©£¬µ«¶Ô´óÑù±¾·½²î¹«Ê½ÓÐs[2,i]=a[2]pz,0¡Üz¡Üp£¬ÒòÎª£º
+    s[2,i]=¡Æx[2]/n-(¡Æx)[2]/n[2]©¦x=ay=a[2](¡Æy[2]/n-(¡Æy/n)[2])=a[2](¡Æy/n)(¡Æy[2]/¡Æy-(¡Æy/n))=a[2]p(¡Æy[2]/¡Æy-p)
+    =a[2]pzÆäÖÐ  z=¡Æy[2]/¡Æy-p=¡Æy[2]/¡Æy-1+q  ¡ßy=x/a¡Ê[0,1],¡à0<¡Æy[2]/¡Æy¡Ü1,0<z¡Üq£¬ËùÒÔ
+        s[2,i]¡Üa[2]pq                    (4.2)
+ÁíÍâ£¬ÒªÊ¹(4.2)µÄµÈºÅ³ÉÁ¢£¬¾Í±ØÐëÓÐ¡Æy[2]/¡Æy=1£¬´Ó¶øÓÐy=0»ò1£¬¼´x=0»òa£¬Òò´ËÎÒÃÇµÃµ½½áÂÛ£º
+    a.ÆÀ·ÖÖ»ÓÐ0·ÖºÍ1·ÖÊÇa[2,i]=pq³ÉÁ¢µÄ³ä·Ö±ØÒªÌõ¼þ¡£
+    b.s[2,i]=a[2]pz(z=¡Æy[2]/¡Æy-p)¶ÔÉÏÊöÈýÀàÎÊÌâÆÕ±éÊÊÓÃ¡£
+    ¸½Í¼  {Í¼}
+            3  ½áÂÛ
+    ¾­¹ýÊµÀý¼ìÑéºÍÏêÏ¸µÄÀíÂÛÍÆµ¼£¬ÎÒÃÇ¿ÉÒÔ¿´³ö£º
+3.1  ¼ÆËãÄÑ¶ÈÖ¸ÊýµÄÁ½ÖÖ·½·¨¶Ô´ð°¸Ã÷È·Î¨Ò»µÄÑ¡ÔñÌâµÈÌâÄ¿¶¼ÊÊÓÃ£¬µ«¶Ô¼ò´ðÌâ¡¢×ÛºÏÌâµÈ³ÂÊöÐÔÊÔÌâÔòÓ¦²ÉÓÃµÚ¶þÖÖ·½·¨£¬Îª¼òµ¥Æð¼û£¬±¾ÈË½¨ÒéÒ»ÂÉ²ÉÓÃµÚ¶þÖÖ·½·¨¡£
+3.2  ´Ó±æ±ðÖ¸ÊýµÄ×÷ÓÃÀ´¿´£¬ÓÉÓÚ±æ±ðÖ¸ÊýÊÇÓÃÀ´ËµÃ÷ÌâÄ¿Çø·Ö²»Í¬Ë®Æ½µÄ¿¼ÉúµÄÖ¸±ê£¬ËùÒÔÈç¹ûÌâÄ¿µÄ±æ±ðÁ¦ºÃ£¬Ôò¿¼ÉúµÄË®Æ½£¨¼´ÊÔ¾í×Ü·Ö£©Ô½¸ß£¬¸ÃÌâÄ¿µÄµÃ·ÖÒ²Ó¦Ô½¸ß£¬¼´¿¼ÉúµÄË®Æ½Óë¸ÃÌâµÃ·ÖÊÇÕýÏà¹ØµÄ£¬¶øµÚÈýÖÖ·½·¨ÕýÊÇËµÃ÷¿¼ÉúµÄË®Æ½ÓëÌâÄ¿µÃ·ÖµÄÏà¹ØÐÔ£¬ÁíÍâ¸Ã·½·¨°üº¬ÁËËùÓÐµÄÑù±¾Êý¾Ý£¬ÄÜÈ«Ãæ·´Ó³Ñù±¾ÌØÕ÷£¬ËùÒÔ²
+
+3.3  ¼ÆËãÐÅ¶ÈÖ¸ÊýµÄÁ½ÖÖ·½·¨¶ÔµÚÒ»ÀàÎÊÌâ¶¼ÊÊÓÃ£¬¶ÔºóÃæÁ½ÀàÎÊÌâ£¬µÚÒ»ÖÖ·½·¨²»ÊÊÓÃ£¬Èç¹ûÒ»·ÝÊÔ¾í°üÀ¨ÉÏÊöÈýÀàÎÊÌâ£¬ÔòÓ¦²ÉÓÃµÚ¶þÖÖ·½·¨£¬Èô¶ÔµÚ¶þÖÖ·½·¨×÷ÈçÏÂÐÞÕý£º
+                  k          ¡Æs[2,i]/a[2]
+             r= ©¤©¤©¤ (1- ©¤©¤©¤©¤©¤©¤©¤©¤)        (3.2)¡ä
+                  k-1           s[2]¡ä
+    Ôò(3.2)¡äÏàËÆÓÚ(2.1)¡£¸Ã¹«Ê½¶ÔÉÏÊöÈýÀàÎÊÌâ¶¼ÊÊÓÃ£¬½¨ÒéÔÚ·ÖÎöÐÅ¶ÈÊ±²ÉÓÃ(2.2)»òÐÞÕý¹«Ê½(3.2)¡ä¡£
+3.4  ¶ÔÈÎºÎÊÔÌâ£¬Æä´óÑù±¾·½²îºãÂú×ã£ºs[2]=a[2]pz(z=¡Æy[2]/¡Æy-p),s[2]=pq¿ÉÈÏÎªÊÇËüµÄÌØÀý£¬½öÊÊÓÃÓÚÆÀ·ÖÎª0·ÖºÍ1·ÖµÄÊÔÌâ¡£ÓÉ´ËÎÒÃÇÈÔÈ»¿ÉÖªÊÔÌâµÄ·½²îÓëÆäÄÑ¶È´æÔÚÏàÒÀ±ä¶¯¹ØÏµ£¬¶ÔÓÚµÚÒ»ÀàÐÍµÄÊÔÌâ£¬ÖÐµÈÄÑ¶ÈÊÔÌâ£¨»òÏîÄ¿£©²úÉú×î´óµÄ·½²î£¬¶ø¶ÔÆäËüÀàÐÍµÄÌâÄÑ¶ÈÔ½½Ó½üÖÐµÈÄÑ¶ÈÇÒµÃ·ÖÔ½Ç÷½üÁã·Ö»òÂú·Ö£¬Ôò·½²î£¨ÎÞ
+3.5  ÉÏÊö½á¹û°ïÖúÎÒÃÇÔÚ¶Ô²âÁ¿½á¹û½øÐÐ·ÖÎöÆÀ¼ÛÊ±²ÉÓÃÕýÈ·µÄ·½·¨Ìá¹©ÁËÀíÂÛÖ¸µ¼¡£
+¡¾²Î¿¼ÎÄÏ×¡¿
+    1  ¡¾ÃÀ¡¿B¡¤S¡¤²¼Â¬Ä·Öø£¬ÇñÔ¨¡¢Íõ¸Ö¡¢ÏÄÐ¢´¨µÈÒë£¬½ÌÓýÆÀ¼Û
+    2  Åí½¨¾ü¡£ÊÔ¾íÖÊÁ¿¶àÎ¬²âÁ¿ÆÀ¼ÛÏµÍ³µÄÑÐ¾¿¡£ÎäººÌåÓýÑ§ÔºÑ§±¨£¬1995,(3):78¡«81
+    
+    
+    
+ 

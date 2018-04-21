@@ -1,0 +1,145 @@
+���ѧ��
+JOURNAL OF SOFTWARE
+2000��Vol.11��No.2��P.207-212
+
+
+
+����Э�鼯�ɲ���ϵͳ��IP v4Э��һ���Բ���
+���������⽨ƽ�����޻���������
+ժ��Ҫ��TCP/IPЭ��ʵ�ֵ�һ���Բ����Ǳ�֤Internet�����豸֮�以���뻥�����Ļ���.���Ļ���Э�鼯�ɲ��Ի���������IP��Internet protocol��Э��һ���Բ����о���ʵ�ʲ���,�����IP��ϵͳ���м�ϵͳ�ֱ�����˷ֲ�ʽ��Զ�̺��ʽ���Է�,���������IPһ���Բ��Լ�.�����ѽ�IPЭ���һ���Բ���Ӧ�õ�·�����Ŀ��������ƹ�����.
+�ؼ��ʣ�һ���Բ���,Э�����ϵͳ,���Է���,IP (Internet protocol),TTCN (tree and table combined notation).
+����ţ�TP393
+Conformance Testing on Internet IP v4 Based on Protocol Integrated Test System
+WANG Jian-guo��WU Jian-ping��CHEN Xiu-huan��FENG Xiao-dong
+(Department of Computer Science and Technology Tsinghua University Beijing 100084)
+Abstract��Conformance testing of TCP/IP protocol is the first step for interoperability among Internet network products.The conformance testing of the Internet protocol with a PITS (protocol integrated unit_test system) is presented in this paper.The authors use the distributed unit_test method and remote traverse unit_test method to unit_test IP (Internet protocol) end system and IP relay system in Internet,respectively.IP unit_test suite in TTCN (tree and table combined notation) is derived according to IP unit_test purposes.Furthermore,the IP conformance testing has been applied for developing routers.
+Key words��Conformance testing,protocol unit_test system,unit_test method,IP (Internet protocol),TTCN (tree and table combined notation).��
+�������ż���������ͨ�ż����Ĳ��Ͻ���,Э�����ƺ�ʵ�ֱ��Խ��Խ����,���Ҷ���ͬһЭ���׼��ʱ����ڶ����ͬ��ʵ�ְ汾.Ϊ�˱�֤Э��ĸ���ʵ�ְ汾֮���ܹ���ȫ���໥����,�����пɿ���ͨ��,����Ч���ֶξ��Ƕ���ЩЭ��ʵ�ֽ��в���.Э����԰���3�����͵Ĳ���:һ���Բ��ԡ��������Բ����Լ����ܲ���.����,һ���Բ������������ֲ��ԵĻ���.
+����Ŀǰ,����TCP/IPЭ�����Internet�Ѿ���Ϊȫ����Ϣ��չ�ͽ����Ļ���.���,TCP/IP��Ʒ֮��Ŀɿ�ͨ�Ŷ�δ����Ϣ���ٹ�·�ķ�չ������Ҫ.Ϊ��׼ȷ�ط���·������E-mailϵͳ�Լ����������豸�е���ƴ���,�ͱ����ڽ���TCP/IP��Ʒ�Ļ���������֮ǰ������Э���һ���Բ���.Ȼ��,����ڳ����OSIЭ��ͷ����Э���������,����TCP/IPЭ�����ʽ����������֤�Ͳ��Եȷ�����о���չ��ո���.Ϊ��,ͨ�������Ŭ��,���ǳɹ��ؿ�����һ��Э�鼯�ɲ���ϵͳ����PITS��protocol implementation conformance statement��,���ڶ�TCP/IP�����Ʒ�Ķ��ֲ�����Ϊ.����,���Ƕ�TCP/IPЭ���к���Э��IP version 4Э�飨���¼��IPЭ�飩������һ���Բ���,����������������TTCN��tree and table combined notation����ʽ��IP(Internet protocol)���Լ�.�봫ͳ��OSI�Ե�ʽ��Э�����,��IPЭ���а�������ͨ��ģʽ����ϵͳģʽ���м�ϵͳģʽ��.Ϊ��,�����ڽ���IPЭ��һ���Բ��ԵĹ�����,�������µ��м̲��Է���.������Ҫ,�����Ѿ���IPЭ��һ���Բ���Ӧ�õ���������·�����������ƺͿ���������.����,����Ҳ�Թ������·����������ʵ�ʵĲ���.
+�������ĵ�1�ڼ�Ҫ����PITSϵͳ.��2�ڽ���IP���Խṹ�Ͳ��Լ�����֯.��3�ڽ���·������IP v4ģ���һ���Բ���.��4���ܽ�ȫ��.
+1 Э�鼯�ɲ���ϵͳ����PITS
+����ͼ1��ʾ��PITS������ṹ.PITSϵͳ����TTCN���Լ�Ϊ��������֯���Ĳ��Թ���,�ڲ����в��н���ִ�в�����.�������ɹ���TUGEN,����Э���EBE��external behavior expression�������Զ�����TTCN.MP��ʽ�Ĳ��Լ�.TTCN�༭������׼��TTCN.GR��ʽ�Ĳ��Լ�(��ISO/IEC 8882)ת����TTCN.MP��ʽ.��������PICS��PIXIT��protocol implementation extra information for testing����ѡ��,����ִ��TE��unit_test execution������ѡ��Ĳ��������н���ִ��.TE�ǲ���ִ�еĹؼ�����,����PITS������������ͬ��ɲ��Թ���,���ݲ��Լ������ݿ��Ʋ��Թ���,ͬʱ���ɲ��Ա�������Ҫ��ȫ����Ϣ.TE�������¼����ɱ�����,�����͸���Ӧ����Ϣ�������Ͳο�ʵ��.�ο�ʵ����PITS�кͱ���ʵ��IUTͨ�ŵĵײ�֧��.�ο�ʵ�ֿ�ͨ�����漸����Ϣ���ͺ���Ϣ������ͨ��:
+����starttest:��ʼһ����������ִ��;
+����stoptest:��ֹһ����������ִ��;
+����frame-send-out:TE����һ��ASP/PDU;
+����frame-receive:TE����һ��ASP/PDU;
+����quit:�˳�������ִ�й���.
+����,ֻҪѡ���ʵ��Ĳ��Լ��Ͳο�ʵ��,PITS�Ϳ����ò�ͬ�Ĳ��Է����Բ�ͬ��Э����в���.
+
+Fig.1��The architecture of protocol integrated resting system-PITS
+ͼ1��Э�鼯�ɲ���ϵͳPITS�ṹͼ
+2 IP��һ���Բ��Է����ͽṹ
+�����������Ƚ���IPЭ�����Ҫ����,������IPʵ�����ڵı���ϵͳ�Ĳ�ͬ,����ֳ�IP��ϵͳ���м�ϵͳ��һ���Բ���.
+2.1 IPЭ����
+����IPЭ����Ҫ��IETF RFC791�����岢��������.IP�Ĺ��ܣ�Ŀ�ģ���ʹ���ݱ���ͨ����ͬ�Ļ��������е�IPģ��,��Դ�˵���Ŀ�Ķ�.��ЩIPģ����Ƕ��Internet�е�������·������.���ݶ�IP��ַ�ķ���,ʵ��IP���ݱ���ת��.ͨ��IP�ڵ���·��ת��,���ݱ������������ͨ������С�����ݱ����ȵ������д���.Ϊ�˿��Դ��ͳ����ݱ�,���м�ϵͳ(relay-system,��·�������е�IPЭ��ģ�������ݱ��ֶΣ�segment������.��Ӧ��,�����ݱ������ϵͳ(end-system,��Ŀ���������е�IPģ��ʱ,���ֶε����ݱ��ͱ�����������.ͼ2������IP�м�ϵͳ�Ͷ�ϵͳ�������еķֲ�.IP���ݱ��Ĵ���������ICMP��Internet control message protocol�������,��IGMP��Internet group message protocol�������������·������Ķಥ����.
+
+Fig.2��The role of IP in Internet
+ͼ2��IP�����绷���еĲ��
+2.2 IP��ϵͳ��һ���Բ���
+2.2.1 IP��ϵͳ���Է���
+����ISO��ITU-T�Ѿ���ISO/IEC IS 9646/1(ISO/IEC 9646-1,1993)��ITU-T X.290(ITU-T X.290,1992)�й涨��4�����ڶ�ϵͳ�ĳ�����Է���.����ѡ�����еķֲ�ʽ���Է���DTM(distributed unit_test method)��ΪIP��ϵͳ�Ĳ��Է���.
+������DTM��,����ͨ�������²�����LT��lower tester�����ϲ�����UT��upper tester���Ŀ��ƹ۲��PCO��point of control and observe�������ƹ۲챻��IP��ϵͳ����Ϊ.����,���ǿ���ֱ�ӷ��ʶ�ϵͳ�е�IPģ�����ṩ�ķ���ӿ�,ʵ���ϲ�����UT,��������IPģ����������IP���ݱ��Լ����IPģ���Ƿ��ܹ���ȷ���ͣ�����õģ�IP���ݱ�.
+2.2.2 IP��ϵͳ�Ĳ��Խṹ
+����ͼ3��ʾ����Э�鼯�ɲ���ϵͳ�еķֲ�ʽ���Խṹ.����,�ڱ���ʵ��IUT��implementation under unit_test����ʵ����UT,���ǲ���������·��ӿ�DLPI��data link provider interface����Ϊ����ͨ��,����ִ�в���TE��IUT֮���ͨ��ͨ��������ͨ��MTP��main unit_test path��,UT��ͨ����������ͨ��ATP��auxiliary unit_test path��.Ϊ�˲���IP����ģ��,TEͨ��MTP��IUT���Ͳ����¼�,Ȼ��ͨ��ATP,UT��TE����IUT����Ӧ���,�����ǲ���IP����ģ��ʱ,ͨ��ATP��TE�õ����Կ�����Ϣ,UT����IUT����ͨ��MTP����IP���ݱ�.TE��IP��������ÿ�������¼�����Ϊ��Ϣ��,������PCO�ı�ʶ,�����Ǵ���Ϣ���������͸��ο�ʵ��.��TE���յ�����IUT����Ϣʱ,���ݲ��������嶨�����ƥ��,�����ִ���µĲ����¼�,��õ�ͨ����pass����ʧ�ܣ�fail���Ĳ����о�.
+
+Fig.3��The unit_test architecture of IP end system
+ͼ3��IP��ϵͳ���Խṹ
+2.3 IP�м�ϵͳ��һ���Բ���
+������ISO/IEC 9646��,ֻ�����������������м�ϵͳ�Ĳ��Է���:����ʽ���Է����ͺ��ʽ���Է���.����,���Ʒ��Ĳ����������ڼ�,�������ʵ��;���ʽ���Է�����Ҫ��������ϵͳ,������ʹ����������ϵͳ��Э����Ϊ����.�ڱ�����,���ǽ�����һ������IP�м�ϵͳ���Եķ��������Ĳ��Խṹ.
+2.3.1 IP�м�ϵͳ���Է���
+������������Զ�̺��ʽ���Է���RTTM��remote traverse unit_test method����1������IP�м�ϵͳ��һ���Բ���.RTTMӦ�õ�IP�м�ϵͳ���ԵĽṹ��ͼ4��ʾ.�ڸò��Խṹ��,IUT�������˿ڷֱ��Ӧ������PCO.��TE��PCO1��Ŀ����������һ��IP/ICMP���ݱ�ʱ,����IP·��ģ���·��,��������̫��LAN1ת������̫��LAN2��,��TE���Ӵ���LAN2�е�PCO2�õ���һ���ݱ�.����PCO1��PCO2���������ڲ�������,���,����ֻ������TE��ִ������PCO�ϵĲ����¼�,������׵ؿ�������LT��Э������.
+
+Fig.4��The unit_test architecture of IP relay system
+ͼ4��IP�м�ϵͳ���Խṹ
+2.4 ����TTCN��IP���Լ������
+��������IPЭ����ص�,����ͨ��ȷ������Ŀ���������IP��һ���Բ��Լ�.����һ����,���ǽ�����IP���Լ������ɺ���Ʒ���.
+2.4.1 IP���Լ�����ƺ����ɷ���
+����Ŀǰ,����Ϊ����ֱ�Ӵ�FSM,EFSM��������ʽ�����������ɲ������������൱��Ĺ�����2��4��.Ȼ��,RFC 791���涨��IPЭ����OSIЭ����Ƚ�,����Э����Ϊ����,�����ڶԵ�ʵ��֮��û�����ڽ��������ص����ݱ�����.���ⲿ��Ϊ�۲�,Ҳֻ��һ��Э��״̬,�����Ի�����,�Ͳ����������κ�״̬֮��ı�Ǩ.�������,���ļ򵥵�Э�����ȴ�����Ǵ��ⲿ�۲�Э��ʵ����Ϊ����������.�����ʺ��Զ�����.���ǰ���ISO/IEC 9646�Ľ���,����Э��Ĳ���Ŀ��,��ƺ�����IP���Լ�,����1.
+Table 1 IP v4 unit_test suite
+��1 IP v4���Լ�
+
+unit_test group��Test purpose��Test cases��
+IP-PDUPDU format��13
+IP-OPTOptions implement��10
+IP-SEGSegmentation function��6
+IP-RESReassemble function��6
+IP-BROBroadcast function��7
+IP-MULMulticast function��4
+IP-ERROption error handing function11
+
+�ٲ�����,�ڲ���Ŀ��,�۲�����,�����ݱ���ʽ,
+��ѡ��ʵ��,�޷ֶι���,�����鹦��,��㲥����,
+��ಥ����,����ѡ���.
+��������Ŀ�ĵ����ɹ�����ͼ5��ʾ,����ISO/IEC 9646�Ķ���,����Ŀ�Ŀ��Կ���һ���������һ����,������Ӧ�Ĳ��Թ��̵ľ�ȷ����.��ʵ��,����Э����������,һ���Թ�ϵ�͸��ӵ�Э��ʵ�ּ�����������Ӱ�쵽����Ŀ�ĺͲ�����������.һ���Թ�ϵ������Э�������ļ���ʵ�ֵļ�֮��Ĺ�ϵ.ѡ����һ���Թ�ϵ�Կɲ��Ե�������ʵ�ֵ�����������.
+
+Fig.5��The process of unit_test purposes generation
+ͼ5������Ŀ�����ɹ���
+�����������վ�������ȡ��IP��һ���Բ���Ŀ�ļ���,���ɴ���Ƴ�IPЭ��һ���Բ��԰���7��������,��53��������.��Щ�����飨����������IPЭ�����������е���Ҫ����(����ȫ����OPTIONѡ���),���нϺõ��걸��.
+2.4.2 ����������
+������IP��ϵͳһ���Բ������У�����2��,���ǽ���֤IP�����Ƿ�����ȷ�ؽ��յ��Ѿ����ֶε����ݱ���,���ܽ����������һ�����������ݱ�.Ϊ��,������TEֱ�Ӵ�PCO1�����������ݱ�,���������ݱ����ֱ�����ؾ��������еĴ����·�ɺ󵽴�SUT,֮��,TE��������PCO2�õ�һ����ȷ�������ĸ�������ݱ�,�����о�����������PCO2���¼�����,��ͼ3��ʾ.
+Table 2 One of unit_test cases for IP end system
+��2 IP��ϵͳ������֮һ
+
+Nr.LabelBehavior descriptionConstraint Ref.VerdictComments
+1��Pco1!Ip-Seg-SecondIp-Seg-02��(1)
+2��Pco1!Ip-Seg-FirstIp-Seg-01��(2)
+3����Start Tm-01Ip-Reass-01����
+4����Pco2?Ip-Reass-Whole��Pass��
+5������Pco2?Otherwise��Fail��
+������?Timeout Tm-01��Fail��
+
+Test Case Name:IP-REASSEMBLE-02; Group:IP/END/IP-RES;
+Purpose:To verify that send two sub-datagrams disorderly,
+IUT can correctly reassemble them to a whole datagram.
+COMMENTS:(�й�PDUԼ����ϸ��,�μ�ͼ3);
+(1) FLAG field:=000,FRAGMENT field:=offset in original data(��0);
+(2) FLAG field:=010,FRAGMENT field:=0.
+������IP�м�ϵͳһ���Բ������У�����3��,�ò������Ĳ���Ŀ����Ϊ����֤����������һ�����н���·�ɺͼ�¼·��ѡ�strict route and record route option�������ݱ�,IUT�Ƿ�����ȷ����Դ·���滻Ŀ�ĵ�ַ�Լ���¼���ĳ��ڵ�ַ.��ͼ4��ʾ,TE��PCO1����һ�����н���·��ѡ���IP���ݱ�,����Դ��ַ���óɲ�����������LAN1�е�IP��ַ,Ŀ�ĵ�ַ���ó�IP·��������ڵ�ַ,����Դ·�������ǲ�����������LAN2�е�IP��ַ.��IP·�������յ������ݱ�ʱ,��Ӧ��Դ·�ɣ�������������LAN2�е�IP��ַ������Ŀ�ĵ�ַ,�������ݱ���Դ·�����н�IP·�����ĳ��ڵ�ַ��¼����.�������������ݱ��ᱻIP·�������͵�TE�Ŀ��ƹ۲��PCO2.����������¼�����������һ���Ļ�,�������������PASS�Ĳ����о�.
+Table 3 One of unit_test cases for IP relay system
+��3 IP�м�ϵͳ������֮һ
+
+Nr.LabelBehavior descriptionConstraint Ref.VerdictComments
+1��Pco1!Ip-Strict-OptionIp-Strop-01��(1)
+2��Start Tm-01������
+3����Pco2?Ip-Strict-OptionIp-Strop-02Pass(2)
+4����Pco2?Otherwise��FailProcedure Error
+5����?Timeout Tm-01��FailNot Forwarded
+
+Test Case Name:IP-STRICTROUTE-01; Group:IP/RELAY/IP-OPT; 
+Purpose:To verify when tester sends a datagram with strict and recorder route option,
+IUT can correctly replace destination address with source route and recorder
+its outgoing address.
+COMMENTS:(�й�PDUԼ����ϸ��,�μ�ͼ4);
+(1) sour-addr field:=Tester-sour,dest-addr field:=lut-in,sour-route��1��:=Tester-dest;
+(2) sour-addr field:=Tester-sour,dest-addr field:=Tester-dest,sour-route��1��:=lut-out.
+3 ·������IP v4ģ���һ���Բ���
+��������Э�鼯�ɲ��Ի���PITS,���ǶԹ�����ڵ�·����������IPЭ����м�ϵͳһ���Բ���.����,���ǻ��Ⱥ���������ƿ�����·����ԭ�͢��ԭ�͢��IPģ�������һ���Բ���,������3�ֲ�Ʒ�Ĳ��Խ�������˱Ƚ�,ͼ6��·����ԭ�͢��ԭ�͢���Խ���ıȽ�ʾ��ͼ.ͼ7�ǽ���·����Router��·����ԭ�͢���Խ���ıȽ�ʾ��ͼ.
+
+Fig.6 Compare between router prototype �� and ��
+ͼ6 ·����ԭ�͢�͢�ıȽ�
+
+ͼ7 ·����ԭ�͢�ͽ���·�����ıȽ�
+Fig.7 Compare between router prototype ��and imported router
+�������ݲ��Խ��,���ǿɵó����½���:
+����(1) ·����ԭ�͢���ԭ�͢����,�ڴ���IPѡ���IGMP�����ϴ����Ž϶������ʹ���;
+����(2) ԭ�͢��ھ�����IPһ���Բ���֮��,���ܺ������������Եĸ���,������ͨ���ʴ�51%��ߵ�����100%;
+����(3) ���ݶԽ���·�����Ĳ��Խ��,���ǿ��Է���,������RFC 791��RFC 1122���ᵽ��һЩѡ���ϸ��.
+����ͨ��ʵ��֤��,��ͨ���������ƺͿ���������,һ���Բ�����������ⶨλ����ͬʱ�����ṩ��������ķǳ��õķ���.
+4 �� ��
+�����ڱ�����,�����ص������IPһ���Բ��Է�����ʵ�ʵ�·������Ʒ�����Ͳ����е�Ӧ��,������ʹ�õĲ��Է����Ѿ���PITSϵͳ�е���ʵ��.����IP��ϵͳ���м�ϵͳ,�����������ֲ�ͬ�Ĳ��Է���,����ƿ����˻���TTCN��ʽ��IP v4һ���Բ��Լ�.ͬʱ,���������п�����·����ԭ�ͺ�ĳ�������·����������ʵ�ʵĲ���.ʵ��֤��,����PITS��TCP/IPһ���Բ����ǿ��е�,������ɵ�IP v4���Լ�Ҳ���൱�걸��.����,��Щ������������Ӧ�õ�����TCP/IPЭ���һ���Բ��Ի��.����,���ǻ�ע�⵽,һ���Բ��Եķ�չ�벻��ʵ�ʵ�Ӧ������.���ǽ���������ʵ�ʵ������豸����ATM��������Internet·�������ͷֲ�ʽϵͳ�Ĳ�������.��
+������Ŀ�������о��õ�������Ȼ��ѧ����(No.69725003,69682002,69473011)����.
+���߼�飺������,1972����,��ʿ��,��Ҫ�о�����Ϊ���������,Э�����.
+�����������⽨ƽ,1953����,��ʿ,����,��ʿ����ʦ,��Ҫ�о�����Ϊ���������,Э�����.
+�������������޻�,Ů,1940����,����,��Ҫ�о�����Ϊ���������.
+����������������,1972����,����ʦ,��Ҫ�о�����Ϊ���������,Э�����.
+���ߵ�λ��������(�廪��ѧ�������ѧ�뼼��ϵ��������100084)
+�����������⽨ƽ(�廪��ѧ�������ѧ�뼼��ϵ��������100084)
+�������������޻�(�廪��ѧ�������ѧ�뼼��ϵ��������100084)
+����������������(�廪��ѧ�������ѧ�뼼��ϵ��������100084)
+�ο����ף�
+��1��Bi Jun,Wu Jian-ping.Towards abstarct unit_test method for relay system testing.In:Davidson I ed.Proceedings of the IFIP 10th International Workshop on Protocol Test Systems.Amsterdam:Elsevier Science Publishers,1997
+��2��Chanson S T,Zhu Jin-song.A unified approach to protocol unit_test sequence generation.In:Smith J ed.Proceedings of the IEEE INFORCOM Conference.New York:IEEE Press,1993
+��3��Huang C M,Lin Y C,Jang M Y.An executable protocol unit_test sequence generation method for EFSM-specified protocols.In:Litwack D W ed.Proceedings of the IFIP 5th International Workshop on Protocol Test Systems.Amsterdam:Elsevier Science Publishers,1995
+��4��Bourhfir C,Dssouli R,Aboulhamid E et al.Automatic executable unit_test case generation for extended finite state machine protocols.In:Marteniuk R ed.Proceedings of the IFIP 10th International Workshop on Protocol Test Systems.Amsterdam:Elsevier Science Publishers,1997
+�ո����ڣ�1999-01-12
+�޸����ڣ�1999-03-18

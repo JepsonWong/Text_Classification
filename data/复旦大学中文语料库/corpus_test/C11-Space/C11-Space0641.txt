@@ -1,0 +1,31 @@
+�Ϻ�����
+AEROSPACE SHANGHAI
+2001 Vol.18 No.2 P.56-60
+
+
+
+
+���ǿ�����ӹ̼���
+�������� �캣Ԫ�� ����ƽ�� 
+ժ��Ҫ��������FY-1C�������й���ռ���价�������������ǡ�����������������Ҫ���������ƹ����У��Ը�������ϵͳ�ڼ�����ơ�Ԫ����ѡ��������ƵȵĿ�����ӹ����Ҫ���ر����CPU�ʹ洢���ĵ����ӷ�תЧӦ��SEU��������ЧӦ��SEL�����顣������ϵͳ��������ù���ע��ķ�������˿�SEU�ķ������顣
+�ؼ��ʣ�̫��ͬ�����ǣ��ռ���䣻������ӹ̣���������
+����ţ�V520.6�����ױ�ʶ�룺A
+���±�ţ�1006��1630(2001)02��0056��05
+Radiation-Resistance and Reinforce Technology of Satellite
+SONG Ming-long��No.509 Institute of SAST, Shanghai 200240, China����
+ZHU Hai-yuan��No.509 Institute of SAST, Shanghai 200240, China����
+ZHANG Sheng-ping��No.509 Institute of SAST, Shanghai 200240, China����
+
+Abstract��Putting forward the needs of radiation-resistance and reinforce of the whole FY -1C satellite, stand-alones and units, analyzing space radiation environment o f the satellite. In the design and manufacture, we raise clearly the requirement s of radiation-resistance and reinforce about the stand-alones and system's te chnology design, unit selection and software programming. Especially SEU and SEL tests are done for the stand-alones with CPU or memory SEU-resisting simulati on unit_test is also done for the software of the instruments and system by failure- injecting method.
+Keywords��Sun synchronous satellite; Space radiation; Radiation-resistance and reinforce; Simulation tes
+���߼�飺������(1940-)���У��о�Ա���Ϻ����ѧ���Ա���о������������塣 
+���ߵ�λ�����������Ϻ����켼���о�Ժ509�����Ϻ� 200240����
+�����������캣Ԫ���Ϻ����켼���о�Ժ509�����Ϻ� 200240����
+��������������ƽ���Ϻ����켼���о�Ժ509�����Ϻ� 200240����
+
+�ο����ף�
+��1�ݷ�����.�����ǿ�����ӹ̱�֤��ٵ�̽��[J].ԭ���ܿ�ѧ����,1997, 31��3��.
+
+�ո����ڣ�2000��9��29��
+�޸����ڣ�2001��1��5��
+�������ڣ�2001��4��25��

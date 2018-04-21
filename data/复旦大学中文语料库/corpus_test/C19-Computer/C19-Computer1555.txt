@@ -1,0 +1,108 @@
+��Ϣ�����
+Information and Control
+1999�ꡡ��28����1�ڡ�Vol.28��No.1��1999
+
+
+
+ʱ����������ϵͳ��³���ȶ���³����
+������
+
+����ժ��Ҫ������һ��΢�ֲ���ʽ�����˼���������� ϵ����ʱ��ϵͳ��³���ȶ���³���򶨵ĳ����������Щ����ֻ���ж�һ�����������Ƿ�Ϊ M����ʹ�÷��㣮
+�����ؼ��ʡ�ʱ�ͣ�����ϵͳ��³���ȶ���³����
+ROBUST STABILITY AND STABILIZATION FOR LINEAR INTERVAL
+SYSTEMS WITH TIME-DELAY
+LIU Zurun
+(Dept. of Automation, Xiang Tan Polytechnic University��411201) 
+Abstract��In this paper, a differential inequality has been used to deduce sufficient conditions of robust stability and robust stabilizatio n of some type interval systems with time-delay ,these conditions can be ea sily used because it needs only to unit_test a matrix whether it is a M matrix.
+Key words��time-delay, interval system, robust stability, robust stabilization
+
+����ϵͳ��³���ȶ���³�����ǲ�ȷ������ϵͳ�������Ҫ���ǵ�����Ҫ��ϵͳ���ܣ�������������ʱ��ϵͳ³���ȶ��Ե��о��Ѿ�ȡ���˲����о��ɹ�,���Ľ�����һ��΢�ֲ���ʽ�����˼����������ϵ����ʱ��ϵͳ³���ȶ���³���򶨵ĳ��������
+1�����������
+�������塡��ʵ����A=(aij)n��n�����зǶԽ���Ԫ�ط���(��aij ��0,i��j, i,j=1,2,��,n)�����A��N����A��N��A������˳������ʽ�����㣬���AΪM ���󣬼���A��M����A�����������������и�ʵ�������A�ȶ�������A��S��
+��������1��5�ݡ���A��M��B��N��B��A(��bij��a ij,i,j=1,2,��,n)����B��M��
+��������2��5�ݡ���A��M����-A��S.
+��������3��5�ݡ���C=(cij),D=(dij)��n��n ʵ����x(t)��΢�ֲ���ʽ
+x(t)��Cx(t)+D(t)
+�Ľ⣬����,��D��0��-(C+D)��M������ڳ���r��0������k�� 0ʹ��
+x(t)��ke-rt������t��0.
+2��ʱ����������ϵͳ��³���ȶ���
+��������������������ϵͳ
+��������(1)
+����bij,cij,dij,eijΪ������rij(t)Ϊ�н����������� ���㣺0��rij(t)�ܦ�.
+�������U=(uij)n��n,V=(vij)n��n, ����
+m.
+vij=max{|dij|,|eij|}, ��(i,j=1,2,��,n).
+���������aij��[bij,cij],gij��[dij,eij],����ϵͳ 
+����������(2)
+���������涨��.
+��������1������������
+����1) -(U+V)��M.
+����2) U+V��S.
+֮һ���㣬��ϵͳ(1)³���ȶ�.
+����֤������֤1) ��Vi(x(t))=|xi(t)|,i=1,2,��,n.��
+
+����.���� �õ���������:
+
+����������1)����ʱ��������3��֪��ϵͳ(2)³�������ȶ������ϵͳ(1)³�������ȶ� ��
+��������������2)����ʱ��������2����������1)���Ƶ�ϵͳ(1)³�������ȶ�������֤�ϣ�
+��������ʱ����������ϵͳ
+.����������(3) 
+����bij(t),cij(t),dij(t),eij(t),rij(t)Ϊ�н������� ����rij(t)���㣺0��rij(t)�ܦ�.
+�������U=(uij)n��n,V=(vij)n��n,����
+
+
+���������aij(t)��[bij(t),cij(t)], gij(t)��[dij(t),eij(t)]������ϵͳ
+������������������(4)
+���������涨��.
+��������2������������
+����(1) -(U+V)��M.
+����(2) U+V��S .
+֮һ���㣬��ϵͳ(1)³���ȶ�.�ö����֤�������ڶ���1�����ԣ�
+3��ʱ����������ϵͳ��³����
+�������Ǿ�������ϵ�������Կ���ϵͳ
+(t)=G[B,C]x(t)+G[D,E]x(t-��(t))+Fu(t)����������������(5)
+u(t)=Kx(t)��������������������������������(6)
+���B=(bij)n��n, C=(cij)n��n, D=(dij)n��n, E=(eij)n��n,F=(fij)n��m, K=(kij)m��n,��(6)����(5)��
+(t)=(G[B,C]+FK)x(t)+G[D,E]x(t-��(t))��������������(7)
+�������U=(uij)n��n,V=(vij)n��n, ����
+
+vij=max{|dij|,|eij|}, ��(i,j=1,2,��,n).
+���������A��G[B,C], G��[D,E], ����ϵͳ
+(t)=(A+BK)x(t)+Gx(t-��(t))������������������������(8)
+���������涨��.
+��������3������������
+����(1) -(U+V)��M.
+����(2) U+V��S.
+֮һ���㣬��ϵͳ(7)�ڿ�����(8)������³���򶨣��ö����֤���붨��1�����ƣ����ԣ� 
+�������ǿ���ϵͳ
+(t)=G[B(t),C(t)]x(t)+G[D(t),E(t)]x(t-��(t))+F(t)u(t)����������������(9)
+u(t)=K(t)x(t)��������������������������������(10)
+���B(t)=(bij(t))n��n,C(t)=(cij(t))n��n,D(t)=(d ij(t))n��n,E(t)=(eij(t))n��n,F(t)=(fij(t))n��m,K(t)=(kij(t))m��n
+��(10)����(9)��
+(t)=(G[B(t),C(t)]+F(t)K(t)x(t)+G[D(t),E(t)]x(t-��(t))������(11)
+�����������U=(uij)n��n,V=(vij)n��n,����
+
+�����ڶ���2�����������涨��.
+��������4������������
+����(1) -(U+V)��M.
+����(2) U+V��S.
+֮һ���㣬��ϵͳ(9)�ڿ�����(10)������³���򶨣�
+4������
+��������ϵͳ
+
+����ΪM���󣬹ʸ�ϵ ͳ³���ȶ���
+
+���߼�飺������46�꣬�����ڣ��о�����Ϊ�������ۼ�Ӧ�ã����������ۣ��˹����� ���������Ӽ������˶�����ϵͳ�ȣ�
+���ߵ�λ����̶��ѧԺ�Զ���ϵ�����ϡ�411201
+�ο�����
+1�������죮 Robust Stability of Linear Interval Systems with Time-de lay , ��������
+������Ӧ��,1998, 15(1):134��138
+2��Wang S S, Chen B S, Lin T P. Robust Stability of Uncertain Time-delay System s . 
+����Int. J. Control , 1987, 46(3):963��976
+3��Wang S S, Lin T P. Robust Stabilization of Uncertain Time-delay Systems with 
+����Sampled Feedback. Int. J. Systems Sci., 1988, 19(3):399��404
+4��Shyu K K, Yan, J J. Ronust Stability of Uncertain Time-delay Systems and its 
+����Stabilization by Variable Structure Control. Int. J. Control, 1993, 57(1):237��
+����246
+5������壮��ʱ�������ͺ�ϵͳ���ȶ��ԣ���ѧͨ����1987,7:490��494
+�ո����ڣ�1998-08-24

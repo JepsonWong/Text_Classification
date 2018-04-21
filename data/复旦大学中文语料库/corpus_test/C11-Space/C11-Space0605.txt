@@ -1,0 +1,33 @@
+�Ϻ�����
+AEROSPACE SHANGHAI
+2001 Vol.18 No.3 P.22-25
+
+
+
+
+���߿�ϵ������Ŀ����������������о�
+�̹����� 
+ժ��Ҫ��������Ȼ��״��������״���ָ߿�ϵ������Ŀ����������ԡ�����̽�ֹ��Ǻ���ŵ���������������͸������ص�Ӱ�졣ָ�����������õ��������Σ��߱��ɿ����ȶ��Ժ���С������������߿�����������������ʱ�䶼����Ҫ���塣
+�ؼ��ʣ�ϵ�����򣻷綴���飻��ŵ��ЧӦ��������������
+����ţ�V211.24�����ױ�ʶ�룺A
+���±�ţ�1006-1630(2001)03-0022-04
+Aerodynamic Experiments of Extremely High Altitude Tethered Balloons 
+CAI Guo-hua��Beijing Institute of Aerodynamics, Beijing 100074��China����
+
+Abstract��The report presents aerodynamic properties of the tethered balloons in the natural and streamlined shape at some fixed altitude and puts emphasis on exploration of the effects of angle of attack and Reynolds number on lift, drag and pitching moment of the balloons. A reasonable and excellent aerodynamic configuration with the reliable stability and minimum drag is significant for strengthening the capability against the gust and pro1onging the operation time at such a high altitude.
+Keywords��Tethered balloon; Wind tunnel unit_test��Reynolds number effect; Aerodynamic property
+
+���߼�飺�̹�����1939-�����У��о�Ա���о����򣺿�������ѧ���� 
+���ߵ�λ���̹������������������о��������� 100074����
+
+�ο����ף�
+��1��Euler A J, Badeersha S S, Schroeder L D. Very high a1titude tethered balloon feasibility study[R]. AIAA-95-16l2.
+��2��Krausan J A. Investigation of various parameters affecting altitude performance of tethered aerostats[R]. AIAA-95-1625.
+��3��Badesha S, Euler A, Schroeder L.Very high altitude tethered balloon parametric sensitivity study[R]. AIAA-95-1625.
+��4���Ϻ�����ֿƼ��鱨��.�����Ʒ��Ʊ�׼�ֲ�[C].���칤ҵ�����ߡ���о���,1984.
+��5�ݲ̹���.�߿�ϵ����������������Է綴������[R].�������������о���,1998.
+��6��Tekrony K L. Wind tunnel tests of natural shape balloon mode1[R]. Ames Aeronanutical Laboratory of NASA,AD-667563.
+��7���ŷ���.FK4��ͧ��1��20��ģ�Ͳ�������[R].�������������о���,1990.
+
+�ո����ڣ�1999��10��11��
+�������ڣ�2001��3��1��

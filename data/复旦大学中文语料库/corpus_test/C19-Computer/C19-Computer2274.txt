@@ -1,0 +1,234 @@
+�����Ӧ���о�
+APPLICATION RESEARCH OF COMPUTERS
+2000��Vol.17��No.5��P.58-61
+
+
+
+32λ����ϵͳ�µĻ�ϱ��
+���ǿ�����¡������
+ժ  Ҫ  ͨ���о�������Ա�̵Ľӿڹ淶���������������棺�����͹��̵�����Լ������ջ�ĵ���Լ������ͬ�������ɵ��ӳ���֮��������ݵ�Լ������������32λ�Ӵ�����ϵͳ�»�ϱ�̵�ʵ�ַ�������ͨ������ʵ����ʾ����ʵ��Ӧ�á�
+�ؼ���  ��ϱ��  ����Լ��  ����Լ��   ��������Լ��
+����������Ա����ָԴ����ʹ�����ֻ��������ϼ�����������������Ӧ�ó���Ĺ��̡����ܻ�����Ա�̻������ߴ���һЩ�������ս�������ļ�ֵ���ڣ�(1)��ʹ���ܹ��������е����������Ա�̵Ĵ��룻(2)��ʹ���ܹ�ʹ�õ�һ��������ʵ�ֵĹ��̣�(3)��ʹ���ܹ���ִ���ٶȡ�Ч���ϵõ���ߡ�
+����������Ա�̱����˽����¹��򣺱����͹��̵�����Լ������ջ�ĵ���Լ������ͬ�������ɵ��ӳ���֮��������ݵ�Լ����������Լ�������һ��ͳ��Ϊ��ϱ�̵Ľӿڹ淶��
+1  ��������Լ��
+��������Լ�������˳������������ӳ���Ͳ�����������д��ݡ��ڻ�����Եĳ����У��㲻��ʹ����ģ�鹲����ͬ���ӳ�������������뿼�ǲ���ʲô���ĵ���Լ�����������ڻ�ϱ����ʹ�ò�һ�µĵ��ù����ڳ�������ӱ����в��������ֻ���ڳ�������ʱִ�е����е�����һ��ʱ�Ż�������ִ��������������ģ��ᵼ�³���Ƿ��˳�����ϵͳ��ֹ��ֱ��ԭ�������ڵ��ô����µ��ڴ�/��ջ������ˣ���ϱ�̱���ʹ��һ�µĵ���Լ������Windows 95/98����ϵͳ�����У��߼����Ա�̳��õĵ���Լ���У�Fortran PowerStationĬ�ϵ���Լ��(���¼��For32)��C/C++Ĭ�ϵ���Լ����BasicĬ�ϵ���Լ����PascalĬ�ϵ���Լ����Stdcall����Լ��(΢���Windows APIʹ�õĵ���Լ��)����Լ���ľ���ϸ�����£�
+
+����For32C/C++VBDELPHIStdCall
+����(Ĭ��)��ֵַ��ֵֵַ
+����(��ֵ)ֵֵֵֵֵ
+����ָ���ַ��ַ��ַ��ַ��ַ
+�ַ�����ַ+���ȵ�һ���ַ���ַ��һ���ַ���һ���ַ�
+�ַ���ָ���ַ+���ȵ�ַ~��ַ��ַ
+�����ַ��ַ��ַ��ַ��ַ
+����ָ���ַ��ַ��ַ��ַ��ַ
+��������
+��׺@nNone~@None
+��Сд��дСд~��Сд
+��ջ�����ٱ�����ģ�鱻����ģ�鱻����ģ�鱻����ģ�鱻����ģ��
+
+��������У�����ĺ������£�
+����������ָ���͡������͡������͡�˫�����͵��������͡�
+��������(Ĭ��)�����ñ������Ĭ�Ϸ�ʽ���ݱ������磺C/C++Դ���룺void unit_test(int VAR1��float VAR2)
+��������(��ֵ)�����ñ��������ʽ�Դ�ֵ��ʽ���ݱ������磺C/C++Դ���룺void unit_test(int VAR1��float VAR2)
+��������(����ַ)��C/C++Դ���룺void unit_test(int VAR1��float &amp; VAR2)
+����ֵ��������������ֵѹ���ջ����4���ֽ�Ϊ�ֽ��ߡ�
+������ַ����4���ֽ���ɵĵ�ֵַѹ���ջ��
+������һ���ַ��������ַ������ԣ�����һ���ַ���ASCII��ת����4�ֽ�����ѹ���ջ��
+����@n����������ֽ���(ʮ����)�� 
+2  ��������Լ��
+��������Լ�������˸߼������ڱ�ʶ����(�ⲿ��������������)������.OBJ�ļ���ʱ��ʲô���ĸı䡣���ڳ��������Ĳ����б��еĲ�����������Ӱ�졣����Լ�������Լ����ϵʮ�����У���Ϊ��������ȷ������Լ����ͬʱҲȷ��������Լ�������ǣ�ֵ��ע����ǣ�C/C++�����ķ��ű����Ǵ�Сд���еģ����������Եķ��ű���Ȼ����Ҳ������һЩ������鷳�����������ʹ��Alias���Խ�������ϵĳ�ͻ��
+�����������ű��ܽ���Fortran��C/C++��VB��DELPHIʹ�õ�����Լ����
+
+��������
+��For32C/C++VBDelphiStdCall
+��׺@nNone~@None
+��Сд��д��Сд~��Сд
+
+�������磬����VC++�е���һ�κ����������£�
+����extern int_stdcall Sum_Up (int a, int b, int c);
+����ÿ������ռ4���ֽڣ����.OBJ�ļ��еı�ʶ�����£�_Sum_Up@12 
+3  ȷ���������ݷ�ʽ
+��������Fortran PowerStation��C/C++��DELPHI���ԣ��������̴������������̵Ĳ��������ݷ�ʽ��Ϊ���֣���ֵ�봫��ַ����ֵ��ָ�������������⿪�ٲ����ڴ�ռ䣬�ڳ��������ڼ�������̽�ʵ�ʲ�����ֵѹ���ջ�������������̣������������ڲ���ֵ�ĸı䲻��Ӱ����������ж�Ӧ����ֵ�ı仯������ַ��ָ�ڳ��������ڼ�������̽�ʵ�ʲ����ĵ�ַ(4���ֽ�)ѹ���ջ�������������̣�������������������̹��������ռ�ڴ棬��˱����������в����ı仯ֱ��Ӱ����������ж�Ӧ������ֵ������Windows 95/98��32λ����ϵͳ�����е�ַ����4�ֽڳ��ȣ���ֱ��Ѱַ��Χ��4G����ˣ�������ҪԭDOS��Windows 3.x����ϵͳ�µ�near��farָ�롣
+�������ô�ֵ��ʽʱ�����������뱻�������̵Ĳ����б��еĶ�Ӧ����������ݡ�����ÿ�����ԵĲ��ص㲻ͬ�����ǵ��������Ͳ���ȫ���ݡ�Fortran PowerStation��C/C++��DELPHI��VB���Ӧ�ĳ����������Ͷ�Ӧ��ϵ���±���ʾ��
+
+��For32C/C++VBDELPHI
+����(2�ֽ�)INTEGER(2)shortIntegersmallint
+������(4�ֽ�) INTEGER(4)int��longLonginteger
+������(4�ֽ�)REAL(4)floatsinglesingle
+˫����(8�ֽ�)REAL(8)doubleDoubledouble
+����DIMENSION(m:n)[m](m To n)array[m..n] of
+�����ַ���CHARACTER(LEN=n)Char var [n]String*n��
+�䳤�ַ���CHARACTER*(*)Char var[ ]StringString
+
+4  ʵ��ʾ�� 
+����Ϊ�˳������Windows����ϵͳ�ڶ������������ǿ���ԣ����ǲ��õķ����ǽ�ĳһ���Ե�Դ����(�����ó���)����ɶ�̬���ӿ�.DLL��������һ���Ե�Դ����(���ó���)����ɿ�ִ�г��򡣼��ڹ��̽��Fortran������ӻ���Ҫ����ߣ�������ǲ��ý�FortranԴ������Ϊ�����ó��򣬶����������������߼�������Ϊ���ó���İ취��
+4.1  VB����FORTRAN
+����Visual Basic��С������ı�̹��߷�չ������΢��Ĳ������ƣ���Ϊǿ��Ŀ������ߡ�VBA��ΪOFFICEϵ������ı�̹��ߣ���VBScript���ΪWindows 98����Ҫ�ű����ԣ��ͳ��˵����΢���Visual Basic�����ӡ����̽羭��ʹ��VB��Ϊ���ӻ�����Ŀ������ߣ�����������Զ��ԣ�VB���������ͽ��٣����Ⲣ��������������д�����ó���Ĺ��ܡ�
+������MS FORTRAN POWERSTATION���ɿ����������½�һ����̬���ӿ���Ŀ������ΪFORDLL���ڰ��������ӳ���Դ���������������£�
+SUBROUTINE FORDLLA(M, N)
+!MS$IF.NOT.DEFINED (LINKDIRECT)
+!MS$ATTRIBUTES DLLEXPORT:: FORDLLA
+!MS$ATTRIBUTES VALUE::M
+!MS$ENDIF
+INTEGER(4) M, N
+......
+RETURN
+END
+SUBROUTINE FORDLLB(STR)
+!ms$if.not. defined(LINKDIRECT)
+!ms$attributes dllexport:: FORDLLB
+!ms$endif
+CHARACTER *(40) STR
+......
+RETURN
+end
+REAL(4) FUNCTION FORDLLC(ARRAYX)
+!MS$IF.NOT. DEFINED(LINKDIRECT)
+!MS$ATTRIBUTES DLLEXPORT:: FORDLLC
+!MS$ENDIF
+REAL(4), DIMENSION(1:2, 1:2)::ARRAYX
+FORDLLC=ARRAYX(1, 1)+ARRAYX(1, 2)+ARRAYX(2, 1)+ 
+ARRAYX(2, 2)
+RETURN
+END
+����Դ����˵����
+����(1)!MS$ATTRIBUTES DLLEXPORT::FORDLLA
+������˵��DLL����For32����Լ����ͬʱҲȷ���˲���For32����Լ��������ǰ������Լ������DLL��FORDLLA�ӳ���ı�ʶ��Ϊ��_FORDLLA@8���������ַ�ȫ����д����׺@8��ʾ��������Ϊ8���ֽڣ����к�һ��32λ�ĵ�ֵַ��һ��4�ֽڳ������͡�DLL�еĵڶ����ӳ���ı�ʶ��Ϊ��_FORDLLB@8����������ΪFor32����Լ���涨�ַ�����������ʱ����32λ��ַ���⣬��Ҫ��һ��4�ֽڵ��ַ���������Ϣ��
+����(2)!MS$ATTRIBUTES VALUE::M
+�ӳ������M���ô�ֵ��ʽ��For32����Լ��Ĭ���Ǳ������ô���ַ��ʽ��
+����(3)CHARACTER *(40)STR
+��������FORTRAN�б䳤�ַ������ܳ����ڲ������У����ʹ��һ�������ַ������档��������ɵĶ�̬���ӿ�FORDLL.DLL�а����������ӳ����ӳ������Ʒֱ���_FORDLLA@8��_FORDLLB@8��_FORDLLC@4�����ó������VB���ԣ���MS Visual Basic 6.0������Դ�������¡�
+����VB����Դ�����У�Ϊ���ܵ���Fortran�������̣�������ģ�鲿�ֶԶ�̬�����ӳ������������
+Private Declare Sub callforA Lib &quot;fordll&quot; Alias &quot;_FORDLLA@8&quot; (By Val a As Integer, b As Integer)
+Private Declare Sub callforB Lib &quot;fordll&quot; Alias &quot;_FORDLLB@8&quot; (By Val str As String, c As Long)
+Private Declare Function callforC Lib &quot;fordll&quot; Alias &quot;_FORDLLC@4&quot; (x As Single) As Single
+����Ȼ��Ϳ����ڳ����н������µ����ˡ�
+Dim M As Integer, N As Integer, Value As Integer: Dim str1 As
+��String
+Dim arrayX (1 To 2, 1 To 2) As Single
+callforA M, N
+callforB str1, c
+Value=callforC(arrayX(1,1))
+��������ÿ��Ҫ���õ��������Ե����̣���VB�ж���ʹ��Declare�����������������������VB��������ʹ�õ���������Lib�������������ڶ�̬���ӿ�����ƺ�λ�á���ʡ��·����������·������Ѱ�ң���ǰĿ¼��ϵͳĿ¼(һ��ΪC:\Windows\system)��PATH������Ŀ¼��Alias�����˱�����������OBJĿ���ļ��е�����������������ɱ�����������ʹ�õĵ��ù���ȷ����
+�����ڲ������У����ڱ��������Ĵ��ݣ���������������ʹ�ð�ֵ���ݣ�VB��Ҫʹ��ByVal����˵������������������ʹ�ð���ַ���ݣ�VB��Ҫʹ��ByRef����˵��(�����Ĭ�Ϸ�ʽ)�������ַ���������VB��ʹ��ByVal str As String�﷨���ַ�����ַѹ����ö�ջ������FORTRAN���ַ�������������4�ֽڵ��ַ���������Ϣ�����VB�������̵Ĳ������л�Ӧ����һ��4�ֽ�(������)�ĳ���ֵ�������������������Ǵ��������еĵ���Ԫ�أ������봫��ͬ���͵ı�����ͬ����ʱ��Ҫ���������鴫�ݵ�DLL�����С����DLL������ר��Ϊ�Զ�����д�ģ���ô�����鴫�ݵ�DLL���̵ķ�ʽ�봫�ݵ�Visual Basic��������ͬ�ģ����Ͽյ����š����DLL���̲���ֱ�ӽ����Զ������飬��ֵ�����Կ����������д��ݣ������÷�ʽ��������ĵ�һ����Ԫ����Ϊ��ֵ�����������ǰ�˳������ڴ��У�������ְ취�ǿ��еġ�ֻ��Ҫ������ĵ�һ��Ԫ�ش��ݵ�DLL���̣���DLL���ܹ�������������е�Ԫ��
+4.2  VC����FORTRAN
+������������չʾ������һ�ּ�����FORTRAN����������ʹ��FORTRAN����Լ����VB��������Ҳʹ��FORTRAN����Լ����Ȼ�������������뱻��������Ҳ�ɶ����õ������̵ĵ���Լ���������������չʾ������һ��������FORTRANԴ����������VB����FORTRAN�����е���Ӧ���ִ�����ͬ�����£�
+SUBROUTINE FORDLLA(M, N)
+!MS$IF.NOT. DEFINED(LINKDIRECT)
+!MS$ATTRIBUTES C,DLLEXPORT:: FORDLLA
+��INTEGER(4) M,N
+!MS$ATTRIBUTES VALUE::M
+!MS$ATTRIBUTES REFERENCE::N
+!MS$ENDIF
+SUBROUTINE FORDLLB(STR)
+!MS$IF.NOT. DEFINED(LINKDIRECT)
+!MS$ATTRIBUTES C,DLLEXPORT:: FORDLLB
+CHARACTER *(50) STR
+!MS$ATTRIBUTES REFERENCE::STR
+!MS$ENDIF
+......
+str(len(STR):len(STR))=char(0)
+......
+REAL(4) FUNCTION FORDLLC(ARRAYX)
+!MS$IF.NOT. DEFINED(LINKDIRECT)
+!MS$ATTRIBUTES C,DLLEXPORT:: FORDLLC
+!MS$ENDIF
+REAL(4),DIMENSION(1:2,1:2)::ARRAYX
+��������˵����
+����(1)!MS$ATTRIBUTES C, DLLEXPORT:: FORDLLA
+������������C����Լ��������Ĭ�ϵ���Լ����
+����(2)!MS$ATTRIBUTES REFERENCE::STR
+�����ַ���STR���ô���ַ��ʽ���ݡ����������������̶��ַ����������޸ľͻ�Ӱ�������������Ӧ���ַ������ַ���STRҲ�ɲ��ô�ֵ��ʽ���ݣ������������̶��ַ����������޸Ĳ���Ӱ�������������Ӧ���ַ�����
+����(3)STR(LEN(STR):LEN(STR))=CHAR(0)
+����C/C++�е��ַ������ԡ�\n����β�����FORTRAN���ַ��������һ���ַ�Ҳ��NULL��
+VCԴ����������������£�
+extern &quot;C&quot;
+{
+��void fordlla(int var1, int* var2);
+��void fordllb(char* str, int arg);
+��float fordllc(float* a);
+}
+����VC����������������Ҫ��extern &quot;C&quot;������������extern &quot;C&quot;���Ӧ�������жԸ����̵ĵ���֮ǰ�����ڱ����б��������̲�����C����Լ����extern &quot;C&quot;����е�������ȫ��Сд���ڲ������У�C/C++�ı�������Ĭ���ǰ�ֵ���ݣ�������ַ���ݣ���Ӧ�����ݲ�����ָ�룬��Ҫ�����������飬ֻ�轫�����һ��Ԫ�صĵ�ַ�������������̼��ɣ������ַ���������C/C++����������Ҫ���������������ַ���ָ��(4���ֽ�)���ַ������ȡ�����ÿ�����Զ��������ڴ��еķ��䲻ͬ�����ڶ�ά���飬�а������кͰ����������֡�FORTRAN��VBȱʡ���ð������У�DELPHI��VCȱʡ���ð������С����磺��������X(3��3)��FORTRAN�������ڴ��е�ǰ4��Ԫ��Ϊ��X(1��1)��X(2��1)��X(3��1)��X(1��2)��VC�������ڴ��е�ǰ4��Ԫ��Ϊ��X(1��l)��X(1��2)��X(l��3)��X(2��1)��
+����������VC�е��õ�ʵ�ֲ��֡�
+int m,n;
+unsigned int c;
+float a[2][2];
+char b[50];
+fordlla(m,&n);
+c=m_Str1.GetLength( );
+fordllb(b,c);
+m_rtnSum=fordllc(&amp;a[0][0]);
+4.3  DELPHI����FORTRAN
+������΢��ı�̹�����ȣ�BORLAND DELPHI���������������͵����ԣ����ڴ�����������ķ��������ٵı�������ǿ������ݿ�֧�֣���Windows��̵Ľ��ܽ�ϣ���������������°汾��������DLL���Թ��ܣ������ܵ���������ĳ���Ա�Ļ�ӭ����ͬVB��VCһ����DELPHIҲ֧�ֱ�׼��Windows DLL�ĵ��á�������DELPHI��FORTRAN POWER STATION���Բ�ͬ��������˾�Ĳ�Ʒ������֮���ϱ�̲��õĵ���Լ���޷���ǰ��һ��ֱ��ͳһ������������FORTRAN POWERSTATION�ṩ������stdcall(Window API�ӿڵ���Լ��)���̵Ĺ��ܣ���DELPHI���ⲿ�����������Ҳ�ṩ�˷���stdcall����Լ�����ⲿ���̵��õĹ��ܣ�������ǿ����õ������̺ͱ��������̶�ʹ��stdcall����Լ�������������������ʾ����FORTRANԴ�������£�
+SUBROUTINE FORDLLA(M,N)
+!MS$IF.NOT. DEFINED(LINKDIRECT)
+!MS$ATTRIBUTES STDCALL,DLLEXPORT:: FORDLLA
+INTEGER(4) M,N
+!MS$ATTRIBUTES VALUE::M
+!MS$ATTRIBUTES REFERENCE::N
+!MS$ENDIF
+SUBROUTINE FORDLLB(STR)
+!MS$IF.NOT. DEFINED(LINKDIRECT)
+!MS$ATTRIBUTES STDCALL,DLLEXPORT:: FORDLLB
+CHARACTER *(50) STR
+!MS$ATTRIBUTES REFERENCE::STR
+!MS$ENDIF
+REAL(4) FUNCTION FORDLLC(ARRAYX)
+!MS$IF.NOT. DEFINED(LINKDIRECT)
+!MS$ATTRIBUTES STDCALL,DLLEXPORT:: FORDLLC
+!MS$ENDIF
+��������˵����
+����(1)!MS$ATTRIBUTES STDCALL,DLLEXPORT:: FORDLLA
+��������stdcall����Լ��������Ĭ�ϵ���Լ����
+����(2)!MS$ATTRIBUTES REFERENCE::STR
+�ַ���STR���ô���ַ��ʽ���ݡ����������������̶��ַ����������޸ľͻ�Ӱ�������������Ӧ���ַ������ַ���STRҲ�ɲ��ô�ֵ��ʽ���ݣ������������̶��ַ����������޸Ĳ���Ӱ�������������Ӧ���ַ�����DELPHIԴ����������������£�
+procedure callforA (x:integer;var y:integer);
+��stdcall; external 'fordll.dll' name '_fordlla@8';
+procedure callforB (S:string);
+��stdcall; external 'fordll.dll' name'_fordllb@4';
+function callforC (var a :single):single;
+��stdcall; external 'fordll.dll' name '_fordllc@4';
+����DELPHIԴ����ĵ��ò������£�
+procedure TForm1.cmdCallDllsClick(Sender: TObject);
+var
+��m,n:integer;
+��sum :single;
+��arrayX:array[l..2,1..2] of single;
+��str1:string;
+begin
+��m:=strtoint(editl.text);
+��n:=strtoint(edit2.text);
+��str1:=trim(edit3.text);
+��setlength(strl,50);
+��arrayX[1,1]:=1.2;
+��arrayX[1,2]:=2.3;
+��arrayX[2,1]:=3.0;
+��arrayX[2,2]:=4.2;
+��callforA(m,n);
+��callforB(Strl);
+��sum:=callforC(arrayX[1,1]);
+��label1.Caption:=IntToStr(m);
+��label2.Caption:=IntToStr(n);
+��label3.Caption:=str1;
+��memo1.Lines.Append('Sum='+FloatToStr(sum));
+end;
+��������˵����
+����(1)DELPHIʹ��external������������ⲿ���̵ĵ���
+�������﷨���£�external DLL ���� name������������DLL�ڵ�����
+�����ڱ����У�'fordll.dll'��ΪDLL���ƣ�ʡ��·����������·������Ѱ�ң���ǰĿ¼��ϵͳĿ¼(һ��ΪC:\Windows\system)��PATH������Ŀ¼��'_fordlla@8�Ǳ�����������DLL�ڵ����ƣ���Сд����ǰ������stdcall����Լ�����������У���DELPHI�б�������Ĭ���ǰ�ֵ���ݣ�������ַ���ݣ���Ӧ���ڲ���˵��ǰ��var�ؼ��֡����ڴ���������������������ֻ�轫�����һ��Ԫ�صĵ�ַ�������������̼��ɣ��ڲ�����������м�var�ؼ��֡���������Ԫ�����ڴ��е����д��򣬼�ǰ��VC����FORTRAN��
+����(2)setlength(strl,50)
+�������������ַ���ʱ������DELPHI�������ַ�������Խ�磬�����ڴ����ַ�������ǰ������setlength�������ڴ棬���ң��趨����Ҫ����FORTRAN�����������ж�Ӧ�����ַ������ȵĳ��ȣ������������ʱ����ֵ�ַԽ�����
+5  ����
+��������Windows��̹���VB��VC��DELPHI���ԣ�����֮���໥����һ�㲻�ٲ����������������ǲ���������󷽷���װ��ActiveX�ؼ����������ѳ����������۷�Χ������Ȥ�߿��Բο��й��鼮��
+���ǿ(�Ϻ���ͨ��ѧ  �Ϻ� 200240)
+����(�Ϻ���ͨ��ѧ  �Ϻ� 200240)
+�����(�Ϻ���ͨ��ѧ  �Ϻ� 200240)
+�ο�����
+1��MS POWERSTATION Programmer's Guide��������
+2��MS Visual C++ Programmer's Guide��������
+3��Delphi Help��������
+4��Object Pascal Reference��������
+5��Mastering Delphi 40. ����: ���ӹ�ҵ������, ISBN7-5053-5347-0
+6��Mastering Visual Basic6.0. ����: ���ӹ�ҵ������, ISBN7-5053-4998-8
+7��������������Ի�ϱ��. �Ͼ�: �Ͼ���ѧ������, ISBN7-305-02432-5
+�ո����ڣ�1999-10-29

@@ -1,0 +1,168 @@
+���ղ���ѧ��
+JOURNAL OF AERONAUTICAL MATERIALS
+1999�ꡡ��19����2�ڡ�Vol.19��No.2��1999
+
+
+
+���ϲ���ɰʴ�о�����
+���桡��ʤ������������
+ժҪ�� �����˳�ʴ�Ļ�����������豸�������˾ۺ�������ϲ���ɰʴ���о��ſ��ͳ�ʴ�����������˸��ֳ�ʴ���غͿ���ʴͿ��Գ�ʴ���ܵ�Ӱ�졣
+�ؼ��ʣ� ��ʴ��ɰʴ�����ϲ��ϣ���ʴ����
+��ͼ����ţ� TB323���������ױ�ʶ�룺A���������±�ţ�1005-5053(1999)02-0054-09
+Review on sand erosion of composites
+SHEN Zhen����YANG Sheng-chun����Margherita Clerico
+(1.Aircraft Strength Research Institute,Xi��an710065��China�� 2.Politecnico di Torino,Italy)
+Abstract�� Some basic principles on erosion and erosion unit_test devices are introduced. Survey on sand erosion and erosion mechanisms of composites is summarized. Factors influencing erosion rate and protective coating effects are discussed.
+Key wirds: erosion��sand erosion��composites��erosion rate
+
+������ʵ��ʹ�ù����У��ܶ������������ܵ�����(�����Һ��)��Ю�������ӵ���Ϯ������ĥʴ��Ϊ��ʴ�������Ю�������ӵĳ�ʴͨ����Ϊɰʴ���Ժܶ๤��Ӧ��(�����ɻ��ṹ)��ɰʴ�Ǹ����ص����⡣���Ǵ�40�������ѿ�ʼ�Գ�ʴ�����о���1�ݣ������˴������ڽ�����ʴ���о��ɹ�����ȥ20����մɵĳ�ʴ�ܵ��˼���Ĺ�ע��Ҳ�д������׿ɹ����ġ���1970��������Խ��Խ����Ƚ��ۺ�������ϲ��ϱ����ں���ṹ���ر��Ƿɻ��ṹ���ۺ�������ϲ��ϵĳ�ʴ������Ϊһ������������ѿ�ʼ�����˳�����2�ݡ�1984��4�·���ĳ�����¶װ��(LDEF)������1990��1�»��գ��ڸ�װ�õĸ��ϲ��Ͻṹ���淢������ԭ�ӺͿռ���Ƭ����ĳ�ʴ��3�ݡ���ǰ���ϲ����ѿ�ʼ����ֱ��������Ҷ���״��֡�����ǰԵ���������ͷ������⺭���Ⱥ��սṹ���������������Щ�ṹ�ڽ������ɳĮ����ʹ��ʱ�Ƿ��������ʴ�����⡣������ͼ����һЩ��ʴ�Ļ�������;ۺ�������ϲ��ϳ�ʴ���о��ſ����Թ������Ա�ο���
+1����ʴ�Ļ��������4��
+1.1����ʴ(erosion)
+���ڹ����������塢���ֳɷֵ����塢�����Һ����������֮��Ļ�е���ã����������ϵĲ�����ʧ������ĥʴ��Ϊ��ʴ��
+1.2����ĥ��ʴ(abrasive erosion)
+�������ӵ��˶����򼸺���������ƽ�еĳ�ʴ��Ϊ��ĥ��ʴ��
+1.3�������ʴ(impingement erosion, impact erosion)
+�������ӵ��˶�����������������洹ֱ�ĳ�ʴ��Ϊ�����ʴ��
+1.4����ʴ����(erosion rate)
+������ʴ�����ǳ�����������ĵ�λ����ĥ��(���ʴ����)��ĥʴ���İ���(�򱻳�ʴ��)���ϵ�����(��λΪg/g��mg/g)��ͨ�����������̬��ʴ�׶β�á�
+1.5�������ʴ����(volumetric erosion rate)
+����Ϊ�˱Ƚϲ�ͬ�ܶȲ��ϵĳ�ʴ�迹��ͨ�����������ʴ������һ�������������ð�����ϵ��ܶ�ȥ����ʴ�������õ�(��λΪcm3/kg)��
+2����ʴ����װ��
+�������ݳ�ʴ�����Ӱ���ʴ(��������ʧ)����Ҫ���أ��Ѿ���ƺ�������˼��ֳ�ʴ����װ�á�Finnie��5����1956�������˵�һ̨ɰʴ������������Կ������ӵ��ٶ�(С��76m/s)�ͳ���ǡ��Ժ�Tilly��6,7������ƺ����Ƴ�������ɰʴ����װ�á�����һ���ǿ�������ɰʴװ�ã����ɿ������ӳ�ʴʱ�䡢����ǡ��¶Ⱥ�����Ӧ�����������г��ϣ���FalexAir��˾������Air Jet Erosion Tester��������һ�ࡣ����ָ�������������ϵĳ�ʴ�迹���ڹ涨�����������¶Բ��ϵĳ�ʴ�迹�������򣬲�����������׼ASTM D76-83 "Standard Particle for Conducting Erosion Tests by Solid Particle Impingement Using Gas Jets"��������ƺ�����ġ�����װ��ͨ��һ����©����ĥ�ϣ���ʴ���ӣ������������͵��������У�����Ƶ�ʺ�©������б�������������������ٶȡ���ͨ�������������ѹ�������������ٶȣ��������ٶ�����������ӵ��ٶȡ�������ͨ������ʱ���������������٣�Ȼ��������ϣ�ͨ����ת��������������ĳ���Ƕȣ�8�ݡ���Tilly, G. P. ��Ƶ���һ��ɰʴ���������ת��ʽ��ʴװ�á�����װ�õ�������ն�С��10-3ر����������ת�ۡ�������װ�����Ķ˲���һ����������(�򳾰���ɰ����ĥ��)�Ծ�ȷ���Ƶ��������ķ�ʽ�����ʹ���Ƕ���������ת������·���ϡ������������ж����ӽ��м��ٵ����鼼�����������ٶȽϸ߼�����ֱ���仯�ܴ�����(�����������ñ�׼MIL-E-5007C������ֱ���仯��ΧΪ0��1000�̦�)���������װ�ÿ��Ը���ʵ��ģ���ʴ������
+����1975��Grant G. ���ˣ�10�ݽ����˷綴�͵�ɰʴ����װ�ã������ڸ����������¶�(�����µ�����)�����½��г�ʴ���顣��Giros-ITE ��˾������Sand and Dust Chamber��������һ�ࡣ���Ǹ����������ñ�׼MIL-STD-810E Method 510.3 Sand �� Dust��������ƺ�����ģ�����װ�ÿ�����ģ����δ���������Ϸ��еķɻ��������������ڵ��¶ȱ仯��ΧΪ10�桫70�档
+3���ۺ�������ϲ���ɰʴ�о�
+3.1������
+���������ü��ַ������о�ɰʴ���ˣ�����������ʧ����ɨ��羵�۲��ʴ�����ʹ�ñ���ֲڶȲ����ǡ�ͨ������������ʧ���ɱȽϲ�ͬ���Ͽ�ɰʴ��������������Ӱ��ɰʴ�����أ�ɨ��羵��Ƭ�ͱ���ֲڶȲ����Ľ���������������״�����ʡ�����������Щ��������п����������ɰʴ�Ļ���͹���׼�򡣱�1�����˲�ͬ���ϳ�ʴ�迹�ıȽϣ����Կ����ۺ�������ϲ��ϵĿ�ɰʴ�������մɵĳ�ʴ�迹����������൱�����仯��Χ�ܴ����ڸ��ϲ�����ϵ��ѡȡȡ�������Ҫ�󣬲�����ͨ���Ļ�������ϵ�����ɰʴ���ԡ�Ϊ�˽��������⣬ͨ��Ҫʹ�ô��߳�ʴ�迹Ϳ��ĸ��ϲ��ϡ�
+
+��1����ͬ���ϳ�ʴ�迹�ıȽ�
+Table 1��comparison of erosion resistance for different materials
+
+MaterialsTest conditionsTest rigImpact angle ��
+for (dE/de)maxRef.
+AlErodent:Al2O3(74��130��m)
+Air speed��40m/s
+Sand speed��14.3m/sAir blast��40�㡫60��10��
+Stainless steelErodent:Al2O3(74��130��m)
+Air speed��40m/s
+Sand speed��14.3m/sAir blast��45�㡫40��10��
+TiErodent:Al2O3(74��130��m)
+Air speed��40m/s
+Sand speed��14.3m/sAir blast��60�㡫25��10��
+CeramicErodent:Al2O3(74��m)
+Air speed��30m/sAir blast90��5��110��11��
+Carbon/polymerErodent:Al2O3(74��130��m)
+Air speed��40m/s
+Sand speed��14.3m/sAir blastBased on
+composite system50��1000��10��
+
+��
+
+3.2����ʴ����
+�������ף�8,16����ɨ��羵�۲��˾ۺ�������ϲ��ϵ��ܳ�ʴ������ò�������ۺ�������ϲ��ϵĳ�ʴ�Ͳ���ĥʴ�����м����׶Σ��⼸���׶ε������ֱ�Ϊ��
+����(a) �ܳ������������֬���ϱ���ʴ��ʹ����ά��¶�ڳ�ʴɰ��������
+����(b) ����ɰ�������ά������Χ�Ʋ�֧����ά����֬����ʴ������������ά������������ᴩ��ά�����ƣ���ά��˶�����ϡ�
+����(c) ����ɰ�����������ʹ��ά����֬�����Ľ��������������˿��ö�����ά����֬����ķ�����ѿ���������
+������ɨ��羵�۲쵽�ĳ�ʴ����ͼ����������ϲ��ϵĳ�ʴ���˰�������֬���������ϵĳ�ˢ������ά�Ľ�һ�����鼰�뿪ԭλ����ά����֬���������ϵĳ�ˢ����ά��������ʽ����������ܣ���֬���ϵ�����������Լ�������ά��ճ�����ܵȣ�����ɲ�ͬ����ۺ�������ϲ��ϳ�ʴ���ԵĲ���ԭ��
+3.3��Ӱ���ʴ���ʵ�����
+�������ϲ��ϵĳ�ʴ���Ա���������Ҫ���ӵö࣬�ڲ�ͬ�ĳ�ʴ���������£�ͬһ�ָ��ϲ��Ͽ���ʾ��ͬ�ĳ�ʴ��Ϊ�����������Գ�ʴ��Ҳ�����Ǵ��Գ�ʴ��
+3.3.1������������ܡ��ۺ�������ϲ�������ά�ͻ�����ɣ��������ĳ�ʴ����ȡ������ά����������ͼ�ǿ��ʽ�����������Լ���ά�ͻ���Ľ������ܵȡ����ף�10,12,13�ݶ���Щ���ص�Ӱ�������ϵͳ���о�������������е�һЩ���ۡ�
+����(1) ��֬��17,19��21�ݣ� ͼ1-3�����˸��־ۺ���;ۺ�������ϲ��ϵĳ�ʴ���ʣ����Կ�����������֬(������PEEK��PPS��TPI-һ���µ������Ծ����ǰ�)�ĳ�ʴ�迹Ҫ�����ȹ�����֬(������֬��BMI�������ǰ�������)�����ϲ��������õ���֬�������ǵĳ�ʴ�迹����(�Ӹߵ���)Ϊ��������PEEK��PPS��������BMI(˫��)��PI(�����ǰ�)�����ڳ�ʴ���ӵĳ�����ȳ�ˢ��֬���壬�����֬���ϵĳ�ʴ������Ӱ��ۺ�������ϲ��ϳ�ʴ�迹����Ҫ���ء�ͨ����������֬��ʾ�����Գ�ʴ���ԣ����ȹ�����֬����ʾ���Գ�ʴ���ԡ�
+������������
+ͼ1����ͬ��֬�ĳ�ʴ���ʡ�����������ͼ2������Ե�������ϲ��ϳ�ʴ���ʵ�Ӱ��
+��Fig.1��Erosion rate for different������Fig.2��Effect of matrix on erosion rate
+����������resins��������������������������������for tape composites
+
+����(2) ��ά�� �ڹ㷺ʹ�õ���ά��ǿ���У�ʯī��ά�Ͳ�����ά�Ǵ��Եģ�����ʱ�ĳ�ʴ�迹��С����Kevlar��ά����ʴ�����ʱҪ���մ���������(��ͼ4)��
+����(3) ��ά������ ���ϲ��ϵĳ�ʴ�迹����ά���������Ӷ����ӣ���ͼ5��ʾ����������άʹ�ø��ϲ��ϱȴ���֬��Ҫ�࣬�Ӷ��临�ϲ��ϵĳ�ʴ����Ҫ������֬�����ĳ�ʴ���ʳ����ڽϴ�ĳ����ʱ��
+����(4) ��ǿ��ʽ�� ֯�︴�ϲ��ϵĳ�ʴ�迹�ȵ�������ϲ���ҪС�öࡣ�Զ���ά��ǿ���ϲ��ϣ��س���������ά�ṩ�˺ܸߵ����ԣ��뵥���̵���ʽ��ȣ�������з�ʽ��ʹ�²����ά�ṩ��ǿ��֧�֡�ͼ6��ʾΪ���в�ͬ��ǿ��ʽ��ʯī��ά/PPS���ϲ��ϳ�ʴ���ʵıȽϡ�
+����������
+ͼ3������Ի�֯���ϲ��ϳ�ʴ���ʵ�Ӱ�졡����ͼ4����ά���ͶԸ��ϲ��ϳ�ʴ���ʵ�Ӱ��
+��Fig.3��Effect of matrix on erosion rate����Fig.4��Effect of fiber type on erosion 
+����������for woven composites����������������������rate
+
+��������
+ͼ5����ά�����Գ�ʴ���ʵ�Ӱ��
+Fig.5��Effect of fiber contents on erosion rate
+
+ͼ6����ά��ǿ��ʽ�Գ�ʴ���ʵ�Ӱ��
+Fig.6��Effect of fiber reinforcement type on erosion rate
+3.3.2����ʴ��������
+����(1) ���ϣ� ���������������衢���ɰ��ʯӢɰ�ǹ������ӳ�ʴ�����г��õĳ�ʴ���ӣ�������������Σ�������Щģ���ⳡ�����ĳ�ʴ������Ҫʹ����Ȼɰʯ�����ڲ�ͬ�ط���Ȼɰʯ��ʯӢɰ�ĺ������ܴ������ʱ�����������Ҫ��Ӳ�ͬ�ĵ������ɼ���Ȼɰʯ��
+����(2) �ٶȣ� �ۺ�������ϲ��ϵĳ�ʴ�������ʴ�����ٶȵĹ�ϵ�������մɣ���ָ����ϵ��14��
+����dE/de��vn
+�մɵ�ָ��ֵ��Χͨ����2��3.5�����ۺ�������ϲ�����ԼΪ3.5��6.0��
+����(3) ������С�� �ۺ�������ϲ��ϵĳ�ʴ�������ʴ���ӳߴ����Ӷ����ӣ���ͼ7��ʾ���������ֱ����ָ����ϵ��16��
+����dE/de��Dn
+����(4) ��ʴ��������ά�����н�(��)�� ͼ8�����˳�ʴ�������ʴ��������ά�����н�(��)�Ĺ�ϵ���Ե����������ά�������ʴ����ƽ��ʱ����ʴ�����ĥʴҪ�����ʴ����ֱʱ���صöࡣ
+3.3.3����ά������������ܡ�������ά��������ճ�������Ϻã���ά���洦����ľۺ�������ϲ��ϣ����ʴ���������Ƚϵ�(��ͼ9)��
+������
+ͼ7����ά��������Գ�ʴ���ʵ�Ӱ��
+Fig.7��Effect of interface between fiber and matrix on erosion rate 
+
+ͼ8����ʴ����ֱ���Գ�ʴ���ʵ�Ӱ��
+Fig.8��Effect of diameter of erodents on erosion rate
+
+ͼ9�����ӳ������ά�����н�,�¶Գ�ʴ���ʵ�Ӱ��
+Fig.9��Effect of angle �� between orientations of impact and fiber on erosion rate
+
+3.4���Կ���ʴ����Ϳ����о�
+�������ף�18���о������ֿ���ʴ����Ϳ������ã����Ƿֱ��ǣ�Ӳ�۰���(MIL-C-83286)�����Ծ۰���(MIL-C-83231)�͵�����(AF-C-VBW-15-15)��ͼ10��ʾΪ���в�ͬͿ�㸴�ϲ����ڲ�ͬɰʴ��������µ�������ʧ��������Ϳ�������Ϊ���Գ�ʴ���ԣ����������õĳ�ʴ�迹��ͼ11��ʾΪ���벻��Ϳ��E-������ά/������֬��ʯӢ/�����ǰ���������ʧ�����Կ�������Ϳ�㸴�ϲ��ϵ�������ʧҪ��һ���������о�������ֻҪͿ�㱣��������������ʴ�迹�൱�ã�����ĥ��ʴʱ��Ϳ��ĳ�ʴ�迹��߲����ԣ�����ʱ���ϲ��ϵĳ�ʴ�迹�Ƚϸߣ���ʴ���������ص����⡣
+
+
+ͼ10������ͬͿ�㲣��/������֬��������ʧ�����ǵı仯
+Fig.10��Change of mass loss for glass/epoxy with different coatings vs impact angles
+
+4���Խ���о���ĳЩ����
+����(1) �ۺ�������ϲ����ڿռ�ṹ���ѵõ��㷺Ӧ�ã������ĳ���迹���������ϲ�ú�Զ������Ϊֹ����һ������о���δ�õ���չ������б�Ҫ��һ���о��Է������ֲ��ϵĳ�ʴ�����Ԥ��ģ�ͣ�����Ӧ���Ӷ��ͳ�ʴ��Ϳ����Ϻ�Ϳ�㹤�յ��о���
+����(2) ����Ϊֹ���еĳ�ʴ���鶼���ó������ɰװ�úͼ������죬��ʴ��������������츽���ĺ�С��Χ�����ӵ��ٶ������켸�γߴ缰�������ĺ��������ڵ������ӵ��ٶ������ι켣�����ʽ�ֲ����������������ʴ�ṩ����Ϣֻ�������������ϡ������ڽṹ������ͨ��Ҫ������Լ������ϵ������������ٶȵķֲ��Ǿ��ȵġ��Դ�,ֻ����Grant,G.���ˣ�9����Ƶķ綴�ͳ�ʴ����װ�úͶ����ռ�������ǲ���������һҪ�󣬲���ģ��ʹ���еķ����������Ӷ�Ӧ�ƹ�������װ�ý��еĳ�ʴ���顣
+
+���߼�飺����(1943-)���У��о�Ա�����¸��ϲ������˺͸��ϲ��Ͻṹ�;���/���������о�
+���ߵ�λ�����桢��ʤ�����ɻ�ǿ���о�����������710065��
+�����������������棺��������鹤ҵ��ѧ
+�ο����ף�
+��1�ݡ�SIEBEL E, BROCKSTEDT H C. Verschleissminderung. Maschinenbau,1941��20��457
+��2�ݡ�TSIANG T H. Survey of sand and rain erosion of composite materials. Journal 
+��������of Composite Technology & Research, 1986,8(4)��54��58
+��3�ݡ�TENNYSON R C, HANSEN J S, MABSON G E. MORISON W D, KLEIMAN J. Composite 
+��������materials in space: results from the LDEF satellite, Proceedings of the 
+��������Sixth CASI Conference on Astronautics, 1990
+��4�ݡ�Standard practice for conducting erosion tests by solid particle impingement 
+��������using gas jets, ASTM G��76��83
+��5�ݡ�FINNIE I. An experimental study of erosion. Soc Exptl Stress Analysis, 
+��������1959,17: 65��70
+��6�ݡ�TILLY G P. Sand erosion of metals and plastics: a brief review. Wear, 1969,
+��������14: 241��248
+��7�ݡ�TILLY G P, SAGE W. The interaction of particle and material behaviour in 
+��������erosion processes. Wear 1970,16: 447��465
+��8�ݡ�POOL K V, DHARAN C K H, FINNIE I. Erosion wear of composite materials. Wear, 
+��������1986,107: 1��12
+��9�ݡ�GRANT G�� TABAKOFF W. Erosion prediction in turbomachinery resulting from 
+��������environmental solid Particles. Journal of Aircraft, 1975,12(5):471��478
+��10�ݡ�TSIANG T H, Sand erosion of fiber composites: testing and evaluation, Test 
+��������methods for design allowables for fibrous composites: 2nd Volume. ASTM STP 
+��������1003, 1989, 55��74
+��11�ݡ�CLERICO M, GIROLETTI L, CUPPINI D, CATALDO G. NDT observation and analysis 
+��������of crater-shaped damage. Proceedings of 14th World Conference on 
+��������Non-Destructive Testing, New Delhi, India, December 8��13,1996
+��12�ݡ�MIYAZAKI N, HAMAO T, Effect of interfacial strength on erosion behavior of 
+��������FRPs. Journal of Composite Materials,1996,30(1)��35��50
+��13�ݡ�MIYAZAKI��N, TAKEDA N. Solid particle erosion of fiber reinforced plastics. 
+��������Journal of Composite Materials,1993��27(1)�� 21��31
+��14�ݡ�ROY M, VISHWANATHAN B, SUNDARARAJAN G�� The solid particle erosion of 
+��������polymer matrix composites. Wear, 1994,171: 149��161
+��15�ݡ�MATHIAS P J, WU W, et al. Solid particle erosion of a graphite-fiber-��
+��������reinforced bismaleiimide polymer composite. Wear, 1989,135: 161��169
+��16�ݡ�ZAHAVI J, SCHMITT G F. Solid particle erosion of reinforced composite 
+��������materials. Wear, 1981,71:179��190
+��17�ݡ�KARASEK K R, GORETTA K C, et al. Erosion in bismaleimide polymers and 
+��������bismaleimide-polymer composites. Journal of Materials Science Letters, 
+��������1992,11: 1143��1144
+��18�ݡ�ZAHAVI J, SCHMITT G F. Solid particle erosion of polymeric coatings. Wear, 
+��������1981,17:191��210
+��19�ݡ�PEARL L S. LU G X. Erosion of impacted notched holes in GFRP composites. 
+��������Wear, 1994,176: 81��88
+��20�ݡ�BRANDSTADTER A, GORETTA K C, et al. Solid-particle erosion of bismaleimide 
+��������polymers. Wear, 1991,147:155��164
+��21�ݡ�ZAHAVI P.WU J,GORETTA K C, et al. Solid particle erosion of a graphite-��
+��������fiber-reinforced bismaleimide polymer composite. Wear, 1989,135: 161��169
+�ո����ڣ� 1999-04-16���޶����ڣ�1999-05-10

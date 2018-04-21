@@ -1,0 +1,27 @@
+�Ϻ�����
+AEROSPACE SHANGHAI
+2001 Vol.18 No.2 P.44-50
+
+
+
+
+CPL������FY-1C�����е�Ӧ��
+��С�衡 
+ժ��Ҫ��ΪʹFY-1C�����ϵ�������ؿ���ռ�ɢ�ȣ��Խ��͹����¶ȣ�������ëϸ�û�·��CPL������������CPL�Ĺ���ԭ����Ҫ����Լ��������Ͽ��������豸�¶�Ӧ�õ���Ƽ������������ڵ�����еĸ�����������������������ڹ����в�����֤�����������¶ȴ������״̬�������������¶ȿ����ڣ�4��9����ķ�Χ�ڣ�6̨�������֮���²�С��3��,����������ص������¶�Ҫ��
+�ؼ��ʣ����ǵ�أ��ȿ��ƣ���������飻�¶ȿ���
+����ţ�TM912.2�����ױ�ʶ�룺A
+���±�ţ�1006��1630(2001)02��0044��07
+The Application of the Capillary Pumped Loop in FY-1C Satellite
+ZHAO Xiao-xiang��No.509 Institute of SAST, Shanghai 200240, China����
+
+Abstract��The paper mainly introduces the working principle and composing of the Capillary Pumped Loop��CPL��, and the design of CPL used in satellite. The data of ground thermal performance unit_test and of orbital telemetry are also shown. The resu lts of in-orbit operation show that the temperatures of six batteries are contr olled in the range of (4��9)��,and the difference in temperature among them is l ess 3�� to meet the specific requirements of temperature for Cd-Ni battery.
+Keywords��Satellite battery��Thermal control; Cd-Ni battery��Temperature control
+���߼�飺��С��(1965-)���У��о�Ա��FY-1C�����ȿ�ϵͳ���������ʦ���о����򣺺������ȿ���ϵͳ����ơ� 
+���ߵ�λ����С�裨�Ϻ����켼���о�Ժ509�����Ϻ� 200240����
+
+�ο����ף�
+��1��Stenger F J. Experimental feasibility study of water-filled c apillary-pumped heat-transfer loop[M]. NASA TM X-1310, NASA Lewis Research Center, Cleveland, Ohio,1966.
+
+�ո����ڣ�2000��11��16��
+�޸����ڣ�2001��1��5��
+�������ڣ�2001��4��25��
