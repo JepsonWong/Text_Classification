@@ -57,8 +57,12 @@
 
 ### 4.3 cnn
 
-### 4.4 lstm
+### 4.4 rnn
 
 ## 5. 评估
 
 ### 5.1 混淆矩阵(Confusion Matrix)
+
+## 6. 参考
+
+[cnn\_rnn文本分类](https://github.com/gaussic/text-classification-cnn-rnn)

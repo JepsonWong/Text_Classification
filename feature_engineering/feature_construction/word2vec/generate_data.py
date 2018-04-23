@@ -10,9 +10,9 @@ sys.path.append("../../../")
 from feature_engineering.preprocess.get_corpus import get_corpus
 
 class word_id():
-    def __init__(self, get_corpus):
+    def __init__(self, get_corpus, vocabs = {}):
         self.corpus_files = get_corpus.get_files()
-        self.vocabs = {}
+        self.vocabs = vocabs
         self.stop_words = []
         self.maxlen = 0
 
@@ -26,12 +26,14 @@ class word_id():
         _get_abs_path = lambda xpath: os.path.normpath(os.path.join(os.getcwd(), xpath))
         abs_path = _get_abs_path(stopwords_path)
         if not os.path.isfile(abs_path):
-            raise Exception("tfidf: file does not exist: " + abs_path)
+            raise Exception("stop_words file: file does not exist: " + abs_path)
         content = open(abs_path, 'rb').read().decode('utf-8')
         for line in content.splitlines():
             self.stop_words.append(line)
 
     def file_to_word_ids(self, content):
+        if not self.vocabs:
+            self.generate_vocab()
         return [self.vocabs[word] for word in content if word in self.vocabs]
 
     def __cut1_no_stop(self, text):
@@ -78,6 +80,10 @@ class word_id():
         self.content = content
         self.label = label
 
+    def get_content_and_label(self):
+        if not self.content:
+            self.generate_content_and_label()
+        return self.content, self.label
 
     def get_vocabs(self):
         if not self.vocabs:
@@ -85,7 +91,7 @@ class word_id():
         return self.vocabs
 
 if __name__ == "__main__":
-    corpus = get_corpus('../../../data/复旦大学中文语料库/corpus_train', 'gb18030')
+    corpus = get_corpus('../../../data/复旦大学中文语料库/corpus_big', 'gb18030')
     word_id_example = word_id(corpus)
     word_id_example.set_stopwords('../../../data/stop_words_zh.utf8.txt')
     vocabs = word_id_example.get_vocabs()
@@ -94,6 +100,7 @@ if __name__ == "__main__":
     #for i in word_id_example.content:
     #    print len(i)
     print len(word_id_example.label)
+    print word_id_example.label[0]
     #for i in word_id_example.label:
     #    print i
 
