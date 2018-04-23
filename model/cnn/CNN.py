@@ -6,7 +6,7 @@ import time
 from datetime import timedelta
 from sklearn import metrics
 import numpy as np
-import tensorflow.contrib.keras as kr
+# import tensorflow.contrib.keras as kr
 
 import os,sys
 sys.path.append("../../")

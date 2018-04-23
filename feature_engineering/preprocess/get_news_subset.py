@@ -4,7 +4,7 @@ import codecs
 import collections
 import jieba.posseg as pseg
 import os
-import tensorflow.contrib.keras as kr
+# import tensorflow.contrib.keras as kr
 
 class get_news_subset(object):
     def __init__(self, news_train_path, encoding, suffix_accepted='txt,TXT', words = {}, characters = {}):
@@ -71,7 +71,13 @@ class get_news_subset(object):
         for i in range(len(self.news_train_contents)):
             data_id.append([self.words[x] for x in self.news_train_contents[i] if x in self.words])
         # 使用keras提供的pad_sequences来将文本pad为固定长度
-        x_pad = kr.preprocessing.sequence.pad_sequences(data_id, self.words_maxlen)
+        # x_pad = kr.preprocessing.sequence.pad_sequences(data_id, self.words_maxlen)
+        x_pad = []
+        for i in data_id:
+            if len(i) <= 600:
+                x_pad.append([0]*(600-len(i)) + i)
+            else:
+                x_pad.append(i[(len(i)-1-599):(len(i)-1)])
         self.news_train_word_ids = x_pad
 
     def to_characters_ids(self):
