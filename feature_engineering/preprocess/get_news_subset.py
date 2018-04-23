@@ -95,7 +95,7 @@ class get_news_subset(object):
             if len(i) <= 600:
                 x_pad.append([0]*(600-len(i)) + i)
             else:
-                x_pad.append(i[(len(i)-1-599):(len(i)-1)])
+                x_pad.append(i[(len(i)-1-600):(len(i)-1)])
         self.news_train_character_ids = x_pad
 
     def generate_content_and_label(self):

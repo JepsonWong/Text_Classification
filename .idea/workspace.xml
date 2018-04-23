@@ -72,8 +72,8 @@
       <file leaf-file-name="get_news_subset.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/feature_engineering/preprocess/get_news_subset.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="85" column="45" lean-forward="true" selection-start-line="85" selection-start-column="45" selection-end-line="85" selection-end-column="45" />
+            <state relative-caret-position="390">
+              <caret line="97" column="49" lean-forward="true" selection-start-line="97" selection-start-column="49" selection-end-line="97" selection-end-column="49" />
               <folding>
                 <element signature="e#17#30#0" expanded="true" />
               </folding>
@@ -84,8 +84,8 @@
       <file leaf-file-name="CNN.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model/cnn/CNN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="219" column="0" lean-forward="true" selection-start-line="219" selection-start-column="0" selection-end-line="219" selection-end-column="0" />
+            <state relative-caret-position="570">
+              <caret line="42" column="77" lean-forward="false" selection-start-line="42" selection-start-column="67" selection-end-line="42" selection-end-column="77" />
               <folding>
                 <element signature="e#17#40#0" expanded="true" />
               </folding>
@@ -125,8 +125,8 @@
       <find>vocab_size</find>
       <find>save_dir</find>
       <find>to_characters_ids</find>
-      <find>kr</find>
       <find>pseg</find>
+      <find>kr</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -674,16 +674,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/cnn/CNN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="219" column="0" lean-forward="true" selection-start-line="219" selection-start-column="0" selection-end-line="219" selection-end-column="0" />
-          <folding>
-            <element signature="e#17#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/feature_engineering/preprocess/1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -692,10 +682,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/model/cnn/CNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="42" column="77" lean-forward="false" selection-start-line="42" selection-start-column="67" selection-end-line="42" selection-end-column="77" />
+          <folding>
+            <element signature="e#17#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/feature_engineering/preprocess/get_news_subset.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="85" column="45" lean-forward="true" selection-start-line="85" selection-start-column="45" selection-end-line="85" selection-end-column="45" />
+        <state relative-caret-position="390">
+          <caret line="97" column="49" lean-forward="true" selection-start-line="97" selection-start-column="49" selection-end-line="97" selection-end-column="49" />
           <folding>
             <element signature="e#17#30#0" expanded="true" />
           </folding>
