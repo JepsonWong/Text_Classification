@@ -227,6 +227,8 @@ if __name__ == '__main__':
             y_train_pad.append(x[0:i] + [1] + x[i + 1:])
         else:
             y_train_pad.append(x[0:i] + [1])
+    y_train_pad = np.array(y_train_pad)
+    x_train = np.array(x_train)
     #x_test, y_test = test_news.get_character_ids_and_labels()
     x_val, y_val = val_news.get_character_ids_and_labels()
     #y_val_pad = kr.utils.to_categorical(y_val, num_classes=10)
@@ -237,6 +239,8 @@ if __name__ == '__main__':
             y_val_pad.append(x[0:i] + [1] + x[i + 1:])
         else:
             y_val_pad.append(x[0:i] + [1])
+    y_val_pad = np.array(y_val_pad)
+    x_val = np.array(x_val)
 
     print('Configuring CNN model...')
     config = Config()
