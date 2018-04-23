@@ -83,7 +83,13 @@ class get_news_subset(object):
         for i in range(len(self.news_train_contents)):
             data_id.append([self.characters[x] for x in self.news_train_contents[i] if x in self.characters])
         # 使用keras提供的pad_sequences来将文本pad为固定长度
-        x_pad = kr.preprocessing.sequence.pad_sequences(data_id, 600) # self.characters_maxlen = 600
+        #x_pad = kr.preprocessing.sequence.pad_sequences(data_id, 600) # self.characters_maxlen = 600
+        x_pad = []
+        for i in data_id:
+            if len(i) <= 600:
+                x_pad.append([0]*(600-len(i)) + i)
+            else:
+                x_pad.append(i[(len(i)-1-599):(len(i)-1)])
         self.news_train_character_ids = x_pad
 
     def generate_content_and_label(self):
