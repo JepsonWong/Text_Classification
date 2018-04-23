@@ -2,7 +2,7 @@
 
 import codecs
 import collections
-import jieba.posseg as pseg
+# import jieba.posseg as pseg
 import os
 # import tensorflow.contrib.keras as kr
 
@@ -136,7 +136,8 @@ class get_news_subset(object):
         return self.news_train_contents_words, self.news_train_labels
 
     def __cut1_stop(self, text):
-        words = pseg.cut(text)
+        # words = pseg.cut(text)
+        words = []
         tags = []
         for item in words:
             if item.word in self.stop_words:
