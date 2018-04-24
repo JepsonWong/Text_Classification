@@ -88,6 +88,11 @@ class CNN(object):
             self.acc = tf.reduce_mean(tf.cast(correct_pred, tf.float32))
 
     def train(self, x_train, y_train, x_val, y_val):
+        data_len = len(x_train)
+        indices = np.random.permutation(np.arange(data_len))
+        x_train = x_train[indices]
+        y_train = y_train[indices]
+
         print("Configuring TensorBoard and Saver...")
         # 配置 Tensorboard，重新训练时，请将tensorboard文件夹删除，不然图会覆盖
         tensorboard_dir = 'tensorboard/cnn'
@@ -145,10 +150,10 @@ class CNN(object):
 
                 if total_batch % self.config.print_per_batch == 0:
                     # 每多少轮次输出在训练集和验证集上的性能
+                    loss_train, acc_train = session.run([self.loss, self.acc], feed_dict=feed_dict)
                     feed_dict[self.keep_prob] = 1.0
                     feed_dict[self.input_x] = x_val
                     feed_dict[self.input_y] = y_val
-                    loss_train, acc_train = session.run([self.loss, self.acc], feed_dict=feed_dict)
                     loss_val, acc_val = session.run([self.loss, self.acc], feed_dict=feed_dict)
 
                     if acc_val > best_acc_val:

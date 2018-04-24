@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4f41ece-7524-471f-93fc-e2f088fc0755" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/feature_engineering/preprocess/get_news_subset.py" afterPath="$PROJECT_DIR$/feature_engineering/preprocess/get_news_subset.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/cnn/CNN.py" afterPath="$PROJECT_DIR$/model/cnn/CNN.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,9 +84,11 @@
       <file leaf-file-name="CNN.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/model/cnn/CNN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-              <folding />
+            <state relative-caret-position="176">
+              <caret line="153" column="46" lean-forward="true" selection-start-line="153" selection-start-column="46" selection-end-line="153" selection-end-column="46" />
+              <folding>
+                <element signature="e#17#40#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -503,7 +504,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3195">
           <caret line="221" column="66" lean-forward="true" selection-start-line="221" selection-start-column="66" selection-end-line="221" selection-end-column="66" />
-          <folding />
+          <folding>
+            <element signature="e#17#40#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -557,7 +560,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3030">
           <caret line="210" column="11" lean-forward="false" selection-start-line="210" selection-start-column="11" selection-end-line="210" selection-end-column="11" />
-          <folding />
+          <folding>
+            <element signature="e#17#40#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -692,9 +697,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/model/cnn/CNN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-          <folding />
+        <state relative-caret-position="176">
+          <caret line="153" column="46" lean-forward="true" selection-start-line="153" selection-start-column="46" selection-end-line="153" selection-end-column="46" />
+          <folding>
+            <element signature="e#17#40#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
