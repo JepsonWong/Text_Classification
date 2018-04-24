@@ -88,10 +88,10 @@ class CNN(object):
             self.acc = tf.reduce_mean(tf.cast(correct_pred, tf.float32))
 
     def train(self, x_train, y_train, x_val, y_val):
-        data_len = len(x_train)
-        indices = np.random.permutation(np.arange(data_len))
-        x_train = x_train[indices]
-        y_train = y_train[indices]
+        #data_len = len(x_train)
+        #indices = np.random.permutation(np.arange(data_len))
+        #x_train = x_train[indices]
+        #y_train = y_train[indices]
 
         print("Configuring TensorBoard and Saver...")
         # 配置 Tensorboard，重新训练时，请将tensorboard文件夹删除，不然图会覆盖
