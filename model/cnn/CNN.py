@@ -88,10 +88,10 @@ class CNN(object):
             self.acc = tf.reduce_mean(tf.cast(correct_pred, tf.float32))
 
     def train(self, x_train, y_train, x_val, y_val):
-        #data_len = len(x_train)
-        #indices = np.random.permutation(np.arange(data_len))
-        #x_train = x_train[indices]
-        #y_train = y_train[indices]
+        data_len = len(x_train)
+        indices = np.random.permutation(np.arange(data_len))
+        x_train = x_train[indices]
+        y_train = y_train[indices]
 
         print("Configuring TensorBoard and Saver...")
         # 配置 Tensorboard，重新训练时，请将tensorboard文件夹删除，不然图会覆盖
@@ -219,7 +219,7 @@ class CNN(object):
 
 if __name__ == '__main__':
     train_news = get_news_subset("../../data/THUCNews的一个子集/cnews.train.txt", "utf-8")
-    #test_news = get_news_subset("../../data/THUCNews的一个子集/cnews.test.txt", "utf-8")
+    #test_news = get_news_subset("../../data/THUCNews的一个子集/cnews.test.txt", "utf-8", words=train_news.words, characters=train_news.characters)
     val_news = get_news_subset("../../data/THUCNews的一个子集/cnews.val.txt", "utf-8", words=train_news.words, characters=train_news.characters)
     train_news.set_stopwords('../../data/stop_words_zh.utf8.txt')
     #test_news.set_stopwords('../../data/stop_words_zh.utf8.txt')

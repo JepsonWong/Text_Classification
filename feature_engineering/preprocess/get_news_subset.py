@@ -87,7 +87,9 @@ class get_news_subset(object):
         data_id = []
         if not self.news_train_contents:
             self.generate_content_and_label()
+            print "generate_content_and_label!"
         if not self.characters:
+            print "generate characters!"
             self.generate_characters()
         for i in range(len(self.news_train_contents)):
             data_id.append([self.characters[x] for x in self.news_train_contents[i] if x in self.characters])
