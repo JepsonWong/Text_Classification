@@ -87,6 +87,8 @@ class CNN(object):
             self.acc = tf.reduce_mean(tf.cast(correct_pred, tf.float32))
 
     def train(self, x_train, y_train, x_val, y_val):
+        print "shape:"
+        print x_train.shape, y_train.shape, x_val.shape, y_val.shape
         print("Configuring TensorBoard and Saver...")
         # 配置 Tensorboard，重新训练时，请将tensorboard文件夹删除，不然图会覆盖
         tensorboard_dir = 'tensorboard/cnn'
@@ -137,6 +139,7 @@ class CNN(object):
                 }
 
                 print "begin"
+                print x_train[(start_id):(end_id)].shape, y_train[(start_id):(end_id)].shape
                 session.run(self.optim, feed_dict=feed_dict)  # 运行优化
                 print "end"
 
