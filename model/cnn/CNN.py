@@ -136,6 +136,10 @@ class CNN(object):
                     self.keep_prob: self.config.dropout_keep_prob
                 }
 
+                print "begin"
+                session.run(self.optim, feed_dict=feed_dict)  # 运行优化
+                print "end"
+
                 if total_batch % self.config.save_per_batch == 0:
                     # 每多少轮次将训练结果写入tensorboard scalar
                     s = session.run(merged_summary, feed_dict=feed_dict)
@@ -162,7 +166,6 @@ class CNN(object):
                           + ' Val Loss: {3:>6.2}, Val Acc: {4:>7.2%}, Time: {5} {6}'
                     print(msg.format(total_batch, loss_train, acc_train, loss_val, acc_val, time_dif, improved_str))
 
-                session.run(self.optim, feed_dict=feed_dict)  # 运行优化
                 total_batch += 1
 
                 if total_batch - last_improved > require_improvement:
