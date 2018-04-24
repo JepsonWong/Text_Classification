@@ -219,26 +219,14 @@ class CNN(object):
 
 if __name__ == '__main__':
     train_news = get_news_subset("../../data/THUCNews的一个子集/cnews.train.txt", "utf-8")
+    train_news.set_stopwords('../../data/stop_words_zh.utf8.txt')
+    x_train, y_train = train_news.get_character_ids_and_labels() # 必须在定义val_news之前，因为val_news要用train_news.words和train_news.characters，而这些在这个函数里才生成
+    y_train_pad = kr.utils.to_categorical(y_train, num_classes=10)
     #test_news = get_news_subset("../../data/THUCNews的一个子集/cnews.test.txt", "utf-8", words=train_news.words, characters=train_news.characters)
     val_news = get_news_subset("../../data/THUCNews的一个子集/cnews.val.txt", "utf-8", words=train_news.words, characters=train_news.characters)
-    train_news.set_stopwords('../../data/stop_words_zh.utf8.txt')
     #test_news.set_stopwords('../../data/stop_words_zh.utf8.txt')
     val_news.set_stopwords('../../data/stop_words_zh.utf8.txt')
-
-    x_train, y_train = train_news.get_character_ids_and_labels()
-    y_train_pad = kr.utils.to_categorical(y_train, num_classes=10)
-    '''
-    y_train_pad= []
-    x = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-    for i in y_train:
-        if i + 1 <= 9:
-            y_train_pad.append(x[0:i] + [1] + x[i + 1:])
-        else:
-            y_train_pad.append(x[0:i] + [1])
-    y_train_pad = np.array(y_train_pad)
     
-    x_train = np.array(x_train)
-    '''
     #x_test, y_test = test_news.get_character_ids_and_labels()
     x_val, y_val = val_news.get_character_ids_and_labels()
     y_val_pad = kr.utils.to_categorical(y_val, num_classes=10)
