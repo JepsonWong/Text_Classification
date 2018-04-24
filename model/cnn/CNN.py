@@ -131,7 +131,7 @@ class CNN(object):
             for i in range(epoch_size):
                 print i
                 start_id = i * self.config.batch_size
-                end_id = min((i + 1) * i * self.config.batch_size, data_len)
+                end_id = min((i + 1) * self.config.batch_size, data_len)
                 feed_dict = {
                     self.input_x: x_train[(start_id):(end_id)],
                     self.input_y: y_train[(start_id):(end_id)],
