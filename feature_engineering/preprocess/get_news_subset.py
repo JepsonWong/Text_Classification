@@ -4,7 +4,8 @@ import codecs
 import collections
 import jieba.posseg as pseg
 import os
-import tensorflow.contrib.keras as kr
+# import tensorflow.contrib.keras as kr
+import keras as kr
 
 class get_news_subset(object):
     def __init__(self, news_train_path, encoding, suffix_accepted='txt,TXT', words = {}, characters = {}):
