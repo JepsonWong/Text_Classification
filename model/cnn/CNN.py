@@ -87,8 +87,6 @@ class CNN(object):
             self.acc = tf.reduce_mean(tf.cast(correct_pred, tf.float32))
 
     def train(self, x_train, y_train, x_val, y_val):
-        print "shape:"
-        print x_train.shape, y_train.shape, x_val.shape, y_val.shape
         print("Configuring TensorBoard and Saver...")
         # 配置 Tensorboard，重新训练时，请将tensorboard文件夹删除，不然图会覆盖
         tensorboard_dir = 'tensorboard/cnn'
@@ -129,7 +127,6 @@ class CNN(object):
             epoch_size = len(x_train) / self.config.batch_size
             data_len = len(x_train)
             for i in range(epoch_size):
-                print i
                 start_id = i * self.config.batch_size
                 end_id = min((i + 1) * self.config.batch_size, data_len)
                 feed_dict = {
@@ -138,10 +135,7 @@ class CNN(object):
                     self.keep_prob: self.config.dropout_keep_prob
                 }
 
-                print "begin"
-                print x_train[(start_id):(end_id)].shape, y_train[(start_id):(end_id)].shape
                 session.run(self.optim, feed_dict=feed_dict)  # 运行优化
-                print "end"
 
                 if total_batch % self.config.save_per_batch == 0:
                     # 每多少轮次将训练结果写入tensorboard scalar
