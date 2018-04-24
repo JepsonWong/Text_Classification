@@ -26,6 +26,9 @@ class get_news_subset(object):
         self.words_maxlen = 0
         self.characters_maxlen = 0
 
+        if characters == {}:
+            print "empty!"
+
     def set_stopwords(self, stopwords_path):
         _get_abs_path = lambda xpath: os.path.normpath(os.path.join(os.getcwd(), xpath))
         abs_path = _get_abs_path(stopwords_path)
