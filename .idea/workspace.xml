@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4f41ece-7524-471f-93fc-e2f088fc0755" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/checkpoints/cnn/best_validation.data-00000-of-00001" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/checkpoints/cnn/best_validation.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/checkpoints/cnn/best_validation.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/checkpoints/cnn/checkpoint" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524413499.wangzhongpiaodeMacBook-Pro.local" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524414042.wangzhongpiaodeMacBook-Pro.local" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524414187.wangzhongpiaodeMacBook-Pro.local" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524458877.wangzhongpiaodeMacBook-Pro.local" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/cnn/CNN.py" afterPath="$PROJECT_DIR$/model/cnn/CNN.py" />
     </list>
@@ -81,8 +73,8 @@
       <file leaf-file-name="CNN.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/model/cnn/CNN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="467" column="29" lean-forward="false" selection-start-line="467" selection-start-column="29" selection-end-line="467" selection-end-column="29" />
+            <state relative-caret-position="38">
+              <caret line="425" column="45" lean-forward="false" selection-start-line="425" selection-start-column="45" selection-end-line="425" selection-end-column="45" />
               <folding>
                 <element signature="e#17#40#0" expanded="true" />
               </folding>
@@ -684,8 +676,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/model/cnn/CNN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="467" column="29" lean-forward="false" selection-start-line="467" selection-start-column="29" selection-end-line="467" selection-end-column="29" />
+        <state relative-caret-position="38">
+          <caret line="425" column="45" lean-forward="false" selection-start-line="425" selection-start-column="45" selection-end-line="425" selection-end-column="45" />
           <folding>
             <element signature="e#17#40#0" expanded="true" />
           </folding>

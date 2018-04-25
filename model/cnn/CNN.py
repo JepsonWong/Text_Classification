@@ -323,6 +323,12 @@ class TextCNN(object):
             correct_predictions = tf.equal(self.predictions, tf.argmax(self.input_y, 1))
             self.accuracy = tf.reduce_mean(tf.cast(correct_predictions, "float"), name="accuracy")
 
+    def get_time_dif(self, start_time):
+        """获取已使用时间"""
+        end_time = time.time()
+        time_dif = end_time - start_time
+        return timedelta(seconds=int(round(time_dif)))
+
     def train(self, x_train, y_train, x_val, y_val):
         data_len = len(x_train)
         indices = np.random.permutation(np.arange(data_len))
@@ -398,20 +404,20 @@ class TextCNN(object):
                     self.dropout_keep_prob: self.config.dropout_keep_prob
                 }
 
-                _, current_step = sess.run(train_op, global_step, feed_dict=feed_dict)  # 运行优化
+                _, current_step = sess.run([train_op, global_step], feed_dict=feed_dict)  # 运行优化
 
                 if current_step % self.config.save_per_batch == 0:
                     # 每多少轮次将训练结果写入tensorboard scalar
-                    current_step1, train_summary = sess.run(global_step, train_summary_op, feed_dict=feed_dict)
+                    current_step1, train_summary = sess.run([global_step, train_summary_op], feed_dict=feed_dict)
                     train_summary_writer.add_summary(train_summary, current_step1)
 
                 if current_step % self.config.print_per_batch == 0:
                     # 每多少轮次输出在训练集和验证集上的性能
-                    loss_train, acc_train = sess.run([self.loss, self.acc], feed_dict=feed_dict)
-                    feed_dict[self.keep_prob] = 1.0
+                    loss_train, acc_train = sess.run([self.loss, self.accuracy], feed_dict=feed_dict)
+                    feed_dict[self.dropout_keep_prob] = 1.0
                     feed_dict[self.input_x] = x_val
                     feed_dict[self.input_y] = y_val
-                    loss_val, acc_val, dev_summary, current_step2 = sess.run([self.loss, self.acc, dev_summary_op, global_step], feed_dict=feed_dict)
+                    loss_val, acc_val, dev_summary, current_step2 = sess.run([self.loss, self.accuracy, dev_summary_op, global_step], feed_dict=feed_dict)
                     dev_summary_writer.add_summary(dev_summary, current_step2)
 
                     if acc_val > best_acc_val:
