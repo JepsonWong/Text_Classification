@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4f41ece-7524-471f-93fc-e2f088fc0755" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/checkpoints/cnn/best_validation.data-00000-of-00001" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/checkpoints/cnn/best_validation.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/checkpoints/cnn/best_validation.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/checkpoints/cnn/checkpoint" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524413499.wangzhongpiaodeMacBook-Pro.local" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524414042.wangzhongpiaodeMacBook-Pro.local" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524414187.wangzhongpiaodeMacBook-Pro.local" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524458877.wangzhongpiaodeMacBook-Pro.local" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/cnn/CNN.py" afterPath="$PROJECT_DIR$/model/cnn/CNN.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,8 +81,8 @@
       <file leaf-file-name="CNN.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/model/cnn/CNN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="228" column="4" lean-forward="false" selection-start-line="228" selection-start-column="4" selection-end-line="228" selection-end-column="4" />
+            <state relative-caret-position="398">
+              <caret line="467" column="29" lean-forward="false" selection-start-line="467" selection-start-column="29" selection-end-line="467" selection-end-column="29" />
               <folding>
                 <element signature="e#17#40#0" expanded="true" />
               </folding>
@@ -92,14 +101,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>_input</find>
-      <find>self._input</find>
-      <find>input_</find>
-      <find>batch_size</find>
-      <find>softmiax_w</find>
-      <find>size</find>
-      <find>vocab</find>
-      <find>voca</find>
       <find>maxlen</find>
       <find>content</find>
       <find>__cut1_stop</find>
@@ -109,7 +110,6 @@
       <find>news_train_character_ids</find>
       <find>news_train_contents_words</find>
       <find>vocab_size</find>
-      <find>save_dir</find>
       <find>kr</find>
       <find>variable</find>
       <find>place</find>
@@ -122,6 +122,15 @@
       <find>words_maxlen</find>
       <find>characters_maxlen</find>
       <find>characters</find>
+      <find>session</find>
+      <find>l2_reg_lambda</find>
+      <find>simple_text_cnn</find>
+      <find>save_dir</find>
+      <find>save_path</find>
+      <find>tensorboard_dir</find>
+      <find>flag</find>
+      <find>merged_summary</find>
+      <find>tf.train.Saver</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -214,21 +223,6 @@
               <item name="Text_Classification" type="b2602c69:ProjectViewProjectNode" />
               <item name="Text_Classification" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="cnn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Text_Classification" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Text_Classification" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="cnn" type="462c0819:PsiDirectoryNode" />
-              <item name="checkpoints" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Text_Classification" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Text_Classification" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="cnn" type="462c0819:PsiDirectoryNode" />
-              <item name="checkpoints" type="462c0819:PsiDirectoryNode" />
               <item name="cnn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -468,7 +462,7 @@
         <state relative-caret-position="975">
           <caret line="68" column="80" lean-forward="false" selection-start-line="68" selection-start-column="80" selection-end-line="68" selection-end-column="80" />
           <folding>
-            <element signature="e#152#165#0" expanded="true" />
+            <element signature="e#152#165#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -534,7 +528,7 @@
         <state relative-caret-position="975">
           <caret line="68" column="80" lean-forward="false" selection-start-line="68" selection-start-column="80" selection-end-line="68" selection-end-column="80" />
           <folding>
-            <element signature="e#152#165#0" expanded="true" />
+            <element signature="e#152#165#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -655,7 +649,7 @@
         <state relative-caret-position="165">
           <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="14" />
           <folding>
-            <element signature="e#152#165#0" expanded="true" />
+            <element signature="e#152#165#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -690,8 +684,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/model/cnn/CNN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="228" column="4" lean-forward="false" selection-start-line="228" selection-start-column="4" selection-end-line="228" selection-end-column="4" />
+        <state relative-caret-position="398">
+          <caret line="467" column="29" lean-forward="false" selection-start-line="467" selection-start-column="29" selection-end-line="467" selection-end-column="29" />
           <folding>
             <element signature="e#17#40#0" expanded="true" />
           </folding>
