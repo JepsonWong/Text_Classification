@@ -496,12 +496,12 @@ if __name__ == '__main__':
 
     print('Configuring CNN model...')
 
-    '''
     config = SimpleTextCNN_Config()
     model = SimpleTextCNN(config)
     model.train(x_train, y_train_pad, x_val, y_val_pad)
-    '''
 
+    '''
     config = TextCNN_Config()
     model = TextCNN(config)
     model.train(x_train, y_train_pad, x_val, y_val_pad)
+    '''

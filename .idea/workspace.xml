@@ -72,8 +72,8 @@
       <file leaf-file-name="CNN.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/model/cnn/CNN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="179" column="13" lean-forward="false" selection-start-line="179" selection-start-column="13" selection-end-line="179" selection-end-column="13" />
+            <state relative-caret-position="-6668">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding>
                 <element signature="e#17#40#0" expanded="true" />
               </folding>
@@ -675,8 +675,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/model/cnn/CNN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="179" column="13" lean-forward="false" selection-start-line="179" selection-start-column="13" selection-end-line="179" selection-end-column="13" />
+        <state relative-caret-position="-6668">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
             <element signature="e#17#40#0" expanded="true" />
           </folding>
