@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4f41ece-7524-471f-93fc-e2f088fc0755" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/cnn/CNN.py" afterPath="$PROJECT_DIR$/model/cnn/CNN.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,8 +72,8 @@
       <file leaf-file-name="CNN.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/model/cnn/CNN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="425" column="45" lean-forward="false" selection-start-line="425" selection-start-column="45" selection-end-line="425" selection-end-column="45" />
+            <state relative-caret-position="353">
+              <caret line="179" column="13" lean-forward="false" selection-start-line="179" selection-start-column="13" selection-end-line="179" selection-end-column="13" />
               <folding>
                 <element signature="e#17#40#0" expanded="true" />
               </folding>
@@ -93,8 +92,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>maxlen</find>
-      <find>content</find>
       <find>__cut1_stop</find>
       <find>news_train_words_ids</find>
       <find>contents_words</find>
@@ -114,7 +111,6 @@
       <find>words_maxlen</find>
       <find>characters_maxlen</find>
       <find>characters</find>
-      <find>session</find>
       <find>l2_reg_lambda</find>
       <find>simple_text_cnn</find>
       <find>save_dir</find>
@@ -123,6 +119,9 @@
       <find>flag</find>
       <find>merged_summary</find>
       <find>tf.train.Saver</find>
+      <find>tensorboard/</find>
+      <find>session</find>
+      <find>tf.summary.merge</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -676,8 +675,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/model/cnn/CNN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="425" column="45" lean-forward="false" selection-start-line="425" selection-start-column="45" selection-end-line="425" selection-end-column="45" />
+        <state relative-caret-position="353">
+          <caret line="179" column="13" lean-forward="false" selection-start-line="179" selection-start-column="13" selection-end-line="179" selection-end-column="13" />
           <folding>
             <element signature="e#17#40#0" expanded="true" />
           </folding>

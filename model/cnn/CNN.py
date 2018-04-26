@@ -122,10 +122,10 @@ class SimpleTextCNN(object):
 
         print('Training and evaluating...')
         start_time = time.time()
-        total_batch = 0  # 总批次
+        total_batch = 1  # 总批次
         best_acc_val = 0.0  # 最佳验证集准确率
-        last_improved = 0  # 记录上一次提升批次
-        require_improvement = 1000  # 如果超过1000轮未提升，提前结束训练
+        # last_improved = 0  # 记录上一次提升批次
+        # require_improvement = 1000  # 如果超过1000轮未提升，提前结束训练
 
         flag = False
         for epoch in range(self.config.num_epochs):
@@ -171,13 +171,13 @@ class SimpleTextCNN(object):
 
                 total_batch += 1
 
-                if total_batch - last_improved > require_improvement:
+                # if total_batch - last_improved > require_improvement:
                     # 验证集正确率长期不提升，提前结束训练
-                    print("No optimization for a long time, auto-stopping...")
-                    flag = True
-                    break  # 跳出循环
-            if flag:  # 同上
-                break
+                #    print("No optimization for a long time, auto-stopping...")
+                #    flag = True
+                #    break  # 跳出循环
+            # if flag:  # 同上
+            #    break
 
     def test(self, x_test, y_test):
         print("Loading test data...")
@@ -196,7 +196,6 @@ class SimpleTextCNN(object):
         feed_dict = {}
         feed_dict[self.keep_prob] = 1.0
         feed_dict[self.input_x] = x_test
-        feed_dict[self.input_y] = y_test
         feed_dict[self.input_y] = y_test
         loss_test, acc_test = session.run([self.loss, self.acc], feed_dict=feed_dict)
         msg = 'Test Loss: {0:>6.2}, Test Acc: {1:>7.2%}'
@@ -432,9 +431,43 @@ class TextCNN(object):
                           + ' Val Loss: {3:>6.2}, Val Acc: {4:>7.2%}, Time: {5} {6}'
                     print(msg.format(current_step, loss_train, acc_train, loss_val, acc_val, time_dif, improved_str))
 
-    def test(self, x_train, y_train, x_val, y_val):
-        pass
+    def test(self, x_test, y_test):
+        print("Loading test data...")
+        start_time = time.time()
 
+        # 配置 Saver
+        save_dir = 'checkpoints/text_cnn'
+        save_path = os.path.join(save_dir, 'best_validation')  # 最佳验证结果保存路径
+
+        session = tf.Session()
+        session.run(tf.global_variables_initializer())
+        saver = tf.train.Saver()
+        saver.restore(sess=session, save_path=save_path)  # 读取保存的模型
+
+        print('Testing...')
+        feed_dict = {}
+        feed_dict[self.dropout_keep_prob] = 1.0
+        feed_dict[self.input_x] = x_test
+        feed_dict[self.input_y] = y_test
+        feed_dict[self.input_y] = y_test
+        loss_test, acc_test = session.run([self.loss, self.accuracy], feed_dict=feed_dict)
+        msg = 'Test Loss: {0:>6.2}, Test Acc: {1:>7.2%}'
+        print(msg.format(loss_test, acc_test))
+
+        y_test_cls = np.argmax(y_test, 1)
+        y_pred_cls = session.run(self.predictions, feed_dict=feed_dict)  # 保存预测结果
+
+        # 评估
+        print("Precision, Recall and F1-Score...")
+        print(metrics.classification_report(y_test_cls, y_pred_cls))
+
+        # 混淆矩阵
+        print("Confusion Matrix...")
+        cm = metrics.confusion_matrix(y_test_cls, y_pred_cls)
+        print(cm)
+
+        time_dif = self.get_time_dif(start_time)
+        print("Time usage:", time_dif)
 
 if __name__ == '__main__':
     train_news = get_news_subset("../../data/THUCNews的一个子集/cnews.train.txt", "utf-8")
