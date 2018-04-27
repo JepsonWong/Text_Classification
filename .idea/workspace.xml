@@ -2,7 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4f41ece-7524-471f-93fc-e2f088fc0755" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/cnn/CNN.py" afterPath="$PROJECT_DIR$/model/cnn/CNN.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/THUCNews.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/word_vectors/polyglot/polyglot-zh.pkl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/word_vectors/polyglot/polyglot-zh_char.pkl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/word_vectors/word2vec/300/zh.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/word_vectors/word2vec/300/zh/zh.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/word_vectors/word2vec/300/zh/zh.bin.syn0.npy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/word_vectors/word2vec/300/zh/zh.bin.syn1neg.npy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/word_vectors/word2vec/300/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/word_vectors/word2vec/300/zh/zh.tsv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feature_engineering/feature_construction/word_embedding/pretrained_word_embedding.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524453318.jas" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524453820.jas" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524454136.jas" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524455818.jas" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524457701.jas" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524457991.jas" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524458534.jas" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524464145.jas" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524536462.jas-Node4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524536907.jas-Node4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524537504.jas-Node4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524537618.jas-Node4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524537960.jas-Node4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524538704.jas-Node4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524539290.jas-Node4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524539627.jas-Node4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524541982.jas-Node4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524542349.jas-Node4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524545963.jas-Node4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/cnn/events.out.tfevents.1524546137.jas-Node4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/simple_text_cnn/events.out.tfevents.1524707818.jas-Node4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/text_cnn/dev/events.out.tfevents.1524677150.jas-Node4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/text_cnn/dev/events.out.tfevents.1524677357.jas-Node4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/text_cnn/dev/events.out.tfevents.1524706344.jas-Node4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/text_cnn/train/events.out.tfevents.1524677149.jas-Node4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/text_cnn/train/events.out.tfevents.1524677356.jas-Node4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/cnn/tensorboard/text_cnn/train/events.out.tfevents.1524706344.jas-Node4" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_engineering/feature_construction/character2vec/__init__.py" afterPath="$PROJECT_DIR$/feature_engineering/feature_construction/character_embedding/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_engineering/feature_construction/word2vec/__init__.py" afterPath="$PROJECT_DIR$/feature_engineering/feature_construction/word_embedding/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/feature_engineering/feature_construction/word2vec/generate_data.py" afterPath="$PROJECT_DIR$/feature_engineering/feature_construction/word_embedding/generate_data.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,6 +58,7 @@
     <SUITE FILE_PATH="coverage/Text_Classification$CNN.coverage" NAME="CNN Coverage Results" MODIFIED="1524458828100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model/cnn" />
     <SUITE FILE_PATH="coverage/Text_Classification$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1524415825246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/feature_engineering/feature_construction/character2vec" />
     <SUITE FILE_PATH="coverage/Text_Classification$get_news_subset.coverage" NAME="get_news_subset Coverage Results" MODIFIED="1524411289038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/feature_engineering/preprocess" />
+    <SUITE FILE_PATH="coverage/Text_Classification$pretrained_word_embedding.coverage" NAME="pretrained_word_embedding Coverage Results" MODIFIED="1524797278467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/feature_engineering/feature_construction/word_embedding" />
     <SUITE FILE_PATH="coverage/Text_Classification$1.coverage" NAME="1 Coverage Results" MODIFIED="1524454109201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/feature_engineering/preprocess" />
   </component>
   <component name="FavoritesManager">
@@ -24,9 +67,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="generate_data.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feature_engineering/feature_construction/word2vec/generate_data.py">
+        <entry file="file://$PROJECT_DIR$/feature_engineering/feature_construction/word_embedding/generate_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-796">
               <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
                 <element signature="e#17#44#0" expanded="true" />
@@ -35,11 +78,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="pretrained_word_embedding.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/feature_engineering/feature_construction/word_embedding/pretrained_word_embedding.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="LSTM.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model/rnn/LSTM.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="94" column="33" lean-forward="true" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
+            <state relative-caret-position="1410">
+              <caret line="94" column="33" lean-forward="false" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -60,20 +113,18 @@
       <file leaf-file-name="get_news_subset.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/feature_engineering/preprocess/get_news_subset.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="10" column="82" lean-forward="false" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="82" />
-              <folding>
-                <element signature="e#17#30#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="15">
+              <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CNN.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CNN.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model/cnn/CNN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6668">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="204">
+              <caret line="33" column="28" lean-forward="false" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
               <folding>
                 <element signature="e#17#40#0" expanded="true" />
               </folding>
@@ -92,9 +143,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>__cut1_stop</find>
-      <find>news_train_words_ids</find>
-      <find>contents_words</find>
       <find>news_train_word_ids</find>
       <find>news_train_character_ids</find>
       <find>news_train_contents_words</find>
@@ -122,6 +170,9 @@
       <find>tensorboard/</find>
       <find>session</find>
       <find>tf.summary.merge</find>
+      <find>collections</find>
+      <find>get_time_dif</find>
+      <find>tensorboard</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -146,6 +197,8 @@
         <option value="$PROJECT_DIR$/feature_engineering/preprocess/1.py" />
         <option value="$PROJECT_DIR$/feature_engineering/preprocess/get_news_subset.py" />
         <option value="$PROJECT_DIR$/model/cnn/CNN.py" />
+        <option value="$PROJECT_DIR$/feature_engineering/feature_construction/word2vec/pretrained_word_embedding.py" />
+        <option value="$PROJECT_DIR$/feature_engineering/feature_construction/word_embedding/pretrained_word_embedding.py" />
       </list>
     </option>
   </component>
@@ -197,7 +250,47 @@
             <path>
               <item name="Text_Classification" type="b2602c69:ProjectViewProjectNode" />
               <item name="Text_Classification" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="word_vectors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Text_Classification" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Text_Classification" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="word_vectors" type="462c0819:PsiDirectoryNode" />
+              <item name="polyglot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Text_Classification" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Text_Classification" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="word_vectors" type="462c0819:PsiDirectoryNode" />
+              <item name="word2vec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Text_Classification" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Text_Classification" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="word_vectors" type="462c0819:PsiDirectoryNode" />
+              <item name="word2vec" type="462c0819:PsiDirectoryNode" />
+              <item name="300" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Text_Classification" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Text_Classification" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="复旦大学中文语料库" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Text_Classification" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Text_Classification" type="462c0819:PsiDirectoryNode" />
               <item name="feature_engineering" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Text_Classification" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Text_Classification" type="462c0819:PsiDirectoryNode" />
+              <item name="feature_engineering" type="462c0819:PsiDirectoryNode" />
+              <item name="feature_construction" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Text_Classification" type="b2602c69:ProjectViewProjectNode" />
@@ -220,7 +313,8 @@
               <item name="Text_Classification" type="b2602c69:ProjectViewProjectNode" />
               <item name="Text_Classification" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="rnn" type="462c0819:PsiDirectoryNode" />
+              <item name="cnn" type="462c0819:PsiDirectoryNode" />
+              <item name="checkpoints" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -246,7 +340,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.CNN">
+  <component name="RunManager" selected="Python.pretrained_word_embedding">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -301,24 +395,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="generate_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/feature_engineering/feature_construction/word2vec" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Text_Classification" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/feature_engineering/feature_construction/word2vec/generate_data.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="get_news_subset" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -337,20 +413,38 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="pretrained_word_embedding" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/feature_engineering/feature_construction/word_embedding" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Text_Classification" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/feature_engineering/feature_construction/word_embedding/pretrained_word_embedding.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.generate_data" />
-      <item index="1" class="java.lang.String" itemvalue="Python.get_news_subset" />
-      <item index="2" class="java.lang.String" itemvalue="Python.CNN" />
-      <item index="3" class="java.lang.String" itemvalue="Python.__init__" />
-      <item index="4" class="java.lang.String" itemvalue="Python.1" />
+      <item index="0" class="java.lang.String" itemvalue="Python.get_news_subset" />
+      <item index="1" class="java.lang.String" itemvalue="Python.CNN" />
+      <item index="2" class="java.lang.String" itemvalue="Python.__init__" />
+      <item index="3" class="java.lang.String" itemvalue="Python.1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.pretrained_word_embedding" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.CNN" />
-        <item index="1" class="java.lang.String" itemvalue="Python.1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.__init__" />
-        <item index="3" class="java.lang.String" itemvalue="Python.get_news_subset" />
-        <item index="4" class="java.lang.String" itemvalue="Python.generate_data" />
+        <item index="0" class="java.lang.String" itemvalue="Python.pretrained_word_embedding" />
+        <item index="1" class="java.lang.String" itemvalue="Python.CNN" />
+        <item index="2" class="java.lang.String" itemvalue="Python.1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.__init__" />
+        <item index="4" class="java.lang.String" itemvalue="Python.get_news_subset" />
       </list>
     </recent_temporary>
   </component>
@@ -380,24 +474,24 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26824033" sideWeight="0.49328858" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.49713877" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.50572246" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2962515" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.49427754" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.49427754" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2962515" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.49427754" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26466382" sideWeight="0.49328858" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25751072" sideWeight="0.5067114" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.49427754" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25751072" sideWeight="0.5067114" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -438,7 +532,53 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/feature_engineering/feature_construction/word2vec/generate_data.py">
+    <entry file="file://$PROJECT_DIR$/feature_engineering/feature_construction/word_embedding/generate_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#17#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature_engineering/preprocess/get_corpus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="72" lean-forward="false" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
+          <folding>
+            <element signature="e#18#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/rnn/LSTM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="94" column="33" lean-forward="false" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature_engineering/preprocess/get_news_subset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/cnn/CNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4725">
+          <caret line="324" column="20" lean-forward="false" selection-start-line="324" selection-start-column="8" selection-end-line="324" selection-end-column="20" />
+          <folding>
+            <element signature="e#17#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature_engineering/feature_construction/word_embedding/generate_data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -452,9 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
           <caret line="68" column="80" lean-forward="false" selection-start-line="68" selection-start-column="80" selection-end-line="68" selection-end-column="80" />
-          <folding>
-            <element signature="e#152#165#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -472,9 +609,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2940">
           <caret line="200" column="28" lean-forward="true" selection-start-line="200" selection-start-column="28" selection-end-line="200" selection-end-column="28" />
-          <folding>
-            <element signature="e#17#30#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -496,7 +631,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/feature_engineering/feature_construction/word2vec/generate_data.py">
+    <entry file="file://$PROJECT_DIR$/feature_engineering/feature_construction/word_embedding/generate_data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -518,9 +653,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
           <caret line="68" column="80" lean-forward="false" selection-start-line="68" selection-start-column="80" selection-end-line="68" selection-end-column="80" />
-          <folding>
-            <element signature="e#152#165#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -548,9 +680,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-          <folding>
-            <element signature="e#17#30#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -561,7 +691,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/feature_engineering/feature_construction/word2vec/__init__.py">
+    <entry file="file://$PROJECT_DIR$/feature_engineering/feature_construction/word_embedding/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
@@ -596,7 +726,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/feature_engineering/feature_construction/character2vec/__init__.py">
+    <entry file="file://$PROJECT_DIR$/feature_engineering/feature_construction/character_embedding/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
@@ -617,49 +747,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/feature_engineering/feature_construction/word2vec/generate_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#17#44#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feature_engineering/preprocess/1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/feature_engineering/preprocess/1.py" />
     <entry file="file://$PROJECT_DIR$/../Tensor-Flow-Examples/Recurrent_Neural_Network/LSTM/LSTM.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="14" />
-          <folding>
-            <element signature="e#152#165#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/model/rnn/LSTM.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="94" column="33" lean-forward="true" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
+        <state relative-caret-position="1410">
+          <caret line="94" column="33" lean-forward="false" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/cnn/CNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="33" column="28" lean-forward="false" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+          <folding>
+            <element signature="e#17#40#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/feature_engineering/preprocess/get_news_subset.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="10" column="82" lean-forward="false" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="82" />
-          <folding>
-            <element signature="e#17#30#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -673,13 +791,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/cnn/CNN.py">
+    <entry file="file://$PROJECT_DIR$/feature_engineering/feature_construction/word_embedding/generate_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6668">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="-796">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
-            <element signature="e#17#40#0" expanded="true" />
+            <element signature="e#17#44#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature_engineering/feature_construction/word_embedding/pretrained_word_embedding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
