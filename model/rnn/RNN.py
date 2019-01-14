@@ -93,3 +93,12 @@ class LSTM(object):
                                                                   [tf.ones([self.batch_size * self.num_steps], dtype=tf.float32)])
         self._cost = tf.reduce_sum(loss) / self.batch_size
         self._final_state = state
+        if not is_training:
+            return
+
+    def train(self, x_train, y_train, x_val, y_val):
+        pass
+
+    def test(self, x_test, y_test):
+        pass
+
